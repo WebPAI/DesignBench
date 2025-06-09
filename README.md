@@ -1,4 +1,4 @@
-# DesignBench: A Multi-framework Multi-task Benchmark for Front-end Code Generation
+# DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation
 
 Quick links:  [Prompts](./code/prompt/all_prompt.py) | [Annotation Guideline](./assets/Guideline.md) | [Quick Start](./code/demo.ipynb) | [Dataset Download](https://drive.google.com/drive/folders/1gCeg4LqO7VsOSpB70iMnKbNR8gfzUot_) 
 
@@ -254,3 +254,19 @@ Some good and bad examples.
 - Example5
 
 ![Repair example5](./assets/repair5.png)
+
+
+
+## 🔥 Citation
+
+```
+@misc{xiao2025designbench,
+      title={DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation}, 
+      author={Jingyu Xiao and Ming Wang and Man Ho Lam and Yuxuan Wan and Junliang Liu and Yintong Huo and Michael R. Lyu},
+      year={2025},
+      eprint={2506.06251},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2506.06251}, 
+}
+```
