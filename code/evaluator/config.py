@@ -1,7 +1,7 @@
 from enum import Enum
 
 
-DesignBench_Path = "/Users/whalexiao/Downloads/pythonProject/UIEdit/DesignBench/"
+DesignBench_Path = "/Home/User/DesignBench/"
 
 class Framework(str, Enum):
     VANILLA = "vanilla"

@@ -37,6 +37,9 @@ models = [
 frame_works = ["react", "vue", "angular", "vanilla"] # the framework used to actually implement the webpage.
 implemented_frame_works = ["react", "vue", "angular", "vanilla"] # the framework used by the MLLMs.
 
+# eval
+evaluate_generation(models=models, frame_works=frame_works, implemented_frameworks=implemented_frame_works)
+
 # collect the compile information
 for frame_work in frame_works:
     if frame_work == "vanilla":
@@ -44,7 +47,6 @@ for frame_work in frame_works:
     for implemented in implemented_frame_works:
         collect_compile_information(task_name=Task.GENERATION, frame_work=frame_work, implemented_framework_or_mode=implemented)
 
-evaluate_generation(models=models, frame_works=frame_works, implemented_frameworks=implemented_frame_works)
 
 #%%
 
@@ -64,17 +66,17 @@ models = [
 
 frame_works = ["react", "vue", "angular", "vanilla"]  # the framework used to actually implement the webpage.
 modes = ["both", "code", "image"] # code, image, both
+
+# eval
+evaluate_edit(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=False)
+evaluate_edit(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=True)
+
 # collect the compile information
 for frame_work in frame_works:
     if frame_work == "vanilla":
         continue
     for mode in modes:
         collect_compile_information(task_name=Task.EDIT, frame_work=frame_work, implemented_framework_or_mode=mode)
-
-evaluate_generation(models=models, frame_works=frame_works, implemented_frameworks=implemented_frame_works)
-evaluate_edit(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=False)
-evaluate_edit(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=True)
-
 
 #%%
 
@@ -94,12 +96,14 @@ models = [
 
 frame_works = ["react", "vue", "angular", "vanilla"]  # the framework used to actually implement the webpage.
 modes = ["both", "code", "image"]  # code, image, both
+
+# eval
+evaluate_repair(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=False)
+evaluate_repair(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=True)
+
 # collect the compile information
 for frame_work in frame_works:
     if frame_work == "vanilla":
         continue
     for mode in modes:
         collect_compile_information(task_name=Task.REPAIR, frame_work=frame_work, implemented_framework_or_mode=mode)
-evaluate_repair(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=False)
-evaluate_repair(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=True)
-

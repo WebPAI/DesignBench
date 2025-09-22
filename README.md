@@ -10,16 +10,27 @@ Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabiliti
 ![overview](./assets/task.png)
 
 
-
 ## 🛠️ Installation
+
+
 ```bash
 git clone https://github.com/WebPAI/DesignBench.git
 cd DesignBench
-pip install -r requirements.txt
 mkdir data
+conda env create -f designbench.yml
+conda activate designbench
+```
+Download the [dataset](https://drive.google.com/drive/folders/1gCeg4LqO7VsOSpB70iMnKbNR8gfzUot_) and put it in the ''data'' folder.
+
+install npm, nvm, google chrome, firefox and single-file-cli
+```bash
+sudo apt install npm
+nvm install v20.19
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+npm install "single-file-cli"
 ```
 
-Download the [dataset](https://drive.google.com/drive/folders/1gCeg4LqO7VsOSpB70iMnKbNR8gfzUot_) and put it in the ''data'' folder.
 
 ## 🔐 API Key Setup
 Before running, create a `.env` file in the root directory and set the following API keys:
@@ -95,14 +106,19 @@ DesignBench_Path = "Your_DesignBench_Path"
 
 During evaluation, the code content in React/Vue/Angular Project will be replaced by the MLLMs' generated code.
 
+
 ```bash
 cd web/my-react-app/
+npm install
 npm run dev
 
 cd web/my-vue-app/
+npm install
 npm run dev
 
 cd web/my-angular-app/
+npm install -g @angular/cli
+npm install
 ng serve
 ```
 
@@ -126,6 +142,9 @@ models = [
 frame_works = ["react", "vue", "angular", "vanilla"] # the framework used to actually implement the webpage.
 implemented_frame_works = ["react", "vue", "angular", "vanilla"] # the framework used by the MLLMs.
 
+# eval
+evaluate_generation(models=models, frame_works=frame_works, implemented_frameworks=implemented_frame_works)
+
 # collect the compile information
 for frame_work in frame_works:
     if frame_work == "vanilla":
@@ -133,7 +152,6 @@ for frame_work in frame_works:
     for implemented in implemented_frameworks:
         collect_compile_information(task_name=Task.GENERATION, frame_work=frame_work, implemented_framework_or_mode=implemented)
 
-evaluate_generation(models=models, frame_works=frame_works, implemented_frameworks=implemented_frame_works)
 ```
 
 
@@ -156,16 +174,17 @@ models = [
 
 frame_works = ["react", "vue", "angular", "vanilla"]  # the framework used to actually implement the webpage.
 modes = ["both", "code", "image"] # code, image, both
+
+# eval
+evaluate_edit(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=False)
+evaluate_edit(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=True)
+
 # collect the compile information
 for frame_work in frame_works:
     if frame_work == "vanilla":
         continue
     for mode in modes:
         collect_compile_information(task_name=Task.EDIT, frame_work=frame_work, implemented_framework_or_mode=mode)
-
-evaluate_generation(models=models, frame_works=frame_works, implemented_frameworks=implemented_frame_works)
-evaluate_edit(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=False)
-evaluate_edit(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=True)
 ```
 
 
@@ -188,14 +207,17 @@ models = [
 
 frame_works = ["react", "vue", "angular", "vanilla"]  # the framework used to actually implement the webpage.
 modes = ["both", "code", "image"]  # code, image, both
+
+# eval
+evaluate_repair(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=False)
+evaluate_repair(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=True)
+
 # collect the compile information
 for frame_work in frame_works:
     if frame_work == "vanilla":
         continue
     for mode in modes:
         collect_compile_information(task_name=Task.REPAIR, frame_work=frame_work, implemented_framework_or_mode=mode)
-evaluate_repair(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=False)
-evaluate_repair(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=True)
 ```
 
 

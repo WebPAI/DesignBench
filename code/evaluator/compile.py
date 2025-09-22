@@ -115,11 +115,11 @@ def collect_compile_information(task_name, frame_work, implemented_framework_or_
 
     if task_name == Task.GENERATION:
         json_path = f"./res/DesignGeneration/{frame_work}_{implemented_framework_or_mode}.json"
-        base_folder = DesignBench_Path + f"data/DesignRepair/GenerationResults/{frame_work}-{implemented_framework_or_mode}"
+        base_folder = DesignBench_Path + f"data/DesignGeneration/GenerationResults/{frame_work}-{implemented_framework_or_mode}"
 
     if task_name == Task.EDIT:
         json_path = f"./res/DesignEdit/{frame_work}_{implemented_framework_or_mode}.json"
-        base_folder = DesignBench_Path + f"data/DesignRepair/EditResults/{frame_work}-{frame_work}"
+        base_folder = DesignBench_Path + f"data/DesignEdit/EditResults/{frame_work}-{frame_work}"
 
 
     if task_name == Task.REPAIR:

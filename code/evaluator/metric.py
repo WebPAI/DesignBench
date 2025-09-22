@@ -6,7 +6,7 @@ from torch.nn.functional import cosine_similarity
 import clip
 import numpy as np
 from skimage.metrics import structural_similarity as ssim
-from metrci_utils import *
+from metric_utils import *
 import base64
 import retry
 from openai import OpenAI

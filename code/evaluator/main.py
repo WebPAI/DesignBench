@@ -228,7 +228,7 @@ def get_edit_metric(web_name, model_name, framework, mode, llm_judge_flag):
     with open(config_file, "r") as fs:
         config = json.loads(fs.read())
 
-        original_img_path = prediction_path + f"{web_name}/{config['src_id']}.png"
+        original_img_path = prediction_path + f"{framework}/{web_name}/{config['src_id']}.png"
         reference_img_path = prediction_path + f"{framework}/{web_name}/{config['dst_id']}.png"
 
         # src_code = remove_comments(config["src_code"])
@@ -420,7 +420,7 @@ if __name__ == "__main__":
     # modes = ["both", "code", "image"]
     modes = ["code"]
 
-    # evaluate_edit(models=models, frame_works=frame_works, modes=modes)
+    evaluate_edit(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=False)
     # evaluate_repair(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=False)
     evaluate_repair(models=models, frame_works=frame_works, modes=modes, llm_judge_flag=True)
 
