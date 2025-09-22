@@ -27,6 +27,8 @@ class Mode(str, Enum):
 
 key_path = DesignBench_Path + "code/prompting/key.json"
 
+firefox_path = DesignBench_Path + "code/evaluator/geckodriver"
+
 folder_dic = {
     Task.GENERATION: DesignBench_Path + "data/DesignGeneration/",
     Task.EDIT: DesignBench_Path + "data/DesignEdit/",

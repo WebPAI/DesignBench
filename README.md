@@ -12,7 +12,7 @@ Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabiliti
 
 ## 🛠️ Installation
 
-
+- Config desinbench environment
 ```bash
 git clone https://github.com/WebPAI/DesignBench.git
 cd DesignBench
@@ -22,7 +22,8 @@ conda activate designbench
 ```
 Download the [dataset](https://drive.google.com/drive/folders/1gCeg4LqO7VsOSpB70iMnKbNR8gfzUot_) and put it in the ''data'' folder.
 
-install npm, nvm, google chrome, firefox and single-file-cli
+- Install npm, nvm, google chrome, firefox and single-file-cli
+
 ```bash
 sudo apt install npm
 nvm install v20.19
@@ -30,7 +31,15 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install ./google-chrome-stable_current_amd64.deb
 npm install "single-file-cli"
 ```
+- Install firefox
 
+Download firefox driver from https://github.com/mozilla/geckodriver/releases based on your operation system.
+move the driver in the folder "code/evaluator"
+
+- Replace the path in ```config.py``` with your own path:
+```python
+DesignBench_Path = "/Home/User/DesignBench/"
+```
 
 ## 🔐 API Key Setup
 Before running, create a `.env` file in the root directory and set the following API keys:
@@ -42,6 +51,19 @@ QWEN_API_KEY="<YOUR_QWEN_API_KEY>"
 ANTHROPIC_API_KEY="<YOUR_ANTHROPIC_API_KEY>"
 MISTRAL_API_KEY="<YOUR_MISTRAL_API_KEY>"
 ```
+
+Replace the ```code/prompt/key.json``` with your key:
+```bash
+{
+  "gpt": "Your_GPT_Key",
+  "claude": "Your_Claude_Key",
+  "gemini": "Your_Gemini_Key",
+  "qwen":"Your_Qwen_Key",
+  "llama": "Your_LLama_Key",
+  "mistral": "Your_Mistral_Key"
+}
+```
+
 
 ## 🧩 Task & Framework Overview
 

@@ -1,0 +1,8 @@
+{
+  "gpt": "Your_GPT_Key",
+  "claude": "Your_Claude_Key",
+  "gemini": "Your_Gemini_Key",
+  "qwen":"Your_Qwen_Key",
+  "llama": "Your_LLama_Key",
+  "mistral": "Your_Mistral_Key"
+}

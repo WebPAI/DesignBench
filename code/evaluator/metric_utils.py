@@ -23,7 +23,8 @@ class WebDriver:
         self.driver = self.create_driver()
 
     def create_driver(self):
-        service = Service()
+        # service = Service()
+        service = Service(executable_path=firefox_path)
         options = Options()
         if self.headless:
             options.add_argument("-headless")
