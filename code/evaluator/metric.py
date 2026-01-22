@@ -17,8 +17,6 @@ model, preprocess = clip.load("ViT-B/32", device=device)
 
 def diff_files(file1_path, file2_path):
     """
-    比较两个文件并输出差异，包括对应原始文件中的行号
-
     Args:
         file1_path: 第一个文件的路径
         file2_path: 第二个文件的路径

@@ -143,6 +143,14 @@ npm install -g @angular/cli
 npm install
 ng serve
 ```
+3. Evaluation Setup
+
+```bash
+cd code/evaluator
+npm install # install the dependency for parsing the react/vue/angular/vanilla programs into AST tree.
+mkdir res # creat the res file to store the evaluation results
+mkdir tmp # creat the tmp file to store the temporary files
+```
 
 4. Evaluation for Generation Task.
 
@@ -177,7 +185,7 @@ for frame_work in frame_works:
 ```
 
 
-4. Evaluation for Edit Task.
+5. Evaluation for Edit Task.
 
 ```py
 from evaluator.main import *
@@ -210,7 +218,7 @@ for frame_work in frame_works:
 ```
 
 
-5. Evaluation for Repair Task.
+6. Evaluation for Repair Task.
 
 ```py
 from evaluator.main import *
