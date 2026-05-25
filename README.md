@@ -1,6 +1,6 @@
 # DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation
 
-Quick links: [Paper](https://arxiv.org/abs/2506.06251) ｜[Prompts](./code/prompt/all_prompt.py) | [Annotation Guideline](./assets/Guideline.md) | [Quick Start](./code/demo.ipynb) | [Dataset Download](https://drive.google.com/drive/folders/1gCeg4LqO7VsOSpB70iMnKbNR8gfzUot_) 
+Quick links: [Paper](https://arxiv.org/abs/2506.06251) ｜[Prompts](./code/prompt/all_prompt.py) | [Annotation Guideline](./assets/Guideline.md) | [Quick Start](./code/demo.ipynb) | [Huggingface_Dataset](https://huggingface.co/datasets/whale99/DesignBench) | [Dataset Download](https://drive.google.com/drive/folders/1gCeg4LqO7VsOSpB70iMnKbNR8gfzUot_) 
 
 
 
