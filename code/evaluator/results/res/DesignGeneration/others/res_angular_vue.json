@@ -1,0 +1,4502 @@
+{
+    "claude-3-7-sonnet-20250219": {
+        "1": {
+            "MAE": 67.6334607048838,
+            "clip_similarity": 0.94287109375,
+            "structure_similarity": 0.6676886319326273,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 14.531944274902344,
+            "clip_similarity": 0.8505859375,
+            "structure_similarity": 0.8899567077072995,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 63.96250052715924,
+            "clip_similarity": 0.802734375,
+            "structure_similarity": 0.4999998726841725,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 30.073446757931958,
+            "clip_similarity": 0.94189453125,
+            "structure_similarity": 0.6996071263397882,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 30.41978760741407,
+            "clip_similarity": 0.9453125,
+            "structure_similarity": 0.6956475197008769,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 40.63919088723776,
+            "clip_similarity": 0.8095703125,
+            "structure_similarity": 0.7313087206253338,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 28.195008905440414,
+            "clip_similarity": 0.95263671875,
+            "structure_similarity": 0.7471452688782865,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 27.514344928185093,
+            "clip_similarity": 0.91455078125,
+            "structure_similarity": 0.7761699232199775,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 75.14629153481013,
+            "clip_similarity": 0.87255859375,
+            "structure_similarity": 0.8509301998629905,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 69.48758138561705,
+            "clip_similarity": 0.9111328125,
+            "structure_similarity": 0.8715724243066145,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 124.18937683105469,
+            "clip_similarity": 0.62255859375,
+            "structure_similarity": 0.37801340837379704,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 78.91839744574119,
+            "clip_similarity": 0.90673828125,
+            "structure_similarity": 0.7179066551154376,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 25.887476603190105,
+            "clip_similarity": 0.9697265625,
+            "structure_similarity": 0.8858547790081222,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 82.4081360220212,
+            "clip_similarity": 0.7724609375,
+            "structure_similarity": 0.7648720649170532,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 17.26248854845277,
+            "clip_similarity": 0.85595703125,
+            "structure_similarity": 0.7508634599014664,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 10.305592854817709,
+            "clip_similarity": 0.85205078125,
+            "structure_similarity": 0.9019845741616984,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 71.93150398662551,
+            "clip_similarity": 0.68408203125,
+            "structure_similarity": 0.12786328447676013,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 39.573619991522904,
+            "clip_similarity": 0.8173828125,
+            "structure_similarity": 0.0813084833158878,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 30.33785010373444,
+            "clip_similarity": 0.849609375,
+            "structure_similarity": 0.07055400355913927,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 75.90088069482601,
+            "clip_similarity": 0.85302734375,
+            "structure_similarity": 0.8121730637917648,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 65.02148134689922,
+            "clip_similarity": 0.9150390625,
+            "structure_similarity": 0.6998423983651915,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 69.62847066097122,
+            "clip_similarity": 0.90673828125,
+            "structure_similarity": 0.7052677426961774,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 60.55596928057866,
+            "clip_similarity": 0.87158203125,
+            "structure_similarity": 0.7058009962496984,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 3.5214258829752603,
+            "clip_similarity": 0.9326171875,
+            "structure_similarity": 0.9152712842593439,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 75.19674122973657,
+            "clip_similarity": 0.810546875,
+            "structure_similarity": 0.6955844237911463,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 15.454294713865837,
+            "clip_similarity": 0.79541015625,
+            "structure_similarity": 0.8292853790077721,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 37.5286025447811,
+            "clip_similarity": 0.93896484375,
+            "structure_similarity": 0.7063196728502238,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 79.10276458673748,
+            "clip_similarity": 0.515625,
+            "structure_similarity": 0.66295590179942,
+            "compile_error": "blank"
+        },
+        "29": {
+            "MAE": 25.880787551897985,
+            "clip_similarity": 0.91357421875,
+            "structure_similarity": 0.7519060142809099,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 41.14429543963254,
+            "clip_similarity": 0.8828125,
+            "structure_similarity": 0.8385696653597355,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 19.34355747405966,
+            "clip_similarity": 0.8994140625,
+            "structure_similarity": 0.8075999217384169,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 34.604282272196265,
+            "clip_similarity": 0.92333984375,
+            "structure_similarity": 0.7490884982673939,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 53.331048089104726,
+            "clip_similarity": 0.859375,
+            "structure_similarity": 0.7383727769185878,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 51.897368505658434,
+            "clip_similarity": 0.92822265625,
+            "structure_similarity": 0.7912477587694119,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 53.67694810626338,
+            "clip_similarity": 0.845703125,
+            "structure_similarity": 0.6918586242326237,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 13.668429056803385,
+            "clip_similarity": 0.91650390625,
+            "structure_similarity": 0.8376402758707318,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 22.63766140407986,
+            "clip_similarity": 0.83447265625,
+            "structure_similarity": 0.9525237530627946,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 31.610455137310606,
+            "clip_similarity": 0.92578125,
+            "structure_similarity": 0.8157076661879156,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 32.1315822982387,
+            "clip_similarity": 0.9228515625,
+            "structure_similarity": 0.8006586610227364,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 80.56207230839416,
+            "clip_similarity": 0.9345703125,
+            "structure_similarity": 0.8092971640512964,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 26.22926515430583,
+            "clip_similarity": 0.8544921875,
+            "structure_similarity": 0.708527025917504,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 90.99018761510129,
+            "clip_similarity": 0.89990234375,
+            "structure_similarity": 0.7994241177593053,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 27.083884385665527,
+            "clip_similarity": 0.9375,
+            "structure_similarity": 0.6873285599013433,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 58.891226410687594,
+            "clip_similarity": 0.916015625,
+            "structure_similarity": 0.6667042086867695,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 31.05042957124256,
+            "clip_similarity": 0.9033203125,
+            "structure_similarity": 0.7715234623212691,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 23.110926310221355,
+            "clip_similarity": 0.90234375,
+            "structure_similarity": 0.8145319896150063,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 180.4889250898783,
+            "clip_similarity": 0.412353515625,
+            "structure_similarity": 0.10701525608040785,
+            "compile_error": "blank"
+        },
+        "48": {
+            "MAE": 51.815069598082594,
+            "clip_similarity": 0.9384765625,
+            "structure_similarity": 0.8194361168893491,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 58.74527070473251,
+            "clip_similarity": 0.71337890625,
+            "structure_similarity": 0.5840494453237149,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 22.02253890174897,
+            "clip_similarity": 0.93310546875,
+            "structure_similarity": 0.769310262532079,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 18.863483834773938,
+            "clip_similarity": 0.91162109375,
+            "structure_similarity": 0.8748823644851644,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 33.51418908369022,
+            "clip_similarity": 0.818359375,
+            "structure_similarity": 0.03538291254027516,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 45.63601642765411,
+            "clip_similarity": 0.88525390625,
+            "structure_similarity": 0.8004511485747423,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 43.23215853230337,
+            "clip_similarity": 0.87060546875,
+            "structure_similarity": 0.9089292261993448,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 48.96557170043498,
+            "clip_similarity": 0.8251953125,
+            "structure_similarity": 0.7395651128069953,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 8.256507873535156,
+            "clip_similarity": 0.814453125,
+            "structure_similarity": 0.9355515666082325,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 55.57711948281671,
+            "clip_similarity": 0.91943359375,
+            "structure_similarity": 0.8001036546735019,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 38.2344244190044,
+            "clip_similarity": 0.89794921875,
+            "structure_similarity": 0.8529842707905534,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 62.069356118036836,
+            "clip_similarity": 0.85009765625,
+            "structure_similarity": 0.8145740610641631,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 29.455551147460938,
+            "clip_similarity": 0.88916015625,
+            "structure_similarity": 0.7889603755175623,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 29.344365729781774,
+            "clip_similarity": 0.9208984375,
+            "structure_similarity": 0.8572941166765528,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 32.90513026531729,
+            "clip_similarity": 0.9443359375,
+            "structure_similarity": 0.8293589395173216,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 17.619993954613093,
+            "clip_similarity": 0.90234375,
+            "structure_similarity": 0.8922714102536459,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 10.162523324721128,
+            "clip_similarity": 0.982421875,
+            "structure_similarity": 0.8203257437859696,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 51.67895322857481,
+            "clip_similarity": 0.80126953125,
+            "structure_similarity": 0.563110312144334,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 6.258705139160156,
+            "clip_similarity": 0.908203125,
+            "structure_similarity": 0.9562436731490356,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 68.21758893176451,
+            "clip_similarity": 0.931640625,
+            "structure_similarity": 0.7346044913741012,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 12.693328857421875,
+            "clip_similarity": 0.87744140625,
+            "structure_similarity": 0.817337681567874,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 22.674082438151043,
+            "clip_similarity": 0.91259765625,
+            "structure_similarity": 0.8648405202782933,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 50.671239028742285,
+            "clip_similarity": 0.79296875,
+            "structure_similarity": 0.8106067242437988,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 42.703053525258554,
+            "clip_similarity": 0.9228515625,
+            "structure_similarity": 0.7236654337625158,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 23.388733878968253,
+            "clip_similarity": 0.93408203125,
+            "structure_similarity": 0.7441846020682793,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 83.40302800807824,
+            "clip_similarity": 0.86962890625,
+            "structure_similarity": 0.6560898612239394,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 13.781957761205808,
+            "clip_similarity": 0.87255859375,
+            "structure_similarity": 0.8118743773681983,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 14.088901787328272,
+            "clip_similarity": 0.90673828125,
+            "structure_similarity": 0.7622376700787524,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 57.77253083461145,
+            "clip_similarity": 0.85498046875,
+            "structure_similarity": 0.7972588471665781,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 97.21109946646341,
+            "clip_similarity": 0.90283203125,
+            "structure_similarity": 0.692155746240488,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 58.08497436103952,
+            "clip_similarity": 0.9052734375,
+            "structure_similarity": 0.7480419717097094,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 25.55453125,
+            "clip_similarity": 0.9150390625,
+            "structure_similarity": 0.807928273736555,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 19.87305520389126,
+            "clip_similarity": 0.82373046875,
+            "structure_similarity": 0.8031115178349002,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 48.964762369791664,
+            "clip_similarity": 0.88671875,
+            "structure_similarity": 0.723191649433046,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 109.78257765997024,
+            "clip_similarity": 0.8525390625,
+            "structure_similarity": 0.5041902272974144,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 90.30749260545268,
+            "clip_similarity": 0.78271484375,
+            "structure_similarity": 0.5935679123302708,
+            "compile_error": "NULL"
+        }
+    },
+    "gpt-4o-2024-11-20": {
+        "1": {
+            "MAE": 90.68008039442628,
+            "clip_similarity": 0.82373046875,
+            "structure_similarity": 0.7462733830156342,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 13.033304850260416,
+            "clip_similarity": 0.8857421875,
+            "structure_similarity": 0.856923709728553,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 98.83294982498313,
+            "clip_similarity": 0.78955078125,
+            "structure_similarity": 0.5152732391950473,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 58.097288919151374,
+            "clip_similarity": 0.72216796875,
+            "structure_similarity": 0.6112759299737458,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 65.02527665367705,
+            "clip_similarity": 0.890625,
+            "structure_similarity": 0.36042672053692554,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 49.007496843434346,
+            "clip_similarity": 0.78662109375,
+            "structure_similarity": 0.698994971637432,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 60.55466388708981,
+            "clip_similarity": 0.783203125,
+            "structure_similarity": 0.7463367612845877,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 45.463264515228325,
+            "clip_similarity": 0.87939453125,
+            "structure_similarity": 0.7598953594803856,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 122.82795029008439,
+            "clip_similarity": 0.88330078125,
+            "structure_similarity": 0.4616298041614339,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 123.66621553242985,
+            "clip_similarity": 0.67236328125,
+            "structure_similarity": 0.3721856233563248,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "11": {
+            "MAE": 98.64166090223524,
+            "clip_similarity": 0.82080078125,
+            "structure_similarity": 0.754408557958785,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 68.29305992782555,
+            "clip_similarity": 0.92431640625,
+            "structure_similarity": 0.7552689860900254,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 46.80157470703125,
+            "clip_similarity": 0.93896484375,
+            "structure_similarity": 0.8571577046702027,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 71.02954455389492,
+            "clip_similarity": 0.87109375,
+            "structure_similarity": 0.8148348700664576,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 35.923403532608695,
+            "clip_similarity": 0.80224609375,
+            "structure_similarity": 0.7309796727306161,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 12.140803019205729,
+            "clip_similarity": 0.85009765625,
+            "structure_similarity": 0.9000208181025412,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 83.52829619984568,
+            "clip_similarity": 0.4677734375,
+            "structure_similarity": 0.08787464416653341,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 39.74594707525078,
+            "clip_similarity": 0.810546875,
+            "structure_similarity": 0.08096900040635482,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 55.91333581863762,
+            "clip_similarity": 0.79736328125,
+            "structure_similarity": 0.3658939796245472,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 65.58154118017399,
+            "clip_similarity": 0.82421875,
+            "structure_similarity": 0.8037249741476352,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 69.63174055232558,
+            "clip_similarity": 0.82958984375,
+            "structure_similarity": 0.6917552773467691,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 71.2990154751199,
+            "clip_similarity": 0.84716796875,
+            "structure_similarity": 0.7053150769950466,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 79.8741743546431,
+            "clip_similarity": 0.876953125,
+            "structure_similarity": 0.5864641774314582,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 11.13665771484375,
+            "clip_similarity": 0.8828125,
+            "structure_similarity": 0.9191113741491351,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 57.168829549772035,
+            "clip_similarity": 0.8759765625,
+            "structure_similarity": 0.687374549409199,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 34.72275079961964,
+            "clip_similarity": 0.85009765625,
+            "structure_similarity": 0.7740578170444877,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 78.59876584864776,
+            "clip_similarity": 0.81494140625,
+            "structure_similarity": 0.6832276502724555,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 79.13409543504902,
+            "clip_similarity": 0.515625,
+            "structure_similarity": 0.66295590179942,
+            "compile_error": "blank"
+        },
+        "29": {
+            "MAE": 47.918907165527344,
+            "clip_similarity": 0.8369140625,
+            "structure_similarity": 0.705258384864056,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 59.538054226723,
+            "clip_similarity": 0.84912109375,
+            "structure_similarity": 0.842375014326842,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 23.797996520996094,
+            "clip_similarity": 0.7978515625,
+            "structure_similarity": 0.8163005746118821,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 72.70676201080607,
+            "clip_similarity": 0.53466796875,
+            "structure_similarity": 0.8143107879109214,
+            "compile_error": "[vue/compiler-sfc] Unexpected token, expected \",\" (13:12)\n\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n123|    setup(props) {\n124|      return () =&gt; (\n125|        &lt;Card class=\"p-4 bg-white shadow-md rounded-md\"&gt;\n126|          &lt;div class=\"flex justify-between items-center mb-2\"&gt;\n127|            &lt;h3 class=\"text-lg font-bold\"&gt;{props.title}&lt;/h3&gt;"
+        },
+        "33": {
+            "MAE": 40.6384531656901,
+            "clip_similarity": 0.82177734375,
+            "structure_similarity": 0.7081692084575022,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 51.54870656975211,
+            "clip_similarity": 0.8056640625,
+            "structure_similarity": 0.7747112824810721,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 27.22411981886423,
+            "clip_similarity": 0.86474609375,
+            "structure_similarity": 0.7101565772245217,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 14.939913431803385,
+            "clip_similarity": 0.9013671875,
+            "structure_similarity": 0.8274644463205941,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 25.74584282769097,
+            "clip_similarity": 0.82275390625,
+            "structure_similarity": 0.954140678999526,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 48.027968897964016,
+            "clip_similarity": 0.93310546875,
+            "structure_similarity": 0.8370873645636208,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 28.875290068069308,
+            "clip_similarity": 0.90625,
+            "structure_similarity": 0.7821581466928399,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 65.47013286952554,
+            "clip_similarity": 0.93115234375,
+            "structure_similarity": 0.7580996380594514,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 44.451834428208905,
+            "clip_similarity": 0.8701171875,
+            "structure_similarity": 0.614047547955626,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 88.86538904235728,
+            "clip_similarity": 0.884765625,
+            "structure_similarity": 0.7928071191000072,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 81.70801560940619,
+            "clip_similarity": 0.82275390625,
+            "structure_similarity": 0.7066318147215832,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 88.00746800261584,
+            "clip_similarity": 0.92041015625,
+            "structure_similarity": 0.7277347396920861,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 38.55071878331557,
+            "clip_similarity": 0.92041015625,
+            "structure_similarity": 0.620130115224838,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 19.207015991210938,
+            "clip_similarity": 0.88671875,
+            "structure_similarity": 0.854553823705207,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 44.95822197094298,
+            "clip_similarity": 0.92041015625,
+            "structure_similarity": 0.16246194553627757,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 91.52013620022124,
+            "clip_similarity": 0.7666015625,
+            "structure_similarity": 0.8422081791530555,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 85.54617966065292,
+            "clip_similarity": 0.8125,
+            "structure_similarity": 0.5384353795998597,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 47.48382523148148,
+            "clip_similarity": 0.865234375,
+            "structure_similarity": 0.618634692330073,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 46.47694169714096,
+            "clip_similarity": 0.85986328125,
+            "structure_similarity": 0.0918843509706762,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 39.244210329675234,
+            "clip_similarity": 0.89599609375,
+            "structure_similarity": 0.2852176424363586,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 81.27236952411529,
+            "clip_similarity": 0.68603515625,
+            "structure_similarity": 0.7663167212397067,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 43.60932562324438,
+            "clip_similarity": 0.85205078125,
+            "structure_similarity": 0.9354669804924721,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 56.87810854510073,
+            "clip_similarity": 0.79833984375,
+            "structure_similarity": 0.7770676704905322,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 7.598681131998698,
+            "clip_similarity": 0.98779296875,
+            "structure_similarity": 0.9610579174893131,
+            "compile_error": "blank"
+        },
+        "57": {
+            "MAE": 69.86428852201257,
+            "clip_similarity": 0.8125,
+            "structure_similarity": 0.8052184113655437,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 37.44133104716722,
+            "clip_similarity": 0.86083984375,
+            "structure_similarity": 0.873306544028493,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 67.3023237449461,
+            "clip_similarity": 0.83349609375,
+            "structure_similarity": 0.7671649589896931,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 44.68025657598921,
+            "clip_similarity": 0.89013671875,
+            "structure_similarity": 0.6523262828640727,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 67.03693987016354,
+            "clip_similarity": 0.8681640625,
+            "structure_similarity": 0.804153635027963,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 78.78567940848214,
+            "clip_similarity": 0.90185546875,
+            "structure_similarity": 0.8203310341297719,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 18.874053881894483,
+            "clip_similarity": 0.841796875,
+            "structure_similarity": 0.8976912489711051,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 37.695893054872045,
+            "clip_similarity": 0.9384765625,
+            "structure_similarity": 0.8452993883405466,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 85.64017356136581,
+            "clip_similarity": 0.8662109375,
+            "structure_similarity": 0.3633856508312801,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 9.86242421468099,
+            "clip_similarity": 0.7919921875,
+            "structure_similarity": 0.951039009870462,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 87.68399834471997,
+            "clip_similarity": 0.849609375,
+            "structure_similarity": 0.7110440801501952,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 29.120384216308594,
+            "clip_similarity": 0.87890625,
+            "structure_similarity": 0.8063128593707309,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 55.501800537109375,
+            "clip_similarity": 0.91650390625,
+            "structure_similarity": 0.7717845624132943,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 52.72817352671682,
+            "clip_similarity": 0.9013671875,
+            "structure_similarity": 0.8285218265270201,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 22.59466223802395,
+            "clip_similarity": 0.91064453125,
+            "structure_similarity": 0.7150391435155332,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 22.819771157661783,
+            "clip_similarity": 0.9404296875,
+            "structure_similarity": 0.762827993174315,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 97.84515173256803,
+            "clip_similarity": 0.83154296875,
+            "structure_similarity": 0.5938029108624703,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 20.440012922190657,
+            "clip_similarity": 0.859375,
+            "structure_similarity": 0.8002184432375179,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 24.286377636992295,
+            "clip_similarity": 0.9130859375,
+            "structure_similarity": 0.747728075841473,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 68.67225843558282,
+            "clip_similarity": 0.79345703125,
+            "structure_similarity": 0.7903301058037199,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 105.24016768292682,
+            "clip_similarity": 0.81787109375,
+            "structure_similarity": 0.5474342929408897,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 86.40611240871993,
+            "clip_similarity": 0.81396484375,
+            "structure_similarity": 0.7364365021992333,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 25.393342633928572,
+            "clip_similarity": 0.87060546875,
+            "structure_similarity": 0.7804161949216171,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 46.476345486111114,
+            "clip_similarity": 0.82958984375,
+            "structure_similarity": 0.7820405102249967,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 95.78198960248162,
+            "clip_similarity": 0.65625,
+            "structure_similarity": 0.5795961157350864,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 96.82858305431547,
+            "clip_similarity": 0.857421875,
+            "structure_similarity": 0.603373145132915,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 73.64096793552812,
+            "clip_similarity": 0.8359375,
+            "structure_similarity": 0.7620884977395468,
+            "compile_error": "NULL"
+        }
+    },
+    "gemini-2.0-flash": {
+        "1": {
+            "MAE": 85.70224276053014,
+            "clip_similarity": 0.87451171875,
+            "structure_similarity": 0.7250935361923535,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 9.617683410644531,
+            "clip_similarity": 0.87548828125,
+            "structure_similarity": 0.9000146013267287,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 70.79654882419517,
+            "clip_similarity": 0.70556640625,
+            "structure_similarity": 0.6862725716698901,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 56.252853757698226,
+            "clip_similarity": 0.80419921875,
+            "structure_similarity": 0.6427438948720949,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 31.36501736111111,
+            "clip_similarity": 0.90673828125,
+            "structure_similarity": 0.69710874248837,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 51.900348132770006,
+            "clip_similarity": 0.78662109375,
+            "structure_similarity": 0.7038962653891995,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 75.81173150236255,
+            "clip_similarity": 0.73486328125,
+            "structure_similarity": 0.6236389228367119,
+            "compile_error": "Failed to resolve import \"@fortawesome/fontawesome-svg-core\" from \"src/components/HelloWorld.vue\". Does the file exist?"
+        },
+        "8": {
+            "MAE": 43.159521282101274,
+            "clip_similarity": 0.8642578125,
+            "structure_similarity": 0.7969250401551968,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 118.30604891877637,
+            "clip_similarity": 0.8583984375,
+            "structure_similarity": 0.49080657539420514,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 47.625416928208345,
+            "clip_similarity": 0.87255859375,
+            "structure_similarity": 0.8460882440670348,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 60.02119990224829,
+            "clip_similarity": 0.8173828125,
+            "structure_similarity": 0.7529333919340578,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 134.47871397676084,
+            "clip_similarity": 0.69580078125,
+            "structure_similarity": 0.35044110825843233,
+            "compile_error": "Could not resolve value for theme function: `theme(colors.purple.500)`. Consider checking if the path is correct or provide a fallback value to silence this error."
+        },
+        "13": {
+            "MAE": 34.09903462727865,
+            "clip_similarity": 0.947265625,
+            "structure_similarity": 0.8819391833017295,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 81.75614951313406,
+            "clip_similarity": 0.8056640625,
+            "structure_similarity": 0.7577797149801123,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 32.18898280727425,
+            "clip_similarity": 0.8125,
+            "structure_similarity": 0.7355239809445425,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 9.665458679199219,
+            "clip_similarity": 0.92578125,
+            "structure_similarity": 0.8829002851090612,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 64.98654112011317,
+            "clip_similarity": 0.705078125,
+            "structure_similarity": 0.10281518344471467,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 75.15281623033658,
+            "clip_similarity": 0.7919921875,
+            "structure_similarity": 0.16063240632832465,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 69.56376831561204,
+            "clip_similarity": 0.77880859375,
+            "structure_similarity": 0.06709974389009707,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 62.93617287660256,
+            "clip_similarity": 0.853515625,
+            "structure_similarity": 0.8110272664088175,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 56.49814680232558,
+            "clip_similarity": 0.79443359375,
+            "structure_similarity": 0.6760326707343969,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 58.59886465827338,
+            "clip_similarity": 0.82421875,
+            "structure_similarity": 0.6890383185267316,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 75.8470823588011,
+            "clip_similarity": 0.9033203125,
+            "structure_similarity": 0.7000501314360328,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 22.519912820778146,
+            "clip_similarity": 0.9140625,
+            "structure_similarity": 0.9157821140861604,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 69.61228984612463,
+            "clip_similarity": 0.85791015625,
+            "structure_similarity": 0.7006239798050231,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 36.16127733834716,
+            "clip_similarity": 0.806640625,
+            "structure_similarity": 0.7931683549081526,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 34.336347481836384,
+            "clip_similarity": 0.9111328125,
+            "structure_similarity": 0.6796409453889268,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 98.95141682136963,
+            "clip_similarity": 0.87158203125,
+            "structure_similarity": 0.6460650414378442,
+            "compile_error": "NULL"
+        },
+        "29": {
+            "MAE": 85.24712626139323,
+            "clip_similarity": 0.88818359375,
+            "structure_similarity": 0.5851496817195135,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 101.28859594555036,
+            "clip_similarity": 0.8427734375,
+            "structure_similarity": 0.5154905193792687,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 42.68516286214193,
+            "clip_similarity": 0.81640625,
+            "structure_similarity": 0.7480991563327682,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 72.7595070336838,
+            "clip_similarity": 0.53466796875,
+            "structure_similarity": 0.8143107879109214,
+            "compile_error": "blank"
+        },
+        "33": {
+            "MAE": 82.1891860961914,
+            "clip_similarity": 0.82470703125,
+            "structure_similarity": 0.5920952281556101,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 49.14683748234463,
+            "clip_similarity": 0.76904296875,
+            "structure_similarity": 0.6953103039739355,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 44.28833104463579,
+            "clip_similarity": 0.8984375,
+            "structure_similarity": 0.7113622922987198,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 14.697097778320312,
+            "clip_similarity": 0.9150390625,
+            "structure_similarity": 0.849871806364191,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 24.5587158203125,
+            "clip_similarity": 0.8154296875,
+            "structure_similarity": 0.9453666175567321,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 53.44280187380268,
+            "clip_similarity": 0.9228515625,
+            "structure_similarity": 0.8215115742732192,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 41.04784356725146,
+            "clip_similarity": 0.8984375,
+            "structure_similarity": 0.7859663952010295,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 73.28776516879562,
+            "clip_similarity": 0.87744140625,
+            "structure_similarity": 0.8044372550871735,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 87.18786836935168,
+            "clip_similarity": 0.8291015625,
+            "structure_similarity": 0.4572601318296022,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 90.17284257021178,
+            "clip_similarity": 0.88623046875,
+            "structure_similarity": 0.7533429473698671,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 25.119883280314372,
+            "clip_similarity": 0.91650390625,
+            "structure_similarity": 0.6391582592587408,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 62.92825112107624,
+            "clip_similarity": 0.83837890625,
+            "structure_similarity": 0.7524754704532864,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 39.44439493381308,
+            "clip_similarity": 0.81787109375,
+            "structure_similarity": 0.6896179382349809,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 17.84557596842448,
+            "clip_similarity": 0.91162109375,
+            "structure_similarity": 0.8439177805934593,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 33.80182063230994,
+            "clip_similarity": 0.8896484375,
+            "structure_similarity": 0.5756342746327807,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 103.94155473318713,
+            "clip_similarity": 0.5380859375,
+            "structure_similarity": 0.9043681032809184,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "49": {
+            "MAE": 82.69747703853047,
+            "clip_similarity": 0.81787109375,
+            "structure_similarity": 0.5699170527693088,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 41.58315650720164,
+            "clip_similarity": 0.8037109375,
+            "structure_similarity": 0.672637849981268,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 35.088623046875,
+            "clip_similarity": 0.87890625,
+            "structure_similarity": 0.8684093738934554,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 35.59404833600999,
+            "clip_similarity": 0.8427734375,
+            "structure_similarity": 0.657700854323819,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 45.01889358590183,
+            "clip_similarity": 0.87939453125,
+            "structure_similarity": 0.8085271585536102,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 46.416692269428836,
+            "clip_similarity": 0.8330078125,
+            "structure_similarity": 0.8913684809177586,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 58.935970052083334,
+            "clip_similarity": 0.783203125,
+            "structure_similarity": 0.7729500180491427,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 11.205739339192709,
+            "clip_similarity": 0.98779296875,
+            "structure_similarity": 0.931830985624037,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 59.36138954402516,
+            "clip_similarity": 0.84130859375,
+            "structure_similarity": 0.8093217261466548,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 40.544040927530254,
+            "clip_similarity": 0.90185546875,
+            "structure_similarity": 0.8712499708822719,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 103.67631066849818,
+            "clip_similarity": 0.732421875,
+            "structure_similarity": 0.5329860646689352,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 71.5904073726443,
+            "clip_similarity": 0.845703125,
+            "structure_similarity": 0.6516660147382466,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 58.372375426212834,
+            "clip_similarity": 0.89404296875,
+            "structure_similarity": 0.830433052871867,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 55.63612002418155,
+            "clip_similarity": 0.9287109375,
+            "structure_similarity": 0.7771674956741711,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 19.408526303956833,
+            "clip_similarity": 0.91796875,
+            "structure_similarity": 0.9098917429016409,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 20.3806043718089,
+            "clip_similarity": 0.9619140625,
+            "structure_similarity": 0.8488824237613388,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 92.16095652757879,
+            "clip_similarity": 0.8037109375,
+            "structure_similarity": 0.48592758747155457,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 2.8403854370117188,
+            "clip_similarity": 0.80126953125,
+            "structure_similarity": 0.9583398685471207,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 83.23050169745277,
+            "clip_similarity": 0.87939453125,
+            "structure_similarity": 0.7550825092556935,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 19.516329447428387,
+            "clip_similarity": 0.9208984375,
+            "structure_similarity": 0.8507841879805641,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 81.26904042561848,
+            "clip_similarity": 0.8818359375,
+            "structure_similarity": 0.7220072596746251,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 45.279708297164355,
+            "clip_similarity": 0.7265625,
+            "structure_similarity": 0.7793424233550631,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 39.45465319361278,
+            "clip_similarity": 0.84326171875,
+            "structure_similarity": 0.7468008359238011,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 25.27089056776557,
+            "clip_similarity": 0.888671875,
+            "structure_similarity": 0.7661240634010038,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 51.65480176445578,
+            "clip_similarity": 0.88037109375,
+            "structure_similarity": 0.7272816622495744,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 12.027168659248737,
+            "clip_similarity": 0.76220703125,
+            "structure_similarity": 0.846670501168416,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 17.404013753939076,
+            "clip_similarity": 0.8828125,
+            "structure_similarity": 0.7745752970634926,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 44.624584611451944,
+            "clip_similarity": 0.78515625,
+            "structure_similarity": 0.799280222200277,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 130.59061864837398,
+            "clip_similarity": 0.8466796875,
+            "structure_similarity": 0.371368859794531,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 54.39732670210481,
+            "clip_similarity": 0.8876953125,
+            "structure_similarity": 0.7239108030813699,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 54.920392485119045,
+            "clip_similarity": 0.8701171875,
+            "structure_similarity": 0.7786234933376147,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 28.6067514659611,
+            "clip_similarity": 0.798828125,
+            "structure_similarity": 0.7912633054808214,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 48.467701631433826,
+            "clip_similarity": 0.892578125,
+            "structure_similarity": 0.7079030483358774,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 93.93501674107142,
+            "clip_similarity": 0.85205078125,
+            "structure_similarity": 0.7622216989016147,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 87.63241062242798,
+            "clip_similarity": 0.71923828125,
+            "structure_similarity": 0.7542038306657386,
+            "compile_error": "NULL"
+        }
+    },
+    "Llama-3.2-90B-Vision-Instruct": {
+        "1": {
+            "MAE": 136.02067589188454,
+            "clip_similarity": 0.6650390625,
+            "structure_similarity": 0.3573133786528964,
+            "compile_error": "At least one &lt;template&gt; or &lt;script&gt; is required in a single file component. /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue"
+        },
+        "2": {
+            "MAE": 17.368473422724588,
+            "clip_similarity": 0.74609375,
+            "structure_similarity": 0.8920773128238425,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 76.53055573021462,
+            "clip_similarity": 0.69775390625,
+            "structure_similarity": 0.5296601905083063,
+            "compile_error": "At least one &lt;template&gt; or &lt;script&gt; is required in a single file component. /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue"
+        },
+        "4": {
+            "MAE": 69.86493667003464,
+            "clip_similarity": 0.7685546875,
+            "structure_similarity": 0.45907868326842516,
+            "compile_error": "At least one &lt;template&gt; or &lt;script&gt; is required in a single file component. /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue"
+        },
+        "5": {
+            "MAE": 52.54435826338929,
+            "clip_similarity": 0.84130859375,
+            "structure_similarity": 0.4362371851235835,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 106.7718903363164,
+            "clip_similarity": 0.8076171875,
+            "structure_similarity": 0.33098528462189986,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 75.4170257463488,
+            "clip_similarity": 0.7587890625,
+            "structure_similarity": 0.630663748248121,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 93.14700042292998,
+            "clip_similarity": 0.72900390625,
+            "structure_similarity": 0.8625986790400181,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 78.13206355733082,
+            "clip_similarity": 0.85791015625,
+            "structure_similarity": 0.8783316427154708,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 107.1432473130079,
+            "clip_similarity": 0.70166015625,
+            "structure_similarity": 0.9076656327444379,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 100.43702697753906,
+            "clip_similarity": 0.75048828125,
+            "structure_similarity": 0.8216019226661774,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 85.47077510749386,
+            "clip_similarity": 0.658203125,
+            "structure_similarity": 0.76884241715207,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 46.34575907389323,
+            "clip_similarity": 0.84619140625,
+            "structure_similarity": 0.8772742195828507,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 117.52176849186769,
+            "clip_similarity": 0.6923828125,
+            "structure_similarity": 0.3981163332501903,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 48.59273533305463,
+            "clip_similarity": 0.7822265625,
+            "structure_similarity": 0.6723700221329421,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 14.270594278971354,
+            "clip_similarity": 0.85888671875,
+            "structure_similarity": 0.8998095593118344,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 132.9677456491362,
+            "clip_similarity": 0.7236328125,
+            "structure_similarity": 0.07085100900024281,
+            "compile_error": "[vue/compiler-sfc] Unexpected token (2:22)\n\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n55 |"
+        },
+        "18": {
+            "MAE": 147.28691069887964,
+            "clip_similarity": 0.7119140625,
+            "structure_similarity": 0.0634936082468827,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 86.60168147886722,
+            "clip_similarity": 0.73046875,
+            "structure_similarity": 0.25797360943140735,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 81.73619577037546,
+            "clip_similarity": 0.744140625,
+            "structure_similarity": 0.7863618538293291,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 72.51464086724806,
+            "clip_similarity": 0.814453125,
+            "structure_similarity": 0.6397013665335884,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 90.98533048561151,
+            "clip_similarity": 0.603515625,
+            "structure_similarity": 0.6956125258814724,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 116.54707995756173,
+            "clip_similarity": 0.64111328125,
+            "structure_similarity": 0.45612811027324957,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 12.190190633138021,
+            "clip_similarity": 0.8212890625,
+            "structure_similarity": 0.9156411503419667,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 151.97763503672746,
+            "clip_similarity": 0.66845703125,
+            "structure_similarity": 0.265631233733895,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 22.851027619294605,
+            "clip_similarity": 0.69287109375,
+            "structure_similarity": 0.8351407219441417,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 98.1598619543825,
+            "clip_similarity": 0.6904296875,
+            "structure_similarity": 0.3742720452649447,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 81.76056062637514,
+            "clip_similarity": 0.63671875,
+            "structure_similarity": 0.5892693034393269,
+            "compile_error": "NULL"
+        },
+        "29": {
+            "MAE": 89.39147186279297,
+            "clip_similarity": 0.55126953125,
+            "structure_similarity": 0.6310065440020275,
+            "compile_error": "blank"
+        },
+        "30": {
+            "MAE": 163.3643387073393,
+            "clip_similarity": 0.751953125,
+            "structure_similarity": 0.1782992183095884,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 170.7364730834961,
+            "clip_similarity": 0.66796875,
+            "structure_similarity": 0.2678479395965324,
+            "compile_error": "[vue/compiler-sfc] Unexpected token (2:22)\n\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n62 |  &lt;/script&gt;"
+        },
+        "32": {
+            "MAE": 58.134205850856695,
+            "clip_similarity": 0.72265625,
+            "structure_similarity": 0.7183941507752284,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 63.57738749186198,
+            "clip_similarity": 0.7958984375,
+            "structure_similarity": 0.6379626235080168,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 52.775209657485874,
+            "clip_similarity": 0.8310546875,
+            "structure_similarity": 0.7292522957210453,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 59.65809943429069,
+            "clip_similarity": 0.73193359375,
+            "structure_similarity": 0.6981181315732178,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 17.07451629638672,
+            "clip_similarity": 0.80517578125,
+            "structure_similarity": 0.8270952113457406,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 32.330123336226855,
+            "clip_similarity": 0.689453125,
+            "structure_similarity": 0.9359456417877506,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 79.77125239463602,
+            "clip_similarity": 0.724609375,
+            "structure_similarity": 0.8005948236287658,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 68.1117028943727,
+            "clip_similarity": 0.5341796875,
+            "structure_similarity": 0.719153210057917,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 106.60256736865942,
+            "clip_similarity": 0.62744140625,
+            "structure_similarity": 0.8563840611441479,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 69.38045007572036,
+            "clip_similarity": 0.69677734375,
+            "structure_similarity": 0.5085343772467328,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 82.77693462545537,
+            "clip_similarity": 0.61572265625,
+            "structure_similarity": 0.8020076789985775,
+            "compile_error": "blank"
+        },
+        "43": {
+            "MAE": 40.07952367705242,
+            "clip_similarity": 0.91552734375,
+            "structure_similarity": 0.6587092176941536,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 87.2098310211136,
+            "clip_similarity": 0.7373046875,
+            "structure_similarity": 0.5225078076114961,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 55.32120028409091,
+            "clip_similarity": 0.73681640625,
+            "structure_similarity": 0.6760035436669435,
+            "compile_error": "At least one &lt;template&gt; or &lt;script&gt; is required in a single file component. /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue"
+        },
+        "46": {
+            "MAE": 34.90702565511068,
+            "clip_similarity": 0.6103515625,
+            "structure_similarity": 0.7983321630960919,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 180.46750697133112,
+            "clip_similarity": 0.412353515625,
+            "structure_similarity": 0.10701525608040785,
+            "compile_error": "blank"
+        },
+        "48": {
+            "MAE": 82.33460660951327,
+            "clip_similarity": 0.8583984375,
+            "structure_similarity": 0.8239967226403108,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 84.82265142746914,
+            "clip_similarity": 0.64306640625,
+            "structure_similarity": 0.63068320620798,
+            "compile_error": "blank"
+        },
+        "50": {
+            "MAE": 108.18812532150206,
+            "clip_similarity": 0.82958984375,
+            "structure_similarity": 0.055143425212941376,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 70.6672844562052,
+            "clip_similarity": 0.689453125,
+            "structure_similarity": 0.3979724874155188,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 69.65319383625265,
+            "clip_similarity": 0.62939453125,
+            "structure_similarity": 0.027771048886220777,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 84.37801664169521,
+            "clip_similarity": 0.751953125,
+            "structure_similarity": 0.7441643183115907,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 39.65937353698502,
+            "clip_similarity": 0.70703125,
+            "structure_similarity": 0.9053741712422894,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 60.38482464800824,
+            "clip_similarity": 0.61865234375,
+            "structure_similarity": 0.77956098293869,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 10.496256510416666,
+            "clip_similarity": 0.9091796875,
+            "structure_similarity": 0.920175521852695,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 76.11704649899733,
+            "clip_similarity": 0.5712890625,
+            "structure_similarity": 0.4064302694276702,
+            "compile_error": "[vue/compiler-sfc] Unexpected token (2:22)\n\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n52 |  &lt;/script&gt;"
+        },
+        "58": {
+            "MAE": 42.01552401333883,
+            "clip_similarity": 0.81396484375,
+            "structure_similarity": 0.7888811480365104,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 110.62705902777778,
+            "clip_similarity": 0.638671875,
+            "structure_similarity": 0.6791892110594433,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 155.46013387044272,
+            "clip_similarity": 0.70703125,
+            "structure_similarity": 0.49222350280455895,
+            "compile_error": "[vue/compiler-sfc] Unexpected token (2:22)\n\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n58 |  &lt;/script&gt;"
+        },
+        "61": {
+            "MAE": 73.71655600087735,
+            "clip_similarity": 0.6533203125,
+            "structure_similarity": 0.8589829734410832,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 150.9500238327753,
+            "clip_similarity": 0.70263671875,
+            "structure_similarity": 0.259285379779625,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 21.495716707883695,
+            "clip_similarity": 0.779296875,
+            "structure_similarity": 0.9168472784107026,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 64.40827819541087,
+            "clip_similarity": 0.8837890625,
+            "structure_similarity": 0.8307659405800089,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 172.26831760296244,
+            "clip_similarity": 0.5166015625,
+            "structure_similarity": 0.27217135473672144,
+            "compile_error": "At least one &lt;template&gt; or &lt;script&gt; is required in a single file component. /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue"
+        },
+        "66": {
+            "MAE": 5.328000386555989,
+            "clip_similarity": 0.75146484375,
+            "structure_similarity": 0.9426910784987991,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 138.55449750212586,
+            "clip_similarity": 0.654296875,
+            "structure_similarity": 0.3822661325073052,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 13.199381510416666,
+            "clip_similarity": 0.88330078125,
+            "structure_similarity": 0.8393961711794137,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 51.682291666666664,
+            "clip_similarity": 0.66943359375,
+            "structure_similarity": 0.8397283081412912,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 66.62419674720293,
+            "clip_similarity": 0.8359375,
+            "structure_similarity": 0.8090455346147246,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 45.385747104733134,
+            "clip_similarity": 0.7314453125,
+            "structure_similarity": 0.7638711837978271,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 43.31838560744811,
+            "clip_similarity": 0.69921875,
+            "structure_similarity": 0.6858204743987111,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 93.53415009469697,
+            "clip_similarity": 0.68701171875,
+            "structure_similarity": 0.35691544722278906,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 194.42865175189394,
+            "clip_similarity": 0.767578125,
+            "structure_similarity": 0.2428650303023944,
+            "compile_error": "[vue/compiler-sfc] Unexpected token (2:22)\n\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n62 |"
+        },
+        "75": {
+            "MAE": 17.864201735381652,
+            "clip_similarity": 0.771484375,
+            "structure_similarity": 0.7478562787326131,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 87.14542992714723,
+            "clip_similarity": 0.7041015625,
+            "structure_similarity": 0.7024156421269816,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 123.91419270833333,
+            "clip_similarity": 0.7373046875,
+            "structure_similarity": 0.5094439227200334,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 97.77315848214286,
+            "clip_similarity": 0.75,
+            "structure_similarity": 0.7923261141585172,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 135.24526565450898,
+            "clip_similarity": 0.72216796875,
+            "structure_similarity": 0.42269172984811915,
+            "compile_error": "At least one &lt;template&gt; or &lt;script&gt; is required in a single file component. /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue"
+        },
+        "80": {
+            "MAE": 138.05754334249613,
+            "clip_similarity": 0.67138671875,
+            "structure_similarity": 0.4443047665409949,
+            "compile_error": "At least one &lt;template&gt; or &lt;script&gt; is required in a single file component. /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue"
+        },
+        "81": {
+            "MAE": 128.20959739963504,
+            "clip_similarity": 0.71240234375,
+            "structure_similarity": 0.6707749789923474,
+            "compile_error": "At least one &lt;template&gt; or &lt;script&gt; is required in a single file component. /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue"
+        },
+        "82": {
+            "MAE": 120.58942505889281,
+            "clip_similarity": 0.65771484375,
+            "structure_similarity": 0.2600341490115975,
+            "compile_error": "[vue/compiler-sfc] Unexpected token (2:22)\n\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n52 |  &lt;/script&gt;"
+        },
+        "83": {
+            "MAE": 94.24345743312757,
+            "clip_similarity": 0.6640625,
+            "structure_similarity": 0.6675498914765127,
+            "compile_error": "NULL"
+        }
+    },
+    "Llama-3.2-11B-Vision-Instruct": {
+        "1": {
+            "MAE": 140.33710058097313,
+            "clip_similarity": 0.67236328125,
+            "structure_similarity": 0.2803124715531312,
+            "compile_error": "Element is missing end tag."
+        },
+        "2": {
+            "MAE": 4.930829366048177,
+            "clip_similarity": 0.68896484375,
+            "structure_similarity": 0.9207840563717739,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 75.53244335806505,
+            "clip_similarity": 0.73095703125,
+            "structure_similarity": 0.5041377710816684,
+            "compile_error": "Cannot apply unknown utility class: bg-gray-100"
+        },
+        "4": {
+            "MAE": 64.20059300423402,
+            "clip_similarity": 0.76904296875,
+            "structure_similarity": 0.49963022764032583,
+            "compile_error": "Element is missing end tag."
+        },
+        "5": {
+            "MAE": 160.9024049322289,
+            "clip_similarity": 0.666015625,
+            "structure_similarity": 0.2413419928089224,
+            "compile_error": "Element is missing end tag."
+        },
+        "6": {
+            "MAE": 107.22498526510778,
+            "clip_similarity": 0.6181640625,
+            "structure_similarity": 0.37030211000981605,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 106.80317064003437,
+            "clip_similarity": 0.67529296875,
+            "structure_similarity": 0.24095685648863027,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 92.59041024207365,
+            "clip_similarity": 0.609375,
+            "structure_similarity": 0.8913900039812623,
+            "compile_error": "At least one &lt;template&gt; or &lt;script&gt; is required in a single file component. /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue"
+        },
+        "9": {
+            "MAE": 150.88689007675438,
+            "clip_similarity": 0.82666015625,
+            "structure_similarity": 0.278329098404583,
+            "compile_error": "Element is missing end tag."
+        },
+        "10": {
+            "MAE": 124.70295249068774,
+            "clip_similarity": 0.70263671875,
+            "structure_similarity": 0.2995932825988962,
+            "compile_error": "Element is missing end tag."
+        },
+        "11": {
+            "MAE": 87.88940768771701,
+            "clip_similarity": 0.7197265625,
+            "structure_similarity": 0.831340285591181,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 81.618951870905,
+            "clip_similarity": 0.73388671875,
+            "structure_similarity": 0.7925950855022456,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 46.150299072265625,
+            "clip_similarity": 0.822265625,
+            "structure_similarity": 0.8811377704275977,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 124.42480040433114,
+            "clip_similarity": 0.68017578125,
+            "structure_similarity": 0.31175889551484604,
+            "compile_error": "Element is missing end tag."
+        },
+        "15": {
+            "MAE": 34.788494199414714,
+            "clip_similarity": 0.685546875,
+            "structure_similarity": 0.8174477623287478,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 187.97014617919922,
+            "clip_similarity": 0.76025390625,
+            "structure_similarity": 0.28910705966710887,
+            "compile_error": "Element is missing end tag."
+        },
+        "17": {
+            "MAE": 132.2574433117378,
+            "clip_similarity": 0.6181640625,
+            "structure_similarity": 0.07089553882586107,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 165.99959044104287,
+            "clip_similarity": 0.7255859375,
+            "structure_similarity": 0.06625301114862844,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 169.5245310361054,
+            "clip_similarity": 0.75048828125,
+            "structure_similarity": 0.06509109915520468,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 91.27225993283243,
+            "clip_similarity": 0.4765625,
+            "structure_similarity": 0.8430447290470867,
+            "compile_error": "Element is missing end tag."
+        },
+        "21": {
+            "MAE": 112.0100806451613,
+            "clip_similarity": 0.658203125,
+            "structure_similarity": 0.3947244932580062,
+            "compile_error": "Cannot apply unknown utility class: bg-gray-100"
+        },
+        "22": {
+            "MAE": 97.3662109375,
+            "clip_similarity": 0.6337890625,
+            "structure_similarity": 0.7852407977374153,
+            "compile_error": "Cannot apply unknown utility class: max-w-md"
+        },
+        "23": {
+            "MAE": 117.87586001800412,
+            "clip_similarity": 0.63671875,
+            "structure_similarity": 0.42559532799457556,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "24": {
+            "MAE": 7.260505676269531,
+            "clip_similarity": 0.59326171875,
+            "structure_similarity": 0.913382269436028,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 69.70713019250253,
+            "clip_similarity": 0.51611328125,
+            "structure_similarity": 0.8296520015031152,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 21.89024950293914,
+            "clip_similarity": 0.6396484375,
+            "structure_similarity": 0.8626497034427292,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 94.99071890396091,
+            "clip_similarity": 0.6875,
+            "structure_similarity": 0.4302392344798376,
+            "compile_error": "Cannot apply unknown utility class: max-w-7xl"
+        },
+        "28": {
+            "MAE": 121.06317870029956,
+            "clip_similarity": 0.71142578125,
+            "structure_similarity": 0.4415511474299368,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "29": {
+            "MAE": 91.52255895678438,
+            "clip_similarity": 0.64111328125,
+            "structure_similarity": 0.61044973398834,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 163.64580744698475,
+            "clip_similarity": 0.6220703125,
+            "structure_similarity": 0.17525358977008584,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 44.21637217203776,
+            "clip_similarity": 0.54443359375,
+            "structure_similarity": 0.7617111436653723,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 74.10810942367601,
+            "clip_similarity": 0.56689453125,
+            "structure_similarity": 0.7945421438483913,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 144.19735463460287,
+            "clip_similarity": 0.64501953125,
+            "structure_similarity": 0.33362878986227423,
+            "compile_error": "Element is missing end tag."
+        },
+        "34": {
+            "MAE": 49.72057512358757,
+            "clip_similarity": 0.44287109375,
+            "structure_similarity": 0.7822751528216254,
+            "compile_error": "Element is missing end tag."
+        },
+        "35": {
+            "MAE": 54.96450208061358,
+            "clip_similarity": 0.60205078125,
+            "structure_similarity": 0.753498861669987,
+            "compile_error": "Element is missing end tag."
+        },
+        "36": {
+            "MAE": 19.758013407389324,
+            "clip_similarity": 0.77685546875,
+            "structure_similarity": 0.8560158311463858,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 33.895121256510414,
+            "clip_similarity": 0.7421875,
+            "structure_similarity": 0.9259997355189497,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 131.77522225215517,
+            "clip_similarity": 0.60205078125,
+            "structure_similarity": 0.34316637766856206,
+            "compile_error": "Element is missing end tag."
+        },
+        "39": {
+            "MAE": 132.90384522985855,
+            "clip_similarity": 0.580078125,
+            "structure_similarity": 0.33654480290595484,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 127.59121188103865,
+            "clip_similarity": 0.72607421875,
+            "structure_similarity": 0.3596356363295509,
+            "compile_error": "Cannot apply unknown utility class: max-w-7xl"
+        },
+        "41": {
+            "MAE": 114.55163566224624,
+            "clip_similarity": 0.646484375,
+            "structure_similarity": 0.34529482649132276,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 81.89688363259668,
+            "clip_similarity": 0.63037109375,
+            "structure_similarity": 0.754948139419503,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 127.7656578418645,
+            "clip_similarity": 0.7041015625,
+            "structure_similarity": 0.35533745501643216,
+            "compile_error": "At least one &lt;template&gt; or &lt;script&gt; is required in a single file component. /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue"
+        },
+        "44": {
+            "MAE": 76.07638310185185,
+            "clip_similarity": 0.486083984375,
+            "structure_similarity": 0.5715150274174712,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 54.89840721899225,
+            "clip_similarity": 0.72802734375,
+            "structure_similarity": 0.640990274297374,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "46": {
+            "MAE": 163.84849802652994,
+            "clip_similarity": 0.56982421875,
+            "structure_similarity": 0.3595617342697759,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "47": {
+            "MAE": 176.9212671690634,
+            "clip_similarity": 0.7626953125,
+            "structure_similarity": 0.10535213045124953,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 100.359858960177,
+            "clip_similarity": 0.591796875,
+            "structure_similarity": 0.869200306748249,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 87.43700327932099,
+            "clip_similarity": 0.7119140625,
+            "structure_similarity": 0.34997124813154795,
+            "compile_error": "Element is missing end tag."
+        },
+        "50": {
+            "MAE": 83.93645101110432,
+            "clip_similarity": 0.7275390625,
+            "structure_similarity": 0.39160938281821667,
+            "compile_error": "Cannot apply unknown utility class: max-w-7xl"
+        },
+        "51": {
+            "MAE": 192.24305380544354,
+            "clip_similarity": 0.86181640625,
+            "structure_similarity": 0.11276072756490214,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 78.05271364118896,
+            "clip_similarity": 0.6845703125,
+            "structure_similarity": 0.465794936345842,
+            "compile_error": "Element is missing end tag."
+        },
+        "53": {
+            "MAE": 135.43608055201247,
+            "clip_similarity": 0.69091796875,
+            "structure_similarity": 0.3698299346254541,
+            "compile_error": "Cannot apply unknown utility class: max-w-7xl"
+        },
+        "54": {
+            "MAE": 45.15748624765918,
+            "clip_similarity": 0.80419921875,
+            "structure_similarity": 0.9063292548635591,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 69.10163302951389,
+            "clip_similarity": 0.68603515625,
+            "structure_similarity": 0.780114730990487,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 12.126899719238281,
+            "clip_similarity": 0.75537109375,
+            "structure_similarity": 0.9214160478554431,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 74.69034787210339,
+            "clip_similarity": 0.59033203125,
+            "structure_similarity": 0.485451554392299,
+            "compile_error": "Cannot apply unknown utility class: bg-gray-100"
+        },
+        "58": {
+            "MAE": 36.76981057480748,
+            "clip_similarity": 0.638671875,
+            "structure_similarity": 0.8288848822786917,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 116.68522395833334,
+            "clip_similarity": 0.6318359375,
+            "structure_similarity": 0.6731324989626268,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 152.55972035725912,
+            "clip_similarity": 0.71142578125,
+            "structure_similarity": 0.48652074075122326,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 72.81313575858051,
+            "clip_similarity": 0.478515625,
+            "structure_similarity": 0.91109547467124,
+            "compile_error": "Element is missing end tag."
+        },
+        "62": {
+            "MAE": 74.31751505533855,
+            "clip_similarity": 0.6220703125,
+            "structure_similarity": 0.8757941680835558,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 21.895990239058754,
+            "clip_similarity": 0.763671875,
+            "structure_similarity": 0.927001761197812,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 65.34179946363486,
+            "clip_similarity": 0.70703125,
+            "structure_similarity": 0.883447350713434,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 172.26475192678228,
+            "clip_similarity": 0.5166015625,
+            "structure_similarity": 0.27217135473672144,
+            "compile_error": "Element is missing end tag."
+        },
+        "66": {
+            "MAE": 4.231056213378906,
+            "clip_similarity": 0.62744140625,
+            "structure_similarity": 0.9559973994054634,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 61.59970238095238,
+            "clip_similarity": 0.5556640625,
+            "structure_similarity": 0.6343757645181759,
+            "compile_error": "Element is missing end tag."
+        },
+        "68": {
+            "MAE": 11.317115783691406,
+            "clip_similarity": 0.6982421875,
+            "structure_similarity": 0.8720969155100465,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 53.207557678222656,
+            "clip_similarity": 0.751953125,
+            "structure_similarity": 0.8410770904694225,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 121.26631102755063,
+            "clip_similarity": 0.70458984375,
+            "structure_similarity": 0.36680554837941615,
+            "compile_error": "Cannot apply unknown utility class: bg-gray-100"
+        },
+        "71": {
+            "MAE": 41.560386428712484,
+            "clip_similarity": 0.79345703125,
+            "structure_similarity": 0.7519453454427403,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 172.97345276251525,
+            "clip_similarity": 0.69482421875,
+            "structure_similarity": 0.3590545887394133,
+            "compile_error": "Cannot apply unknown utility class: max-w-7xl"
+        },
+        "73": {
+            "MAE": 93.2136994949495,
+            "clip_similarity": 0.70068359375,
+            "structure_similarity": 0.4523621137615158,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "74": {
+            "MAE": 13.182812006786616,
+            "clip_similarity": 0.84423828125,
+            "structure_similarity": 0.859580041219603,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 151.08068991467428,
+            "clip_similarity": 0.6953125,
+            "structure_similarity": 0.28066229690994976,
+            "compile_error": "Element is missing end tag."
+        },
+        "76": {
+            "MAE": 96.77944772611788,
+            "clip_similarity": 0.62744140625,
+            "structure_similarity": 0.823512402769021,
+            "compile_error": "Element is missing end tag."
+        },
+        "77": {
+            "MAE": 111.46902991646537,
+            "clip_similarity": 0.54541015625,
+            "structure_similarity": 0.5484486307691201,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 97.47369924532313,
+            "clip_similarity": 0.72216796875,
+            "structure_similarity": 0.8234992373073725,
+            "compile_error": "Element is missing end tag."
+        },
+        "79": {
+            "MAE": 136.24282563149197,
+            "clip_similarity": 0.75390625,
+            "structure_similarity": 0.391893192281068,
+            "compile_error": "Cannot apply unknown utility class: bg-gray-100"
+        },
+        "80": {
+            "MAE": 140.92512568721065,
+            "clip_similarity": 0.66943359375,
+            "structure_similarity": 0.3857350434789285,
+            "compile_error": "Package path ./base is not exported from package /home/xjy/DesignBench/web/my-vue-app/node_modules/tailwindcss (see exports field in /home/xjy/DesignBench/web/my-vue-app/node_modules/tailwindcss/package.json)"
+        },
+        "81": {
+            "MAE": 128.17399207344891,
+            "clip_similarity": 0.71240234375,
+            "structure_similarity": 0.6707749789923474,
+            "compile_error": "Cannot apply unknown utility class: max-w-7xl"
+        },
+        "82": {
+            "MAE": 117.25650581566549,
+            "clip_similarity": 0.69677734375,
+            "structure_similarity": 0.34749406018206846,
+            "compile_error": "Cannot apply unknown utility class: max-w-7xl"
+        },
+        "83": {
+            "MAE": 101.88891369047619,
+            "clip_similarity": 0.73095703125,
+            "structure_similarity": 0.8433099042511368,
+            "compile_error": "Unexpected EOF in tag."
+        }
+    },
+    "pixtral-large-latest": {
+        "1": {
+            "MAE": 83.15270121129089,
+            "clip_similarity": 0.78564453125,
+            "structure_similarity": 0.756359627503262,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 10.334785461425781,
+            "clip_similarity": 0.88330078125,
+            "structure_similarity": 0.8997202087383501,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 89.17763289684548,
+            "clip_similarity": 0.67529296875,
+            "structure_similarity": 0.4453894316718526,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 123.4380584623471,
+            "clip_similarity": 0.712890625,
+            "structure_similarity": 0.09125955761470367,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 81.2935510966227,
+            "clip_similarity": 0.87451171875,
+            "structure_similarity": 0.244093174228206,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 43.43735279477467,
+            "clip_similarity": 0.796875,
+            "structure_similarity": 0.6515162373855692,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 56.338477574481864,
+            "clip_similarity": 0.82421875,
+            "structure_similarity": 0.709798122824194,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 60.58970303988754,
+            "clip_similarity": 0.88134765625,
+            "structure_similarity": 0.7863874943584089,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 103.45435384114583,
+            "clip_similarity": 0.8603515625,
+            "structure_similarity": 0.5933440340913569,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 96.62630309296114,
+            "clip_similarity": 0.82763671875,
+            "structure_similarity": 0.8684508827690953,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 126.26181369357639,
+            "clip_similarity": 0.62353515625,
+            "structure_similarity": 0.29716671160753894,
+            "compile_error": "Failed to resolve import \"chart.js/auto\" from \"src/components/HelloWorld.vue\". Does the file exist?"
+        },
+        "12": {
+            "MAE": 58.28551001148021,
+            "clip_similarity": 0.8115234375,
+            "structure_similarity": 0.7478989732264021,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 41.67116038004557,
+            "clip_similarity": 0.8935546875,
+            "structure_similarity": 0.8787562490286476,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 54.07277088994565,
+            "clip_similarity": 0.80615234375,
+            "structure_similarity": 0.7593907423731714,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 35.1484070164437,
+            "clip_similarity": 0.8037109375,
+            "structure_similarity": 0.7228887853646454,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 19.44080352783203,
+            "clip_similarity": 0.8359375,
+            "structure_similarity": 0.8819262223918626,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 71.17358699845678,
+            "clip_similarity": 0.72509765625,
+            "structure_similarity": 0.1712570865163937,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 60.28222574933641,
+            "clip_similarity": 0.77099609375,
+            "structure_similarity": 0.36145841258420486,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 48.673179784751035,
+            "clip_similarity": 0.73193359375,
+            "structure_similarity": 0.07772658608050143,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 83.67959807119964,
+            "clip_similarity": 0.724609375,
+            "structure_similarity": 0.7801600605434765,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 72.96814135174418,
+            "clip_similarity": 0.85595703125,
+            "structure_similarity": 0.6790028046574337,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 78.10320649730215,
+            "clip_similarity": 0.70703125,
+            "structure_similarity": 0.7285285381094342,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 67.7018526940402,
+            "clip_similarity": 0.8203125,
+            "structure_similarity": 0.7014973068505951,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 4.166460673014323,
+            "clip_similarity": 0.86083984375,
+            "structure_similarity": 0.9225262786884214,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 72.03947212196049,
+            "clip_similarity": 0.83984375,
+            "structure_similarity": 0.7246293914024473,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 43.204221775587826,
+            "clip_similarity": 0.818359375,
+            "structure_similarity": 0.7223528279114808,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 74.86188526741195,
+            "clip_similarity": 0.82568359375,
+            "structure_similarity": 0.6603395939906284,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 126.0083690009626,
+            "clip_similarity": 0.79443359375,
+            "structure_similarity": 0.3225240884851167,
+            "compile_error": "NULL"
+        },
+        "29": {
+            "MAE": 29.118858424429657,
+            "clip_similarity": 0.8427734375,
+            "structure_similarity": 0.7675814837092598,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 58.31234468190855,
+            "clip_similarity": 0.84814453125,
+            "structure_similarity": 0.8749270608186133,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 25.27245839436849,
+            "clip_similarity": 0.81689453125,
+            "structure_similarity": 0.7915432044946762,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 50.27418893594237,
+            "clip_similarity": 0.90283203125,
+            "structure_similarity": 0.7353962090889491,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 58.30048624674479,
+            "clip_similarity": 0.8603515625,
+            "structure_similarity": 0.6651080851691422,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 46.198177083333334,
+            "clip_similarity": 0.81787109375,
+            "structure_similarity": 0.7181468554635412,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 26.37852038457354,
+            "clip_similarity": 0.8447265625,
+            "structure_similarity": 0.6631619057583907,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 11.679794311523438,
+            "clip_similarity": 0.859375,
+            "structure_similarity": 0.8410038733118324,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 22.30721706814236,
+            "clip_similarity": 0.748046875,
+            "structure_similarity": 0.9524473028169366,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 70.29914566738154,
+            "clip_similarity": 0.8759765625,
+            "structure_similarity": 0.7374679632479041,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 39.88699368313626,
+            "clip_similarity": 0.8876953125,
+            "structure_similarity": 0.7825960633253587,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 106.22667100694444,
+            "clip_similarity": 0.81201171875,
+            "structure_similarity": 0.8966023674978172,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "41": {
+            "MAE": 82.04697092951866,
+            "clip_similarity": 0.8056640625,
+            "structure_similarity": 0.4765213030422219,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 91.474609375,
+            "clip_similarity": 0.88134765625,
+            "structure_similarity": 0.7603038992058052,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 23.58023016467066,
+            "clip_similarity": 0.93603515625,
+            "structure_similarity": 0.6337199352600743,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 63.44003860764538,
+            "clip_similarity": 0.76611328125,
+            "structure_similarity": 0.7188953155621383,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 44.205816620024876,
+            "clip_similarity": 0.86279296875,
+            "structure_similarity": 0.6105827648939249,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 54.401939392089844,
+            "clip_similarity": 0.76611328125,
+            "structure_similarity": 0.727339015806513,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 63.38807844764012,
+            "clip_similarity": 0.82080078125,
+            "structure_similarity": 0.1936397707920608,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 75.91115297750737,
+            "clip_similarity": 0.908203125,
+            "structure_similarity": 0.8388407873325784,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 72.39506655092593,
+            "clip_similarity": 0.8623046875,
+            "structure_similarity": 0.5975583226614012,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 47.29011059670782,
+            "clip_similarity": 0.83642578125,
+            "structure_similarity": 0.24360923993710587,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 26.542189577792552,
+            "clip_similarity": 0.884765625,
+            "structure_similarity": 0.06143388137114773,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 49.55481993888294,
+            "clip_similarity": 0.74853515625,
+            "structure_similarity": 0.14774564569026655,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 92.32606485445206,
+            "clip_similarity": 0.58837890625,
+            "structure_similarity": 0.7180901339795298,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 48.1422343164794,
+            "clip_similarity": 0.8759765625,
+            "structure_similarity": 0.8802727597424661,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 57.75606372974537,
+            "clip_similarity": 0.71435546875,
+            "structure_similarity": 0.7610443265081731,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 8.927759806315104,
+            "clip_similarity": 0.98046875,
+            "structure_similarity": 0.9381185262779679,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 70.99814163578166,
+            "clip_similarity": 0.85888671875,
+            "structure_similarity": 0.7468390496750669,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 50.86486695544554,
+            "clip_similarity": 0.78271484375,
+            "structure_similarity": 0.6952269402814905,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 68.32119166947439,
+            "clip_similarity": 0.783203125,
+            "structure_similarity": 0.6863147928891097,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 82.22738921957672,
+            "clip_similarity": 0.7373046875,
+            "structure_similarity": 0.6170790415222521,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 42.34949595080001,
+            "clip_similarity": 0.92578125,
+            "structure_similarity": 0.8068394415792673,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 39.26174796340812,
+            "clip_similarity": 0.9111328125,
+            "structure_similarity": 0.7791334993025633,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 20.69308771732614,
+            "clip_similarity": 0.8603515625,
+            "structure_similarity": 0.8939600795881859,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 33.74120068487533,
+            "clip_similarity": 0.95166015625,
+            "structure_similarity": 0.8235779771620779,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 90.04242217347182,
+            "clip_similarity": 0.77294921875,
+            "structure_similarity": 0.14910411694103948,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 12.796249389648438,
+            "clip_similarity": 0.78076171875,
+            "structure_similarity": 0.9454130387712918,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 57.54450937289136,
+            "clip_similarity": 0.87353515625,
+            "structure_similarity": 0.6641227877407435,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 12.250890096028646,
+            "clip_similarity": 0.62451171875,
+            "structure_similarity": 0.8380532022268309,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 73.28100077311198,
+            "clip_similarity": 0.8818359375,
+            "structure_similarity": 0.7258753088967808,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 37.83783938560957,
+            "clip_similarity": 0.71826171875,
+            "structure_similarity": 0.7929148771441348,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 26.315299301771116,
+            "clip_similarity": 0.8544921875,
+            "structure_similarity": 0.7465694599721772,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 27.040648370726494,
+            "clip_similarity": 0.759765625,
+            "structure_similarity": 0.7614103721328502,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 103.1038212159864,
+            "clip_similarity": 0.7373046875,
+            "structure_similarity": 0.6536074881484164,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 20.90313042534722,
+            "clip_similarity": 0.8525390625,
+            "structure_similarity": 0.7975946193446053,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 44.72023262429972,
+            "clip_similarity": 0.82958984375,
+            "structure_similarity": 0.7266730715090907,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 70.78353863113497,
+            "clip_similarity": 0.74951171875,
+            "structure_similarity": 0.7570100361952087,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 115.13449885670731,
+            "clip_similarity": 0.8369140625,
+            "structure_similarity": 0.5042879625573593,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 20.601122879080755,
+            "clip_similarity": 0.89111328125,
+            "structure_similarity": 0.7402392465657629,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 58.885403645833335,
+            "clip_similarity": 0.8232421875,
+            "structure_similarity": 0.7639634753464032,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 60.260030531609196,
+            "clip_similarity": 0.833984375,
+            "structure_similarity": 0.6612399968365309,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 137.29062069163604,
+            "clip_similarity": 0.84521484375,
+            "structure_similarity": 0.3690465446963723,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 89.94890950520833,
+            "clip_similarity": 0.81787109375,
+            "structure_similarity": 0.59641638938303,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 93.14930555555556,
+            "clip_similarity": 0.84375,
+            "structure_similarity": 0.6509706356193512,
+            "compile_error": "NULL"
+        }
+    },
+    "pixtral-12b-2409": {
+        "1": {
+            "MAE": 91.8821642951162,
+            "clip_similarity": 0.806640625,
+            "structure_similarity": 0.7612217094224046,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 9.301658630371094,
+            "clip_similarity": 0.810546875,
+            "structure_similarity": 0.8883905206713443,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 105.40177173651253,
+            "clip_similarity": 0.69775390625,
+            "structure_similarity": 0.37019228329052073,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 90.96450180380351,
+            "clip_similarity": 0.87158203125,
+            "structure_similarity": 0.4853398196877522,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 32.61671046947004,
+            "clip_similarity": 0.86279296875,
+            "structure_similarity": 0.708386974653971,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 45.8678112252331,
+            "clip_similarity": 0.75146484375,
+            "structure_similarity": 0.6468895581862947,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 53.16226791882556,
+            "clip_similarity": 0.8720703125,
+            "structure_similarity": 0.699603527078148,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 138.21563216083763,
+            "clip_similarity": 0.69677734375,
+            "structure_similarity": 0.35098981927049144,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 77.11411689082279,
+            "clip_similarity": 0.83544921875,
+            "structure_similarity": 0.8592529614718142,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 79.56133613952171,
+            "clip_similarity": 0.79541015625,
+            "structure_similarity": 0.8243019133094406,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 62.9161868625217,
+            "clip_similarity": 0.79345703125,
+            "structure_similarity": 0.8040445552104377,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 62.2100732421875,
+            "clip_similarity": 0.84228515625,
+            "structure_similarity": 0.7383853509193764,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 52.98416646321615,
+            "clip_similarity": 0.91552734375,
+            "structure_similarity": 0.8563121681362801,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 49.11411769701087,
+            "clip_similarity": 0.79150390625,
+            "structure_similarity": 0.7644530923243976,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 40.05357920498885,
+            "clip_similarity": 0.81689453125,
+            "structure_similarity": 0.6655574340257878,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 22.123057047526043,
+            "clip_similarity": 0.8466796875,
+            "structure_similarity": 0.8708302200655547,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 80.06500369727367,
+            "clip_similarity": 0.79638671875,
+            "structure_similarity": 0.06418170484120367,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 58.89508538722603,
+            "clip_similarity": 0.78515625,
+            "structure_similarity": 0.21959965351337063,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 51.2784891511065,
+            "clip_similarity": 0.79052734375,
+            "structure_similarity": 0.06566217586412128,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 79.80830400068682,
+            "clip_similarity": 0.6904296875,
+            "structure_similarity": 0.8135272853547965,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 81.23128330910853,
+            "clip_similarity": 0.8173828125,
+            "structure_similarity": 0.7098980708648955,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 75.36019934052757,
+            "clip_similarity": 0.78125,
+            "structure_similarity": 0.6920255672875285,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 40.15416637986417,
+            "clip_similarity": 0.8779296875,
+            "structure_similarity": 0.7247905876906787,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 10.860097249348959,
+            "clip_similarity": 0.84765625,
+            "structure_similarity": 0.9054177509793999,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 60.208121596377914,
+            "clip_similarity": 0.84326171875,
+            "structure_similarity": 0.7384949485042321,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 21.57613135373444,
+            "clip_similarity": 0.7919921875,
+            "structure_similarity": 0.8086889426228879,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 93.60856745469405,
+            "clip_similarity": 0.65185546875,
+            "structure_similarity": 0.4896198086728215,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 75.5891948569857,
+            "clip_similarity": 0.76806640625,
+            "structure_similarity": 0.6323908771218988,
+            "compile_error": "NULL"
+        },
+        "29": {
+            "MAE": 55.558799743652344,
+            "clip_similarity": 0.89892578125,
+            "structure_similarity": 0.656749798643456,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 59.079016784708415,
+            "clip_similarity": 0.78125,
+            "structure_similarity": 0.8675133206175005,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 36.20904541015625,
+            "clip_similarity": 0.73388671875,
+            "structure_similarity": 0.7690492924145181,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 53.65324425623053,
+            "clip_similarity": 0.81005859375,
+            "structure_similarity": 0.7336119990454142,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 85.35509490966797,
+            "clip_similarity": 0.81640625,
+            "structure_similarity": 0.5501907110327287,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 35.54753928319209,
+            "clip_similarity": 0.79931640625,
+            "structure_similarity": 0.7282328962013831,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 42.76189744015957,
+            "clip_similarity": 0.85400390625,
+            "structure_similarity": 0.6740238111390757,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 11.177047729492188,
+            "clip_similarity": 0.896484375,
+            "structure_similarity": 0.8457907939293112,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 25.063899287471063,
+            "clip_similarity": 0.84130859375,
+            "structure_similarity": 0.9463623301303885,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 64.31754115226337,
+            "clip_similarity": 0.91259765625,
+            "structure_similarity": 0.7971888871079919,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 77.05820695465687,
+            "clip_similarity": 0.91796875,
+            "structure_similarity": 0.7791258145598967,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 91.27479660888078,
+            "clip_similarity": 0.8369140625,
+            "structure_similarity": 0.7637309174068343,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 47.38264366404715,
+            "clip_similarity": 0.86474609375,
+            "structure_similarity": 0.5308950360695738,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 93.74917270948434,
+            "clip_similarity": 0.83349609375,
+            "structure_similarity": 0.7583194499646695,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 114.0918631487026,
+            "clip_similarity": 0.8095703125,
+            "structure_similarity": 0.38629889288162284,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 69.37099156857249,
+            "clip_similarity": 0.85498046875,
+            "structure_similarity": 0.6325167194084004,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 36.58922463574982,
+            "clip_similarity": 0.89111328125,
+            "structure_similarity": 0.6345733047194962,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 40.04584248860677,
+            "clip_similarity": 0.837890625,
+            "structure_similarity": 0.8129233567999223,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 63.108151441429094,
+            "clip_similarity": 0.8046875,
+            "structure_similarity": 0.172421934401596,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 90.4244445980826,
+            "clip_similarity": 0.892578125,
+            "structure_similarity": 0.8439938455923756,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 57.71657825360082,
+            "clip_similarity": 0.84765625,
+            "structure_similarity": 0.598805556887672,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 69.48599376286008,
+            "clip_similarity": 0.716796875,
+            "structure_similarity": 0.6028145910540934,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 69.06040686603943,
+            "clip_similarity": 0.72802734375,
+            "structure_similarity": 0.4013144201200253,
+            "compile_error": "Cannot apply unknown utility class: sm:text-sm"
+        },
+        "52": {
+            "MAE": 38.85348077266239,
+            "clip_similarity": 0.81884765625,
+            "structure_similarity": 0.19126024591953197,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 48.984232305936075,
+            "clip_similarity": 0.73291015625,
+            "structure_similarity": 0.7803512898058771,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 53.57174808345037,
+            "clip_similarity": 0.822265625,
+            "structure_similarity": 0.8336106748905218,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 56.73582732371795,
+            "clip_similarity": 0.6953125,
+            "structure_similarity": 0.7727467065558246,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 14.90228525797526,
+            "clip_similarity": 0.93505859375,
+            "structure_similarity": 0.9347531797678472,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 96.4510823787062,
+            "clip_similarity": 0.693359375,
+            "structure_similarity": 0.6292169617056321,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 40.54460486451525,
+            "clip_similarity": 0.84375,
+            "structure_similarity": 0.7599344271579319,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 72.79843995479727,
+            "clip_similarity": 0.57958984375,
+            "structure_similarity": 0.670851677544554,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 83.89954630533855,
+            "clip_similarity": 0.7392578125,
+            "structure_similarity": 0.27376590150354924,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 35.065325444089716,
+            "clip_similarity": 0.85546875,
+            "structure_similarity": 0.8243281470091683,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 50.015482584635414,
+            "clip_similarity": 0.84765625,
+            "structure_similarity": 0.763817783404289,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 18.800476806055155,
+            "clip_similarity": 0.84521484375,
+            "structure_similarity": 0.9012532766855068,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 152.82677114396952,
+            "clip_similarity": 0.67333984375,
+            "structure_similarity": 0.3490671783757251,
+            "compile_error": "Cannot apply unknown utility class: bg-green-500"
+        },
+        "65": {
+            "MAE": 98.6276715158046,
+            "clip_similarity": 0.7529296875,
+            "structure_similarity": 0.261085370894219,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 11.697664896647135,
+            "clip_similarity": 0.671875,
+            "structure_similarity": 0.949720684281514,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 36.89174653129217,
+            "clip_similarity": 0.8623046875,
+            "structure_similarity": 0.6551058185463391,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 20.700030008951824,
+            "clip_similarity": 0.798828125,
+            "structure_similarity": 0.8645755368979064,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 66.90191904703777,
+            "clip_similarity": 0.65625,
+            "structure_similarity": 0.7825353358211078,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 68.11489124584695,
+            "clip_similarity": 0.79150390625,
+            "structure_similarity": 0.7787656893544738,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 168.90186776183282,
+            "clip_similarity": 0.6416015625,
+            "structure_similarity": 0.27595827311915394,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 30.959125076312578,
+            "clip_similarity": 0.8955078125,
+            "structure_similarity": 0.7553213983226293,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 101.77779549319727,
+            "clip_similarity": 0.7412109375,
+            "structure_similarity": 0.643284663418171,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 14.620494495738637,
+            "clip_similarity": 0.8310546875,
+            "structure_similarity": 0.8304197456895493,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 33.654900045955884,
+            "clip_similarity": 0.83544921875,
+            "structure_similarity": 0.7729773834503462,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 75.02176795756647,
+            "clip_similarity": 0.7958984375,
+            "structure_similarity": 0.799234299403816,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 102.18616017512078,
+            "clip_similarity": 0.6142578125,
+            "structure_similarity": 0.3356562343135327,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 100.4446481717687,
+            "clip_similarity": 0.6796875,
+            "structure_similarity": 0.7029681898310143,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 47.86030133928571,
+            "clip_similarity": 0.8349609375,
+            "structure_similarity": 0.7882856804025743,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 56.713293223180074,
+            "clip_similarity": 0.77197265625,
+            "structure_similarity": 0.744536760032696,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 102.83366842830883,
+            "clip_similarity": 0.78076171875,
+            "structure_similarity": 0.5232915580027864,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 102.07011021205358,
+            "clip_similarity": 0.81396484375,
+            "structure_similarity": 0.5579672583648481,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 96.08293145576131,
+            "clip_similarity": 0.869140625,
+            "structure_similarity": 0.6086441099337757,
+            "compile_error": "NULL"
+        }
+    },
+    "qwen2.5-vl-72b-instruct": {
+        "1": {
+            "MAE": 101.69556071850036,
+            "clip_similarity": 0.783203125,
+            "structure_similarity": 0.6650429530382868,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 197.52332051595053,
+            "clip_similarity": 0.6435546875,
+            "structure_similarity": 0.2509276975901809,
+            "compile_error": "Failed to resolve import \"@/components/ui/icon\" from \"src/components/HelloWorld.vue\". Does the file exist?"
+        },
+        "3": {
+            "MAE": 82.9027522984143,
+            "clip_similarity": 0.83056640625,
+            "structure_similarity": 0.5393864538183577,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 67.84248972668196,
+            "clip_similarity": 0.89208984375,
+            "structure_similarity": 0.04724559002688315,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 72.29645502348122,
+            "clip_similarity": 0.923828125,
+            "structure_similarity": 0.5818593841577329,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 40.59536015200078,
+            "clip_similarity": 0.7568359375,
+            "structure_similarity": 0.6857116760492588,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 113.70199495358376,
+            "clip_similarity": 0.87744140625,
+            "structure_similarity": 0.44517192337357,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 48.13379693483823,
+            "clip_similarity": 0.88525390625,
+            "structure_similarity": 0.7531372405941283,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 80.46079554354637,
+            "clip_similarity": 0.8388671875,
+            "structure_similarity": 0.8409790581076041,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 57.09802582185627,
+            "clip_similarity": 0.93212890625,
+            "structure_similarity": 0.8604509099479535,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 126.34580993652344,
+            "clip_similarity": 0.62353515625,
+            "structure_similarity": 0.297166420052344,
+            "compile_error": "Failed to resolve import \"chart.js/auto\" from \"src/components/HelloWorld.vue\". Does the file exist?"
+        },
+        "12": {
+            "MAE": 136.15365863022112,
+            "clip_similarity": 0.69580078125,
+            "structure_similarity": 0.3083144955523031,
+            "compile_error": "Failed to resolve import \"@components/tooltip/Tooltip.vue\" from \"src/components/ui/index.ts\". Does the file exist?"
+        },
+        "13": {
+            "MAE": 69.99811553955078,
+            "clip_similarity": 0.88134765625,
+            "structure_similarity": 0.8157568313963068,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 83.4791652513587,
+            "clip_similarity": 0.85107421875,
+            "structure_similarity": 0.7425924488957593,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 31.933413026059085,
+            "clip_similarity": 0.8505859375,
+            "structure_similarity": 0.7463362587493629,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 10.636884053548178,
+            "clip_similarity": 0.876953125,
+            "structure_similarity": 0.8943549765525121,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 59.42426990327381,
+            "clip_similarity": 0.74169921875,
+            "structure_similarity": 0.24798234177457829,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 47.139918716050275,
+            "clip_similarity": 0.7919921875,
+            "structure_similarity": 0.41224627453214885,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 56.60477043352351,
+            "clip_similarity": 0.798828125,
+            "structure_similarity": 0.06804918209945202,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 69.56461051968864,
+            "clip_similarity": 0.76220703125,
+            "structure_similarity": 0.8049051542877295,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 72.23812984496124,
+            "clip_similarity": 0.87646484375,
+            "structure_similarity": 0.6857483623540048,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 73.70088616606715,
+            "clip_similarity": 0.751953125,
+            "structure_similarity": 0.6987647892432438,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 79.6534590479903,
+            "clip_similarity": 0.74169921875,
+            "structure_similarity": 0.7141898598187472,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 3.4268035888671875,
+            "clip_similarity": 0.90478515625,
+            "structure_similarity": 0.9227492424436801,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 66.40246248100304,
+            "clip_similarity": 0.85205078125,
+            "structure_similarity": 0.6854216261668755,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 31.248454789073307,
+            "clip_similarity": 0.81884765625,
+            "structure_similarity": 0.7974670913208526,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 58.617467440448074,
+            "clip_similarity": 0.890625,
+            "structure_similarity": 0.7024978716185502,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 79.09703286696623,
+            "clip_similarity": 0.515625,
+            "structure_similarity": 0.66295590179942,
+            "compile_error": "blank"
+        },
+        "29": {
+            "MAE": 36.327511663449165,
+            "clip_similarity": 0.892578125,
+            "structure_similarity": 0.7655232142757257,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 58.58557509111995,
+            "clip_similarity": 0.79150390625,
+            "structure_similarity": 0.8777555004917035,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 41.73787943522135,
+            "clip_similarity": 0.880859375,
+            "structure_similarity": 0.741372878731176,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 72.71824042299455,
+            "clip_similarity": 0.53466796875,
+            "structure_similarity": 0.8143107879109214,
+            "compile_error": "blank"
+        },
+        "33": {
+            "MAE": 73.47396341959636,
+            "clip_similarity": 0.826171875,
+            "structure_similarity": 0.5924034487257616,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 43.835604254943505,
+            "clip_similarity": 0.9130859375,
+            "structure_similarity": 0.7822087735812299,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 44.95600624184073,
+            "clip_similarity": 0.859375,
+            "structure_similarity": 0.699981669588863,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 11.081873575846354,
+            "clip_similarity": 0.919921875,
+            "structure_similarity": 0.8487674164611627,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 24.763466163917823,
+            "clip_similarity": 0.82421875,
+            "structure_similarity": 0.9574141739082506,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 70.28641156309865,
+            "clip_similarity": 0.919921875,
+            "structure_similarity": 0.7876880210758795,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 80.44900666824495,
+            "clip_similarity": 0.896484375,
+            "structure_similarity": 0.8099373416127458,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 107.64165817481884,
+            "clip_similarity": 0.79052734375,
+            "structure_similarity": 0.8180937181786716,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 44.67797355926653,
+            "clip_similarity": 0.8544921875,
+            "structure_similarity": 0.6051563087178758,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 92.42460865561694,
+            "clip_similarity": 0.857421875,
+            "structure_similarity": 0.7643277559417452,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 87.22549610534125,
+            "clip_similarity": 0.68359375,
+            "structure_similarity": 0.6950079542892074,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 71.47210738976084,
+            "clip_similarity": 0.92041015625,
+            "structure_similarity": 0.6855440679841258,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 31.434629308813076,
+            "clip_similarity": 0.9423828125,
+            "structure_similarity": 0.7595884096935323,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 29.978627522786457,
+            "clip_similarity": 0.8505859375,
+            "structure_similarity": 0.7414883293547757,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 49.030232033534354,
+            "clip_similarity": 0.8896484375,
+            "structure_similarity": 0.2205867561696029,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 63.59474672750738,
+            "clip_similarity": 0.875,
+            "structure_similarity": 0.8230396118989508,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 72.33009259259259,
+            "clip_similarity": 0.734375,
+            "structure_similarity": 0.6394182209806859,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 58.59741030092592,
+            "clip_similarity": 0.8720703125,
+            "structure_similarity": 0.24121997066104978,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 25.18575229272689,
+            "clip_similarity": 0.9091796875,
+            "structure_similarity": 0.06630641138995248,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 38.998148643825836,
+            "clip_similarity": 0.81787109375,
+            "structure_similarity": 0.1557367476682349,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 135.15999016794217,
+            "clip_similarity": 0.6875,
+            "structure_similarity": 0.3810905249925768,
+            "compile_error": "Single file component can contain only one &lt;template&gt; element"
+        },
+        "54": {
+            "MAE": 44.44801907771536,
+            "clip_similarity": 0.87646484375,
+            "structure_similarity": 0.8880019442652697,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 44.85500014308608,
+            "clip_similarity": 0.85400390625,
+            "structure_similarity": 0.784357384361337,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 7.647310892740886,
+            "clip_similarity": 0.98779296875,
+            "structure_similarity": 0.9596034387452702,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 41.46528772181042,
+            "clip_similarity": 0.87060546875,
+            "structure_similarity": 0.7815210414839571,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 40.797018959708474,
+            "clip_similarity": 0.8759765625,
+            "structure_similarity": 0.7800961887528208,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 109.67636034366576,
+            "clip_similarity": 0.673828125,
+            "structure_similarity": 0.621470241213143,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 57.642750809832314,
+            "clip_similarity": 0.86474609375,
+            "structure_similarity": 0.6040612686103438,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 25.964025784986482,
+            "clip_similarity": 0.8408203125,
+            "structure_similarity": 0.8132227531838128,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 34.37465930658545,
+            "clip_similarity": 0.9091796875,
+            "structure_similarity": 0.8584513150638572,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 19.391053563399282,
+            "clip_similarity": 0.8759765625,
+            "structure_similarity": 0.8785373690735168,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 13.962831672408136,
+            "clip_similarity": 0.931640625,
+            "structure_similarity": 0.8322898757869374,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 79.12243464882566,
+            "clip_similarity": 0.74462890625,
+            "structure_similarity": 0.1933178284635105,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 10.721745808919271,
+            "clip_similarity": 0.85693359375,
+            "structure_similarity": 0.9634432972390865,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 61.6421662414966,
+            "clip_similarity": 0.5556640625,
+            "structure_similarity": 0.6343757645181759,
+            "compile_error": "[vue/compiler-sfc] Unexpected token, expected \",\" (5:7)\n\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n105|  \n106|  const FeatureCard = (props: { icon: string, title: string, description: string }) =&gt; (\n107|    &lt;div class=\"bg-white p-4 rounded shadow flex flex-col items-center\"&gt;\n108|      &lt;i class={`fas ${props.icon} text-blue-600 text-2xl mb-2`}&gt;&lt;/i&gt;\n109|      &lt;h3 class=\"text-blue-600 font-bold mb-1\"&gt;{props.title}&lt;/h3&gt;"
+        },
+        "68": {
+            "MAE": 22.385292053222656,
+            "clip_similarity": 0.8330078125,
+            "structure_similarity": 0.8118241959627751,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 69.59565734863281,
+            "clip_similarity": 0.904296875,
+            "structure_similarity": 0.7533607047403501,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 79.19455445842978,
+            "clip_similarity": 0.85546875,
+            "structure_similarity": 0.7826264662075455,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 42.4981550541289,
+            "clip_similarity": 0.55810546875,
+            "structure_similarity": 0.8542466666226964,
+            "compile_error": "blank"
+        },
+        "72": {
+            "MAE": 23.47274448641636,
+            "clip_similarity": 0.861328125,
+            "structure_similarity": 0.7671643581354616,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 93.5817353219697,
+            "clip_similarity": 0.63525390625,
+            "structure_similarity": 0.3706680961258598,
+            "compile_error": "Transform failed with 8 errors:\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue:118:96: ERROR: \"package\" is a reserved word and cannot be used in an ECMAScript module\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue:120:19: ERROR: \"package\" is a reserved word and cannot be used in an ECMAScript module\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue:124:21: ERROR: \"package\" is a reserved word and cannot be used in an ECMAScript module\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue:125:21: ERROR: \"package\" is a reserved word and cannot be used in an ECMAScript module\n/home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue:128:70: ERROR: \"package\" is a reserved word and cannot be used in an ECMAScript module\n..."
+        },
+        "74": {
+            "MAE": 13.36346620501894,
+            "clip_similarity": 0.841796875,
+            "structure_similarity": 0.8270581090432422,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 151.8012346781878,
+            "clip_similarity": 0.69921875,
+            "structure_similarity": 0.26793377130944207,
+            "compile_error": "Failed to resolve import \"signature_pad\" from \"src/components/HelloWorld.vue\". Does the file exist?"
+        },
+        "76": {
+            "MAE": 51.58177163215746,
+            "clip_similarity": 0.86279296875,
+            "structure_similarity": 0.7915166032172735,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 119.93373666158537,
+            "clip_similarity": 0.85986328125,
+            "structure_similarity": 0.5717268796379013,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 95.73113992697594,
+            "clip_similarity": 0.7021484375,
+            "structure_similarity": 0.6488093674946589,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 53.21826264880952,
+            "clip_similarity": 0.8896484375,
+            "structure_similarity": 0.826031805889295,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 39.86633890086207,
+            "clip_similarity": 0.82177734375,
+            "structure_similarity": 0.7912282284886671,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 112.4106599756691,
+            "clip_similarity": 0.708984375,
+            "structure_similarity": 0.46358424882506166,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 106.89434523809524,
+            "clip_similarity": 0.904296875,
+            "structure_similarity": 0.4862093423572015,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 101.86956845238095,
+            "clip_similarity": 0.73095703125,
+            "structure_similarity": 0.8433099042511368,
+            "compile_error": "Element is missing end tag."
+        }
+    },
+    "qwen2.5-vl-7b-instruct": {
+        "1": {
+            "MAE": 89.15451388888889,
+            "clip_similarity": 0.6376953125,
+            "structure_similarity": 0.8197907609157925,
+            "compile_error": "Unquoted attribute value cannot contain U+0022 (\"), U+0027 ('), U+003C (&lt;), U+003D (=), and U+0060 (`)."
+        },
+        "2": {
+            "MAE": 193.92310841878256,
+            "clip_similarity": 0.67236328125,
+            "structure_similarity": 0.27233395909280295,
+            "compile_error": "Element is missing end tag."
+        },
+        "3": {
+            "MAE": 161.62368088740777,
+            "clip_similarity": 0.6318359375,
+            "structure_similarity": 0.3170359101503374,
+            "compile_error": "Invalid end tag."
+        },
+        "4": {
+            "MAE": 167.29773654012703,
+            "clip_similarity": 0.716796875,
+            "structure_similarity": 0.17132352998804234,
+            "compile_error": "Duplicate attribute."
+        },
+        "5": {
+            "MAE": 160.92236288905622,
+            "clip_similarity": 0.666015625,
+            "structure_similarity": 0.2413419928089224,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "6": {
+            "MAE": 107.86037186056582,
+            "clip_similarity": 0.67578125,
+            "structure_similarity": 0.38222651489496634,
+            "compile_error": "Illegal '/' in tags."
+        },
+        "7": {
+            "MAE": 108.17334152169244,
+            "clip_similarity": 0.640625,
+            "structure_similarity": 0.24913768184582616,
+            "compile_error": "Illegal '/' in tags."
+        },
+        "8": {
+            "MAE": 140.85208920238276,
+            "clip_similarity": 0.71435546875,
+            "structure_similarity": 0.28365255190305233,
+            "compile_error": "Element is missing end tag."
+        },
+        "9": {
+            "MAE": 76.47177677266082,
+            "clip_similarity": 0.71142578125,
+            "structure_similarity": 0.9245638732106142,
+            "compile_error": "[postcss] /home/xjy/DesignBench/web/my-vue-app/src/components/HelloWorld.vue?vue&amp;type=style&amp;index=0&amp;scoped=e17ea971&amp;lang.css:14:59: Missed semicolon"
+        },
+        "10": {
+            "MAE": 124.70113576092324,
+            "clip_similarity": 0.7041015625,
+            "structure_similarity": 0.299387605358546,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "11": {
+            "MAE": 100.60235256618924,
+            "clip_similarity": 0.52978515625,
+            "structure_similarity": 0.870213107198545,
+            "compile_error": "Invalid end tag."
+        },
+        "12": {
+            "MAE": 136.65402174191237,
+            "clip_similarity": 0.70947265625,
+            "structure_similarity": 0.2968866807172631,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 59.90107727050781,
+            "clip_similarity": 0.8525390625,
+            "structure_similarity": 0.8638220845658108,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 92.72761330409357,
+            "clip_similarity": 0.69287109375,
+            "structure_similarity": 0.8556898047784623,
+            "compile_error": "Duplicate attribute."
+        },
+        "15": {
+            "MAE": 32.075255190914156,
+            "clip_similarity": 0.505859375,
+            "structure_similarity": 0.8396413094344899,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 12.467793782552084,
+            "clip_similarity": 0.74853515625,
+            "structure_similarity": 0.9263039395873003,
+            "compile_error": "Error parsing JavaScript expression: Unexpected token, expected \",\" (1:312)"
+        },
+        "17": {
+            "MAE": 132.97205284552845,
+            "clip_similarity": 0.7236328125,
+            "structure_similarity": 0.07085100900024281,
+            "compile_error": "blank"
+        },
+        "18": {
+            "MAE": 168.3258868068401,
+            "clip_similarity": 0.671875,
+            "structure_similarity": 0.06673232071648982,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "19": {
+            "MAE": 172.14109289442163,
+            "clip_similarity": 0.6416015625,
+            "structure_similarity": 0.06539824192064728,
+            "compile_error": "Unquoted attribute value cannot contain U+0022 (\"), U+0027 ('), U+003C (&lt;), U+003D (=), and U+0060 (`)."
+        },
+        "20": {
+            "MAE": 110.82663080601093,
+            "clip_similarity": 0.5498046875,
+            "structure_similarity": 0.3395524558519019,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "21": {
+            "MAE": 113.95315500192012,
+            "clip_similarity": 0.61328125,
+            "structure_similarity": 0.3304892479226812,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "22": {
+            "MAE": 116.00279482886904,
+            "clip_similarity": 0.58740234375,
+            "structure_similarity": 0.31956477830969193,
+            "compile_error": "Element is missing end tag."
+        },
+        "23": {
+            "MAE": 122.38931487911523,
+            "clip_similarity": 0.61865234375,
+            "structure_similarity": 0.37703387279247974,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "24": {
+            "MAE": 184.98905181884766,
+            "clip_similarity": 0.7060546875,
+            "structure_similarity": 0.336827982272681,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "25": {
+            "MAE": 150.46148762031407,
+            "clip_similarity": 0.64208984375,
+            "structure_similarity": 0.28555557500710715,
+            "compile_error": "Illegal '/' in tags."
+        },
+        "26": {
+            "MAE": 182.90497763226142,
+            "clip_similarity": 0.7216796875,
+            "structure_similarity": 0.2919937455955794,
+            "compile_error": "Element is missing end tag."
+        },
+        "27": {
+            "MAE": 97.15518052047733,
+            "clip_similarity": 0.67138671875,
+            "structure_similarity": 0.3786164697431477,
+            "compile_error": "Error parsing JavaScript expression: 'return' outside of function. (3:24)"
+        },
+        "28": {
+            "MAE": 123.81062346813725,
+            "clip_similarity": 0.70068359375,
+            "structure_similarity": 0.3556952136396479,
+            "compile_error": "Invalid end tag."
+        },
+        "29": {
+            "MAE": 125.24523162841797,
+            "clip_similarity": 0.65771484375,
+            "structure_similarity": 0.38196483609082593,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "30": {
+            "MAE": 67.0508485545063,
+            "clip_similarity": 0.7060546875,
+            "structure_similarity": 0.5819093759035401,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "31": {
+            "MAE": 168.2704823811849,
+            "clip_similarity": 0.6474609375,
+            "structure_similarity": 0.27835259811591245,
+            "compile_error": "Duplicate attribute."
+        },
+        "32": {
+            "MAE": 141.2969449717679,
+            "clip_similarity": 0.6748046875,
+            "structure_similarity": 0.31591283548971383,
+            "compile_error": "Error parsing JavaScript expression: Unexpected token, expected \",\" (2:11)"
+        },
+        "33": {
+            "MAE": 144.82294718424478,
+            "clip_similarity": 0.6513671875,
+            "structure_similarity": 0.3375789827533394,
+            "compile_error": "Element is missing end tag."
+        },
+        "34": {
+            "MAE": 149.02046257062148,
+            "clip_similarity": 0.57568359375,
+            "structure_similarity": 0.3314627019266714,
+            "compile_error": "Invalid end tag."
+        },
+        "35": {
+            "MAE": 148.99088371681898,
+            "clip_similarity": 0.65087890625,
+            "structure_similarity": 0.29996728375380904,
+            "compile_error": "Unquoted attribute value cannot contain U+0022 (\"), U+0027 ('), U+003C (&lt;), U+003D (=), and U+0060 (`)."
+        },
+        "36": {
+            "MAE": 180.09391021728516,
+            "clip_similarity": 0.59326171875,
+            "structure_similarity": 0.2807561597864655,
+            "compile_error": "Error parsing JavaScript expression: Unexpected token (1:191)"
+        },
+        "37": {
+            "MAE": 174.53915518301505,
+            "clip_similarity": 0.63427734375,
+            "structure_similarity": 0.30373212482443496,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "38": {
+            "MAE": 90.35495427741859,
+            "clip_similarity": 0.376220703125,
+            "structure_similarity": 0.8358317290868962,
+            "compile_error": "blank"
+        },
+        "39": {
+            "MAE": 132.91077125615007,
+            "clip_similarity": 0.57568359375,
+            "structure_similarity": 0.3303598709572744,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "40": {
+            "MAE": 128.79470486111111,
+            "clip_similarity": 0.68798828125,
+            "structure_similarity": 0.2859972300692198,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "41": {
+            "MAE": 69.38914001105108,
+            "clip_similarity": 0.701171875,
+            "structure_similarity": 0.506869646774729,
+            "compile_error": "Element is missing end tag."
+        },
+        "42": {
+            "MAE": 111.87929047131148,
+            "clip_similarity": 0.685546875,
+            "structure_similarity": 0.37440023766206415,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "43": {
+            "MAE": 131.60218649542531,
+            "clip_similarity": 0.68017578125,
+            "structure_similarity": 0.2685254230427271,
+            "compile_error": "Invalid end tag."
+        },
+        "44": {
+            "MAE": 86.31780960648148,
+            "clip_similarity": 0.71630859375,
+            "structure_similarity": 0.5918581118517874,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "45": {
+            "MAE": 54.19327266120507,
+            "clip_similarity": 0.67626953125,
+            "structure_similarity": 0.58304324490872,
+            "compile_error": "Invalid end tag."
+        },
+        "46": {
+            "MAE": 170.6583480834961,
+            "clip_similarity": 0.5283203125,
+            "structure_similarity": 0.294619005219126,
+            "compile_error": "Error parsing JavaScript expression: Unexpected token (1:105)"
+        },
+        "47": {
+            "MAE": 74.54221832365413,
+            "clip_similarity": 0.58984375,
+            "structure_similarity": 0.41951455868397164,
+            "compile_error": "End bracket for dynamic directive argument was not found. Note that dynamic directive argument cannot contain spaces."
+        },
+        "48": {
+            "MAE": 121.72921806469299,
+            "clip_similarity": 0.66650390625,
+            "structure_similarity": 0.30085930133111277,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "49": {
+            "MAE": 86.76761992026749,
+            "clip_similarity": 0.70654296875,
+            "structure_similarity": 0.36440868445895735,
+            "compile_error": "Element is missing end tag."
+        },
+        "50": {
+            "MAE": 81.38637014822739,
+            "clip_similarity": 0.69189453125,
+            "structure_similarity": 0.4564322892126938,
+            "compile_error": "Duplicate attribute."
+        },
+        "51": {
+            "MAE": 62.60481595822132,
+            "clip_similarity": 0.71875,
+            "structure_similarity": 0.46011547987944695,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "52": {
+            "MAE": 78.05069416799363,
+            "clip_similarity": 0.67333984375,
+            "structure_similarity": 0.46534292801705596,
+            "compile_error": "Element is missing end tag."
+        },
+        "53": {
+            "MAE": 138.4030324369331,
+            "clip_similarity": 0.67431640625,
+            "structure_similarity": 0.2823842731650148,
+            "compile_error": "Unquoted attribute value cannot contain U+0022 (\"), U+0027 ('), U+003C (&lt;), U+003D (=), and U+0060 (`)."
+        },
+        "54": {
+            "MAE": 165.7716635943352,
+            "clip_similarity": 0.70947265625,
+            "structure_similarity": 0.30523971696896995,
+            "compile_error": "Error parsing JavaScript expression: Unexpected token (1:6)"
+        },
+        "55": {
+            "MAE": 136.81484736689814,
+            "clip_similarity": 0.5869140625,
+            "structure_similarity": 0.39880888914966944,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "56": {
+            "MAE": 189.52708943684897,
+            "clip_similarity": 0.634765625,
+            "structure_similarity": 0.28958345835799726,
+            "compile_error": "Element is missing end tag."
+        },
+        "57": {
+            "MAE": 74.70334781639929,
+            "clip_similarity": 0.5693359375,
+            "structure_similarity": 0.4994494787278751,
+            "compile_error": "Cannot read properties of undefined (reading 'source')"
+        },
+        "58": {
+            "MAE": 46.91236076732673,
+            "clip_similarity": 0.70849609375,
+            "structure_similarity": 0.841365097377132,
+            "compile_error": "blank"
+        },
+        "59": {
+            "MAE": 77.82829340277777,
+            "clip_similarity": 0.5087890625,
+            "structure_similarity": 0.41764380872995327,
+            "compile_error": "Illegal '/' in tags."
+        },
+        "60": {
+            "MAE": 155.45599110921225,
+            "clip_similarity": 0.70703125,
+            "structure_similarity": 0.49222350280455895,
+            "compile_error": "blank"
+        },
+        "61": {
+            "MAE": 152.50378143720252,
+            "clip_similarity": 0.66015625,
+            "structure_similarity": 0.2750526036167289,
+            "compile_error": "Element is missing end tag."
+        },
+        "62": {
+            "MAE": 145.47779918852308,
+            "clip_similarity": 0.66748046875,
+            "structure_similarity": 0.3433920625023163,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "63": {
+            "MAE": 183.80871318570144,
+            "clip_similarity": 0.59375,
+            "structure_similarity": 0.2799593025544407,
+            "compile_error": "Invalid end tag."
+        },
+        "64": {
+            "MAE": 157.57299691434724,
+            "clip_similarity": 0.65869140625,
+            "structure_similarity": 0.2727026296459063,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "65": {
+            "MAE": 72.63756736211464,
+            "clip_similarity": 0.638671875,
+            "structure_similarity": 0.3605892098978747,
+            "compile_error": "Error parsing JavaScript expression: Unexpected token, expected \",\" (1:58)"
+        },
+        "66": {
+            "MAE": 196.46683756510416,
+            "clip_similarity": 0.7109375,
+            "structure_similarity": 0.27493524880800535,
+            "compile_error": "Error parsing JavaScript expression: Unexpected token, expected \":\" (2:277)"
+        },
+        "67": {
+            "MAE": 144.99532844387755,
+            "clip_similarity": 0.62353515625,
+            "structure_similarity": 0.32915901930153496,
+            "compile_error": "Error parsing JavaScript expression: Unterminated template. (1:5)"
+        },
+        "68": {
+            "MAE": 193.59397633870444,
+            "clip_similarity": 0.73291015625,
+            "structure_similarity": 0.26476794241450025,
+            "compile_error": "Duplicate attribute."
+        },
+        "69": {
+            "MAE": 51.185691833496094,
+            "clip_similarity": 0.60107421875,
+            "structure_similarity": 0.8578367893305897,
+            "compile_error": "blank"
+        },
+        "70": {
+            "MAE": 127.1610765308606,
+            "clip_similarity": 0.68115234375,
+            "structure_similarity": 0.30829307628912866,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "71": {
+            "MAE": 168.67488631357,
+            "clip_similarity": 0.64208984375,
+            "structure_similarity": 0.27154121733027525,
+            "compile_error": "Illegal '/' in tags."
+        },
+        "72": {
+            "MAE": 172.6996074671856,
+            "clip_similarity": 0.67822265625,
+            "structure_similarity": 0.3582640350400362,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "73": {
+            "MAE": 93.3227917192761,
+            "clip_similarity": 0.6787109375,
+            "structure_similarity": 0.38958840113410687,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "74": {
+            "MAE": 191.6093602035985,
+            "clip_similarity": 0.7509765625,
+            "structure_similarity": 0.26415746351832015,
+            "compile_error": "Error parsing JavaScript expression: Unexpected token, expected \",\" (1:2)"
+        },
+        "75": {
+            "MAE": 150.8383751840783,
+            "clip_similarity": 0.6845703125,
+            "structure_similarity": 0.27733713704189644,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "76": {
+            "MAE": 126.26519229547765,
+            "clip_similarity": 0.60986328125,
+            "structure_similarity": 0.28260426766151414,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "77": {
+            "MAE": 112.05219970309984,
+            "clip_similarity": 0.5634765625,
+            "structure_similarity": 0.561265223748417,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "78": {
+            "MAE": 124.71933460884354,
+            "clip_similarity": 0.62939453125,
+            "structure_similarity": 0.29435182672298826,
+            "compile_error": "End bracket for dynamic directive argument was not found. Note that dynamic directive argument cannot contain spaces."
+        },
+        "79": {
+            "MAE": 81.07491405512276,
+            "clip_similarity": 0.72705078125,
+            "structure_similarity": 0.8419115500854784,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "80": {
+            "MAE": 53.795905972704475,
+            "clip_similarity": 0.60595703125,
+            "structure_similarity": 0.7846494617578484,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "81": {
+            "MAE": 128.173160450882,
+            "clip_similarity": 0.71240234375,
+            "structure_similarity": 0.6707749789923474,
+            "compile_error": "Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (&lt;)."
+        },
+        "82": {
+            "MAE": 119.84034986012956,
+            "clip_similarity": 0.658203125,
+            "structure_similarity": 0.2800781322339229,
+            "compile_error": "Duplicate attribute."
+        },
+        "83": {
+            "MAE": 118.42828709608844,
+            "clip_similarity": 0.74609375,
+            "structure_similarity": 0.27133269076763383,
+            "compile_error": "End bracket for dynamic directive argument was not found. Note that dynamic directive argument cannot contain spaces."
+        }
+    }
+}

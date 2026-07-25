@@ -1,0 +1,751 @@
+{
+  "qwen2.5-vl-72b-instruct": {
+    "angular": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "partial repair",
+      "4": "partial repair",
+      "5": "no repair",
+      "6": "partial repair",
+      "7": "good repair",
+      "8": "wrong repair",
+      "9": "good repair",
+      "10": "good repair"
+    },
+    "vue": {
+      "1": "wrong repair",
+      "2": "good repair",
+      "3": "no repair",
+      "4": "good repair",
+      "5": "no repair",
+      "6": "no repair",
+      "7": "no repair",
+      "8": "partial repair",
+      "9": "no repair",
+      "10": "no repair"
+    },
+    "vanilla": {
+      "1": "good repair",
+      "2": "unnecessary modifications",
+      "3": "wrong repair",
+      "4": "good repair",
+      "5": "wrong object",
+      "6": "good repair",
+      "7": "no repair",
+      "8": "no repair",
+      "9": "no repair",
+      "10": "no repair"
+    },
+    "react": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "no repair",
+      "4": "no repair",
+      "5": "good repair",
+      "6": "partial repair",
+      "7": "unnecessary modifications",
+      "8": "unnecessary modifications",
+      "9": "wrong repair",
+      "10": "no repair"
+    }
+  },
+  "qwen2.5-vl-7b-instruct": {
+    "angular": {
+      "1": "compile error",
+      "2": "compile error",
+      "3": "compile error",
+      "4": "compile error",
+      "5": "compile error",
+      "6": "compile error",
+      "7": "compile error",
+      "8": "compile error",
+      "9": "compile error",
+      "10": "compile error"
+    },
+    "vue": {
+      "1": "compile error",
+      "2": "compile error",
+      "3": "compile error",
+      "4": "compile error",
+      "5": "compile error",
+      "6": "compile error",
+      "7": "compile error",
+      "8": "compile error",
+      "9": "compile error",
+      "10": "compile error"
+    },
+    "vanilla": {
+      "1": "compile error",
+      "2": "compile error",
+      "3": "compile error",
+      "4": "wrong object",
+      "5": "no repair",
+      "6": "wrong object",
+      "7": "compile error",
+      "8": "compile error",
+      "9": "compile error",
+      "10": "wrong object"
+    },
+    "react": {
+      "1": "compile error",
+      "2": "compile error",
+      "3": "compile error",
+      "4": "compile error",
+      "5": "compile error",
+      "6": "compile error",
+      "7": "compile error",
+      "8": "compile error",
+      "9": "compile error",
+      "10": "compile error"
+    }
+  },
+  "pixtral-large-latest": {
+    "angular": {
+      "1": "unnecessary modifications",
+      "2": "unnecessary modifications",
+      "3": "wrong repair",
+      "4": "partial repair",
+      "5": "wrong repair",
+      "6": "partial repair",
+      "7": "good repair",
+      "8": "wrong repair",
+      "9": "unnecessary modifications",
+      "10": "good repair"
+    },
+    "vue": {
+      "1": "partial repair",
+      "2": "good repair",
+      "3": "no repair",
+      "4": "good repair",
+      "5": "no repair",
+      "6": "no repair",
+      "7": "no repair",
+      "8": "wrong repair",
+      "9": "no repair",
+      "10": "no repair"
+    },
+    "vanilla": {
+      "1": "good repair",
+      "2": "wrong repair",
+      "3": "wrong repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "8": "no repair",
+      "9": "no repair",
+      "10": "wrong repair"
+    },
+    "react": {
+      "1": "no repair",
+      "2": "partial repair",
+      "3": "partial repair",
+      "4": "no repair",
+      "5": "unnecessary modifications",
+      "6": "no repair",
+      "7": "good repair",
+      "8": "wrong repair",
+      "9": "partial repair",
+      "10": "good repair"
+    }
+  },
+  "pixtral-12b-2409": {
+    "angular": {
+      "1": "partial repair",
+      "2": "no repair",
+      "3": "no repair",
+      "4": "wrong repair",
+      "5": "no repair",
+      "6": "partial repair",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "no repair",
+      "10": "wrong repair"
+    },
+    "vue": {
+      "1": "no repair",
+      "2": "good repair",
+      "3": "no repair",
+      "4": "no repair",
+      "5": "no repair",
+      "6": "wrong repair",
+      "7": "no repair",
+      "8": "no repair",
+      "9": "no repair",
+      "10": "no repair"
+    },
+    "vanilla": {
+      "1": "no repair",
+      "2": "no repair",
+      "3": "no repair",
+      "4": "good repair",
+      "5": "no repair",
+      "6": "partial repair",
+      "7": "no repair",
+      "8": "wrong repair",
+      "9": "no repair",
+      "10": "no repair"
+    },
+    "react": {
+      "1": "no repair",
+      "2": "unnecessary modifications",
+      "3": "wrong repair",
+      "4": "no repair",
+      "5": "no repair",
+      "6": "no repair",
+      "7": "partial repair",
+      "8": "no repair",
+      "9": "partial repair",
+      "10": "no repair"
+    }
+  },
+  "Llama-3.2-90B-Vision-Instruct": {
+    "angular": {
+      "1": "compile error",
+      "2": "compile error",
+      "3": "no repair",
+      "4": "no repair",
+      "5": "no repair",
+      "6": "partial repair",
+      "7": "no repair",
+      "8": "no repair",
+      "9": "no repair",
+      "10": "compile error"
+    },
+    "vue": {
+      "1": "no repair",
+      "2": "wrong repair",
+      "3": "compile error",
+      "4": "no repair",
+      "5": "compile error",
+      "6": "no repair",
+      "7": "no repair",
+      "8": "no repair",
+      "9": "compile error",
+      "10": "compile error"
+    },
+    "vanilla": {
+      "1": "compile error",
+      "2": "compile error",
+      "3": "no repair",
+      "4": "unnecessary modifications",
+      "5": "no repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "no repair",
+      "9": "compile error",
+      "10": "no repair"
+    },
+    "react": {
+      "1": "no repair",
+      "2": "compile error",
+      "3": "no repair",
+      "4": "no repair",
+      "5": "partial repair",
+      "6": "no repair",
+      "7": "compile error",
+      "8": "no repair",
+      "9": "partial repair",
+      "10": "wrong repair"
+    }
+  },
+  "Llama-3.2-11B-Vision-Instruct": {
+    "angular": {
+      "1": "no repair",
+      "2": "compile error",
+      "3": "wrong repair",
+      "4": "no repair",
+      "5": "no repair",
+      "6": "compile error",
+      "7": "partial repair",
+      "8": "no repair",
+      "9": "compile error",
+      "10": "unnecessary modifications"
+    },
+    "vue": {
+      "1": "compile error",
+      "2": "compile error",
+      "3": "compile error",
+      "4": "compile error",
+      "5": "compile error",
+      "6": "compile error",
+      "7": "compile error",
+      "8": "compile error",
+      "9": "compile error",
+      "10": "no repair"
+    },
+    "vanilla": {
+      "1": "no repair",
+      "2": "compile error",
+      "3": "compile error",
+      "4": "compile error",
+      "5": "no repair",
+      "6": "unnecessary modifications",
+      "7": "no repair",
+      "8": "no repair",
+      "9": "no repair",
+      "10": "wrong repair"
+    },
+    "react": {
+      "1": "compile error",
+      "2": "compile error",
+      "3": "compile error",
+      "4": "compile error",
+      "5": "compile error",
+      "6": "compile error",
+      "7": "compile error",
+      "8": "compile error",
+      "9": "compile error",
+      "10": "compile error"
+    }
+  },
+  "claude-3-7-sonnet-20250219": {
+    "angular": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "unnecessary modifications",
+      "9": "good repair",
+      "10": "good repair"
+    },
+    "vue": {
+      "1": "no repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "no repair",
+      "6": "good repair",
+      "7": "no repair",
+      "8": "good repair",
+      "9": "wrong repair",
+      "10": "wrong object"
+    },
+    "vanilla": {
+      "1": "good repair",
+      "2": "partial repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "wrong repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "wrong repair",
+      "9": "partial repair",
+      "10": "partial repair"
+    },
+    "react": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "wrong repair",
+      "4": "wrong repair",
+      "5": "partial repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "compile error",
+      "9": "good repair",
+      "10": "good repair"
+    }
+  },
+  "gpt-4o-2024-11-20": {
+    "angular": {
+      "1": "wrong repair",
+      "2": "wrong object",
+      "3": "good repair",
+      "4": "partial repair",
+      "5": "no repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "unnecessary modifications",
+      "9": "unnecessary modifications",
+      "10": "good repair"
+    },
+    "vue": {
+      "1": "partial repair",
+      "2": "good repair",
+      "3": "no repair",
+      "4": "good repair",
+      "5": "no repair",
+      "6": "no repair",
+      "7": "good repair",
+      "8": "partial repair",
+      "9": "wrong object",
+      "10": "partial repair"
+    },
+    "vanilla": {
+      "1": "partial repair",
+      "2": "partial repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "wrong repair",
+      "9": "no repair",
+      "10": "wrong repair"
+    },
+    "react": {
+      "1": "no repair",
+      "2": "partial repair",
+      "3": "wrong object",
+      "4": "partial repair",
+      "5": "no repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "partial repair",
+      "10": "good repair"
+    }
+  },
+  "gemini-2.0-flash": {
+    "angular": {
+      "1": "no repair",
+      "2": "compile error",
+      "3": "wrong repair",
+      "4": "wrong repair",
+      "5": "no repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "compile error",
+      "9": "compile error",
+      "10": "wrong object"
+    },
+    "vue": {
+      "1": "wrong object",
+      "2": "good repair",
+      "3": "no repair",
+      "4": "wrong object",
+      "5": "no repair",
+      "6": "no repair",
+      "7": "wrong object",
+      "8": "partial repair",
+      "9": "no repair",
+      "10": "wrong object"
+    },
+    "vanilla": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "no repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "no repair",
+      "8": "wrong repair",
+      "9": "no repair",
+      "10": "no repair"
+    },
+    "react": {
+      "1": "no repair",
+      "2": "good repair",
+      "3": "no repair",
+      "4": "good repair",
+      "5": "no repair",
+      "6": "no repair",
+      "7": "no repair",
+      "8": "no repair",
+      "9": "partial repair",
+      "10": "good repair"
+    }
+  },
+  "claude-sonnet-4-20250514": {
+    "angular": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "unnecessary modifications",
+      "5": "good repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "unnecessary modifications",
+      "9": "unnecessary modifications",
+      "10": "good repair"
+    },
+    "vue": {
+      "1": "wrong repair",
+      "2": "partial repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "no repair",
+      "7": "unnecessary modifications",
+      "8": "partial repair",
+      "9": "no repair",
+      "10": "good repair"
+    },
+    "vanilla": {
+      "1": "partial repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "good repair",
+      "10": "good repair"
+    },
+    "react": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "good repair",
+      "10": "good repair"
+    }
+  },
+  "gpt-5": {
+    "angular": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "partial repair",
+      "5": "unnecessary modifications",
+      "6": "unnecessary modifications",
+      "7": "wrong repair",
+      "8": "unnecessary modifications",
+      "9": "good repair",
+      "10": "good repair"
+    },
+    "vue": {
+      "1": "wrong repair",
+      "2": "partial repair",
+      "3": "good repair",
+      "4": "wrong repair",
+      "5": "good repair",
+      "6": "no repair",
+      "7": "unnecessary modifications",
+      "8": "partial repair",
+      "9": "no repair",
+      "10": "good repair"
+    },
+    "vanilla": {
+      "1": "partial repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "wrong repair",
+      "9": "partial repair",
+      "10": "good repair"
+    },
+    "react": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "wrong repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "good repair",
+      "10": "good repair"
+    }
+  },
+  "gemini-2.5-pro": {
+    "angular": {
+      "1": "good repair",
+      "2": "unnecessary modifications",
+      "3": "good repair",
+      "4": "unnecessary modifications",
+      "5": "good repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "no repair",
+      "9": "partial repair",
+      "10": "good repair"
+    },
+    "vue": {
+      "1": "wrong repair",
+      "2": "partial repair",
+      "3": "good repair",
+      "4": "wrong repair",
+      "5": "good repair",
+      "6": "no repair",
+      "7": "wrong object",
+      "8": "unnecessary modifications",
+      "9": "no repair",
+      "10": "partial repair"
+    },
+    "vanilla": {
+      "1": "partial repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "no repair",
+      "10": "partial repair"
+    },
+    "react": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "partial repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "unnecessary modifications",
+      "9": "good repair",
+      "10": "partial repair"
+    }
+  },
+  "claude-sonnet-4-6": {
+    "angular": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "unnecessary modifications",
+      "9": "good repair",
+      "10": "good repair"
+    },
+    "vue": {
+      "1": "wrong repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "partial repair",
+      "9": "no repair",
+      "10": "no repair"
+    },
+    "vanilla": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "wrong repair",
+      "9": "no repair",
+      "10": "good repair"
+    },
+    "react": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "good repair",
+      "10": "good repair"
+    }
+  },
+  "gpt-5.4-2026-03-05": {
+    "angular": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "unnecessary modifications",
+      "7": "unnecessary modifications",
+      "8": "unnecessary modifications",
+      "9": "partial repair",
+      "10": "good repair"
+    },
+    "vue": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "unnecessary modifications",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "partial repair",
+      "10": "good repair"
+    },
+    "vanilla": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "wrong repair",
+      "9": "good repair",
+      "10": "good repair"
+    },
+    "react": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "good repair",
+      "10": "good repair"
+    }
+  },
+  "gemini-3.1-pro-preview": {
+    "angular": {
+      "1": "partial repair",
+      "2": "good repair",
+      "3": "partial repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "unnecessary modifications",
+      "7": "good repair",
+      "8": "unnecessary modifications",
+      "9": "good repair",
+      "10": "good repair"
+    },
+    "vue": {
+      "1": "unnecessary modifications",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "partial repair",
+      "10": "wrong repair"
+    },
+    "vanilla": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "good repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "wrong repair",
+      "9": "no repair",
+      "10": "good repair"
+    },
+    "react": {
+      "1": "good repair",
+      "2": "good repair",
+      "3": "good repair",
+      "4": "partial repair",
+      "5": "good repair",
+      "6": "good repair",
+      "7": "good repair",
+      "8": "good repair",
+      "9": "good repair",
+      "10": "good repair"
+    }
+  }
+}

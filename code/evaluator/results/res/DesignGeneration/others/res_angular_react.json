@@ -1,0 +1,4502 @@
+{
+    "claude-3-7-sonnet-20250219": {
+        "1": {
+            "MAE": 50.50959399963689,
+            "clip_similarity": 0.9419954419136047,
+            "structure_similarity": 0.6700878676559394,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 7.83245849609375,
+            "clip_similarity": 0.9167465567588806,
+            "structure_similarity": 0.8879015775508042,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 78.56758388874916,
+            "clip_similarity": 0.6790254712104797,
+            "structure_similarity": 0.06358133471043707,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 26.861086224197248,
+            "clip_similarity": 0.9652110934257507,
+            "structure_similarity": 0.6939773115629104,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 67.59776553756994,
+            "clip_similarity": 0.91683030128479,
+            "structure_similarity": 0.618408730750024,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 43.24687682109557,
+            "clip_similarity": 0.8360401391983032,
+            "structure_similarity": 0.6266740013697198,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 95.75636611361683,
+            "clip_similarity": 0.7451218366622925,
+            "structure_similarity": 0.3467710084529222,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 25.53522384538914,
+            "clip_similarity": 0.907229483127594,
+            "structure_similarity": 0.7735090773730391,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 70.12184038765822,
+            "clip_similarity": 0.88185715675354,
+            "structure_similarity": 0.8523640753825578,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 66.34159189651565,
+            "clip_similarity": 0.9232544302940369,
+            "structure_similarity": 0.878785469166898,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 115.83897399902344,
+            "clip_similarity": 0.6775490641593933,
+            "structure_similarity": 0.5334356501898838,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 91.37777692465193,
+            "clip_similarity": 0.6885696053504944,
+            "structure_similarity": 0.8046391296156309,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 31.248453776041668,
+            "clip_similarity": 0.9426435232162476,
+            "structure_similarity": 0.8838994047998192,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 61.44529127038044,
+            "clip_similarity": 0.8718093633651733,
+            "structure_similarity": 0.7989807991817409,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 28.889818743101547,
+            "clip_similarity": 0.8339272737503052,
+            "structure_similarity": 0.7235804744383905,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 10.225830078125,
+            "clip_similarity": 0.8570750951766968,
+            "structure_similarity": 0.8936464279615758,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 74.38107237011317,
+            "clip_similarity": 0.7135440111160278,
+            "structure_similarity": 0.12963641367784112,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 40.254992319508446,
+            "clip_similarity": 0.8295841813087463,
+            "structure_similarity": 0.08405045894277884,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 32.66278743084371,
+            "clip_similarity": 0.8336911797523499,
+            "structure_similarity": 0.06974433045379813,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 80.44871794871794,
+            "clip_similarity": 0.8240799903869629,
+            "structure_similarity": 0.8002815646781889,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 69.60080547480621,
+            "clip_similarity": 0.8999302983283997,
+            "structure_similarity": 0.6946686602428294,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 51.02682385341727,
+            "clip_similarity": 0.9130662679672241,
+            "structure_similarity": 0.6853476505944621,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 64.21559224488912,
+            "clip_similarity": 0.9067520499229431,
+            "structure_similarity": 0.7139621029303733,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 3.5882110595703125,
+            "clip_similarity": 0.9514592885971069,
+            "structure_similarity": 0.9095020303743937,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 74.39836230369808,
+            "clip_similarity": 0.8110325336456299,
+            "structure_similarity": 0.7209434927556803,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 15.448786523167358,
+            "clip_similarity": 0.8526448607444763,
+            "structure_similarity": 0.8344279429436424,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 38.08202495295079,
+            "clip_similarity": 0.9521788954734802,
+            "structure_similarity": 0.7071371747586312,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 64.3111957680143,
+            "clip_similarity": 0.8516027331352234,
+            "structure_similarity": 0.7217533792430848,
+            "compile_error": "NULL"
+        },
+        "29": {
+            "MAE": 17.13232421875,
+            "clip_similarity": 0.8893225193023682,
+            "structure_similarity": 0.7697115970552945,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 57.845634526176276,
+            "clip_similarity": 0.8655767440795898,
+            "structure_similarity": 0.8278791930711314,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 19.080635474323493,
+            "clip_similarity": 0.9170557260513306,
+            "structure_similarity": 0.8100716292253621,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 29.6258472668419,
+            "clip_similarity": 0.9169001579284668,
+            "structure_similarity": 0.7920323439460359,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 44.06768833546644,
+            "clip_similarity": 0.8719369769096375,
+            "structure_similarity": 0.7556480571322842,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 45.853962223704265,
+            "clip_similarity": 0.8982268571853638,
+            "structure_similarity": 0.78001757387418,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 49.3133418120155,
+            "clip_similarity": 0.8872576355934143,
+            "structure_similarity": 0.6705597049952788,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 13.01483408610026,
+            "clip_similarity": 0.9309617877006531,
+            "structure_similarity": 0.8471761426831966,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 22.434635868778937,
+            "clip_similarity": 0.8252699971199036,
+            "structure_similarity": 0.9552212450475933,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 25.664859126360973,
+            "clip_similarity": 0.9170492887496948,
+            "structure_similarity": 0.8239736921799778,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 22.604266826923077,
+            "clip_similarity": 0.9289811849594116,
+            "structure_similarity": 0.814875030040138,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 80.76957877128953,
+            "clip_similarity": 0.9282079935073853,
+            "structure_similarity": 0.8107512458729765,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 35.38623910240668,
+            "clip_similarity": 0.8813511729240417,
+            "structure_similarity": 0.7117029185503557,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 95.16341145833333,
+            "clip_similarity": 0.8961715698242188,
+            "structure_similarity": 0.7741742478969845,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 29.592111398507882,
+            "clip_similarity": 0.8558879494667053,
+            "structure_similarity": 0.6920954940948485,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 82.94493296898355,
+            "clip_similarity": 0.9007694721221924,
+            "structure_similarity": 0.7252532376684878,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 27.270801992159008,
+            "clip_similarity": 0.9180670380592346,
+            "structure_similarity": 0.7732474366401747,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 19.18291982014974,
+            "clip_similarity": 0.9290544986724854,
+            "structure_similarity": 0.8289996819810641,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 52.00528400264985,
+            "clip_similarity": 0.9154284000396729,
+            "structure_similarity": 0.18818265206591314,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 58.882530189896755,
+            "clip_similarity": 0.9313940405845642,
+            "structure_similarity": 0.8317333127830885,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 62.42008905606996,
+            "clip_similarity": 0.8018339276313782,
+            "structure_similarity": 0.6249940432992214,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 34.66068994341564,
+            "clip_similarity": 0.9222376346588135,
+            "structure_similarity": 0.07411295092148641,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 30.93625851894947,
+            "clip_similarity": 0.8922555446624756,
+            "structure_similarity": 0.03247287813232187,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 30.574758264186297,
+            "clip_similarity": 0.8759000897407532,
+            "structure_similarity": 0.031613652078928,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 48.383608465325345,
+            "clip_similarity": 0.9134464859962463,
+            "structure_similarity": 0.814672114383373,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 44.58825089243914,
+            "clip_similarity": 0.8643287420272827,
+            "structure_similarity": 0.8997647359251489,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 48.30084742731227,
+            "clip_similarity": 0.8104308247566223,
+            "structure_similarity": 0.7621949433002319,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 113.30789947509766,
+            "clip_similarity": 0.6148985028266907,
+            "structure_similarity": 0.5569365973247,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "57": {
+            "MAE": 55.112823239555254,
+            "clip_similarity": 0.9261254072189331,
+            "structure_similarity": 0.8108513132058147,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 38.65181518151815,
+            "clip_similarity": 0.9111377000808716,
+            "structure_similarity": 0.8506974192101372,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 62.523072495507634,
+            "clip_similarity": 0.8130316138267517,
+            "structure_similarity": 0.8153318307006561,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 20.501485188802082,
+            "clip_similarity": 0.9107546806335449,
+            "structure_similarity": 0.8101749636087766,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 118.72290112431884,
+            "clip_similarity": 0.6910589933395386,
+            "structure_similarity": 0.5517829224140884,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 116.60821097237724,
+            "clip_similarity": 0.7198755145072937,
+            "structure_similarity": 0.5427312239128954,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "63": {
+            "MAE": 14.198107328869048,
+            "clip_similarity": 0.9279869794845581,
+            "structure_similarity": 0.8974694618843824,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 116.33557638543738,
+            "clip_similarity": 0.7355892062187195,
+            "structure_similarity": 0.5414385910070378,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 124.17958965558766,
+            "clip_similarity": 0.6528336405754089,
+            "structure_similarity": 0.295195551951821,
+            "compile_error": " Expected ',', got 'from'\n    "
+        },
+        "66": {
+            "MAE": 6.1214548746744795,
+            "clip_similarity": 0.9213820695877075,
+            "structure_similarity": 0.9593794801233452,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 42.02610887947031,
+            "clip_similarity": 0.9358274936676025,
+            "structure_similarity": 0.7162191329478482,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 7.9729156494140625,
+            "clip_similarity": 0.8465120196342468,
+            "structure_similarity": 0.8672868472949433,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 18.396962483723957,
+            "clip_similarity": 0.9227080941200256,
+            "structure_similarity": 0.8699190443139849,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 52.13036958670911,
+            "clip_similarity": 0.7979750633239746,
+            "structure_similarity": 0.8191734884908772,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 29.008391420284433,
+            "clip_similarity": 0.8945765495300293,
+            "structure_similarity": 0.7582735261746578,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 22.296021253052505,
+            "clip_similarity": 0.7866634726524353,
+            "structure_similarity": 0.7776478739240381,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 74.12976323341837,
+            "clip_similarity": 0.7821929454803467,
+            "structure_similarity": 0.7377210725778391,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 13.30844085385101,
+            "clip_similarity": 0.8693878054618835,
+            "structure_similarity": 0.8211669577112721,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 21.268315333946077,
+            "clip_similarity": 0.9169160723686218,
+            "structure_similarity": 0.7733965808441535,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 68.01425102249489,
+            "clip_similarity": 0.8395933508872986,
+            "structure_similarity": 0.8009470385486367,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 84.5364424542683,
+            "clip_similarity": 0.9153414964675903,
+            "structure_similarity": 0.61415725072605,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 35.40353173324742,
+            "clip_similarity": 0.9215388298034668,
+            "structure_similarity": 0.7761010461378713,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 54.63346168154762,
+            "clip_similarity": 0.8955194354057312,
+            "structure_similarity": 0.8441114332698071,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 21.78436619097956,
+            "clip_similarity": 0.813484787940979,
+            "structure_similarity": 0.7921038527651164,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 47.32873056449142,
+            "clip_similarity": 0.8678247332572937,
+            "structure_similarity": 0.7423119763597412,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 116.14946582376325,
+            "clip_similarity": 0.6829851865768433,
+            "structure_similarity": 0.5120144909877464,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 46.123748821159126,
+            "clip_similarity": 0.903495192527771,
+            "structure_similarity": 0.7683992993372932,
+            "compile_error": "NULL"
+        }
+    },
+    "gpt-4o-2024-11-20": {
+        "1": {
+            "MAE": 112.67571458560276,
+            "clip_similarity": 0.7303464412689209,
+            "structure_similarity": 0.6152798295187432,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 9.299029032389322,
+            "clip_similarity": 0.9184914827346802,
+            "structure_similarity": 0.8877546911679327,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 67.06717518653588,
+            "clip_similarity": 0.7122640609741211,
+            "structure_similarity": 0.579252292621572,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 52.33179084241208,
+            "clip_similarity": 0.7769981622695923,
+            "structure_similarity": 0.6513126524519056,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 67.21395383693046,
+            "clip_similarity": 0.8994435667991638,
+            "structure_similarity": 0.36450323400378754,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 47.10510604846542,
+            "clip_similarity": 0.8883931636810303,
+            "structure_similarity": 0.6656876272269119,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 67.54762386658031,
+            "clip_similarity": 0.7878800630569458,
+            "structure_similarity": 0.7314523604736266,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 45.82488091025724,
+            "clip_similarity": 0.8683552742004395,
+            "structure_similarity": 0.7615954452482234,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 124.90983152506112,
+            "clip_similarity": 0.8946418762207031,
+            "structure_similarity": 0.42766781103423346,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 113.80387243874634,
+            "clip_similarity": 0.77385413646698,
+            "structure_similarity": 0.6861558800264307,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 111.95915222167969,
+            "clip_similarity": 0.6941381096839905,
+            "structure_similarity": 0.6395820976989421,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 117.76379984387796,
+            "clip_similarity": 0.7577210068702698,
+            "structure_similarity": 0.5147578809664037,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "13": {
+            "MAE": 40.29743448893229,
+            "clip_similarity": 0.9380618333816528,
+            "structure_similarity": 0.8706204371827414,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 65.88883038949275,
+            "clip_similarity": 0.8495635986328125,
+            "structure_similarity": 0.8069084757140299,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 34.8796247909699,
+            "clip_similarity": 0.8427501916885376,
+            "structure_similarity": 0.7340047511169565,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 9.926968892415365,
+            "clip_similarity": 0.8615778684616089,
+            "structure_similarity": 0.904555496364057,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 77.74022231867283,
+            "clip_similarity": 0.5225746631622314,
+            "structure_similarity": 0.06777003100981482,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 78.1308712138136,
+            "clip_similarity": 0.7880131006240845,
+            "structure_similarity": 0.06992371215428418,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 55.578482937845784,
+            "clip_similarity": 0.8182172775268555,
+            "structure_similarity": 0.08730198322072485,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 91.58480618169399,
+            "clip_similarity": 0.5401633977890015,
+            "structure_similarity": 0.8253904184848545,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 97.78687836021506,
+            "clip_similarity": 0.6440510153770447,
+            "structure_similarity": 0.5591984840935924,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 105.04753069196428,
+            "clip_similarity": 0.5907717943191528,
+            "structure_similarity": 0.5804459651747391,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 65.95959345764034,
+            "clip_similarity": 0.8555199503898621,
+            "structure_similarity": 0.5807222963525093,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 11.25555165608724,
+            "clip_similarity": 0.8783828616142273,
+            "structure_similarity": 0.9186856604014738,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 55.3488554331307,
+            "clip_similarity": 0.9023613929748535,
+            "structure_similarity": 0.7104737486319247,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 34.40434009768327,
+            "clip_similarity": 0.8636615872383118,
+            "structure_similarity": 0.798909232055832,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 111.29789642118409,
+            "clip_similarity": 0.6838173866271973,
+            "structure_similarity": 0.6355170113489993,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 81.91229630775578,
+            "clip_similarity": 0.7839239239692688,
+            "structure_similarity": 0.6624381369790594,
+            "compile_error": "NULL"
+        },
+        "29": {
+            "MAE": 39.680033365885414,
+            "clip_similarity": 0.8496195077896118,
+            "structure_similarity": 0.7010572349732014,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 122.44457603338303,
+            "clip_similarity": 0.7096181511878967,
+            "structure_similarity": 0.36190281330642304,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 31.607004801432293,
+            "clip_similarity": 0.824267566204071,
+            "structure_similarity": 0.7881859184451222,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 46.55928890430296,
+            "clip_similarity": 0.9057859182357788,
+            "structure_similarity": 0.7486289172840268,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 25.810997009277344,
+            "clip_similarity": 0.8350729942321777,
+            "structure_similarity": 0.7745323139098127,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 51.336933210784316,
+            "clip_similarity": 0.8047617673873901,
+            "structure_similarity": 0.7774935750864799,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 25.255823678198432,
+            "clip_similarity": 0.8786265254020691,
+            "structure_similarity": 0.701150439985247,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 14.692611694335938,
+            "clip_similarity": 0.8696657419204712,
+            "structure_similarity": 0.8460659226452065,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 24.80524585865162,
+            "clip_similarity": 0.8915663361549377,
+            "structure_similarity": 0.9580600038672997,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 28.767143480705492,
+            "clip_similarity": 0.9352850317955017,
+            "structure_similarity": 0.8366237404236757,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 26.938739079301076,
+            "clip_similarity": 0.9158992767333984,
+            "structure_similarity": 0.7952929862663535,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 106.38109525966183,
+            "clip_similarity": 0.8192468881607056,
+            "structure_similarity": 0.8286137776965634,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 52.389581286836936,
+            "clip_similarity": 0.8229033946990967,
+            "structure_similarity": 0.6607506391166277,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 90.71869604627072,
+            "clip_similarity": 0.8745333552360535,
+            "structure_similarity": 0.7973490294802904,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 67.30043038922156,
+            "clip_similarity": 0.866093099117279,
+            "structure_similarity": 0.7009283788001018,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 84.74440337724215,
+            "clip_similarity": 0.8172066807746887,
+            "structure_similarity": 0.74879971905921,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 48.48995813343994,
+            "clip_similarity": 0.9554752707481384,
+            "structure_similarity": 0.23963753005295574,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 17.200276692708332,
+            "clip_similarity": 0.9076550006866455,
+            "structure_similarity": 0.811199673302271,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 160.86956553051255,
+            "clip_similarity": 0.5142386555671692,
+            "structure_similarity": 0.11768318061859064,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 111.40556469298245,
+            "clip_similarity": 0.72175133228302,
+            "structure_similarity": 0.6633883164755691,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 84.17596129115226,
+            "clip_similarity": 0.8600218296051025,
+            "structure_similarity": 0.5343231896708058,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 40.5413387345679,
+            "clip_similarity": 0.9231284260749817,
+            "structure_similarity": 0.36012155097435977,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 48.66466103830645,
+            "clip_similarity": 0.9069816470146179,
+            "structure_similarity": 0.10760525975888376,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 115.11573751548124,
+            "clip_similarity": 0.6741171479225159,
+            "structure_similarity": 0.36806316641917536,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "53": {
+            "MAE": 76.44262360873287,
+            "clip_similarity": 0.6502780914306641,
+            "structure_similarity": 0.7521509588120909,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 43.156659644194754,
+            "clip_similarity": 0.8958377838134766,
+            "structure_similarity": 0.9376192523257596,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 55.47324469150641,
+            "clip_similarity": 0.7511307001113892,
+            "structure_similarity": 0.7917008287683807,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 113.33549245198567,
+            "clip_similarity": 0.615232527256012,
+            "structure_similarity": 0.5570402622747676,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "57": {
+            "MAE": 65.56954563960018,
+            "clip_similarity": 0.8656269907951355,
+            "structure_similarity": 0.7942415689499696,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 35.19260090071507,
+            "clip_similarity": 0.8926279544830322,
+            "structure_similarity": 0.8878998037301087,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 67.74952970575022,
+            "clip_similarity": 0.8112911581993103,
+            "structure_similarity": 0.7779540094301355,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 44.66826616831535,
+            "clip_similarity": 0.8843824863433838,
+            "structure_similarity": 0.6492281093330678,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 106.97664624263297,
+            "clip_similarity": 0.7222567796707153,
+            "structure_similarity": 0.6554204223302734,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 73.51045880998883,
+            "clip_similarity": 0.9161158204078674,
+            "structure_similarity": 0.800121133097449,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 18.10381304331535,
+            "clip_similarity": 0.8893940448760986,
+            "structure_similarity": 0.9148058566603907,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 38.18093319389764,
+            "clip_similarity": 0.9494504332542419,
+            "structure_similarity": 0.8319684519353515,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 94.22803993553009,
+            "clip_similarity": 0.8688931465148926,
+            "structure_similarity": 0.377887151702746,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 10.685099283854166,
+            "clip_similarity": 0.7732688188552856,
+            "structure_similarity": 0.9581795816449561,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 92.36030771683673,
+            "clip_similarity": 0.8465420007705688,
+            "structure_similarity": 0.6612414574340051,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 14.378166198730469,
+            "clip_similarity": 0.914370059967041,
+            "structure_similarity": 0.8683321757461167,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 22.482749938964844,
+            "clip_similarity": 0.9215749502182007,
+            "structure_similarity": 0.8640356622821808,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 68.85208845727237,
+            "clip_similarity": 0.8028490543365479,
+            "structure_similarity": 0.8008738166682408,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 26.629003711327346,
+            "clip_similarity": 0.8802315592765808,
+            "structure_similarity": 0.7211537746179207,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 21.03845915369353,
+            "clip_similarity": 0.9293214678764343,
+            "structure_similarity": 0.7647370694450492,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 96.36923363095238,
+            "clip_similarity": 0.8391405344009399,
+            "structure_similarity": 0.6762492553267171,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 19.63647707544192,
+            "clip_similarity": 0.9018918871879578,
+            "structure_similarity": 0.7983756107576784,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 69.19139677538115,
+            "clip_similarity": 0.6694464087486267,
+            "structure_similarity": 0.8431735001681206,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 100.71538363821138,
+            "clip_similarity": 0.6130825281143188,
+            "structure_similarity": 0.7852109808440925,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 110.32237570450886,
+            "clip_similarity": 0.5918267369270325,
+            "structure_similarity": 0.544918101476336,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 107.83381497130102,
+            "clip_similarity": 0.6450507044792175,
+            "structure_similarity": 0.5996935937693298,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 55.19119419642857,
+            "clip_similarity": 0.8348702192306519,
+            "structure_similarity": 0.7884537565343614,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 51.735213122605366,
+            "clip_similarity": 0.7912303805351257,
+            "structure_similarity": 0.8114864256539616,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 86.24815219056373,
+            "clip_similarity": 0.6196977496147156,
+            "structure_similarity": 0.5783047507075437,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 105.8452892485119,
+            "clip_similarity": 0.8760296702384949,
+            "structure_similarity": 0.5407747201885353,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 85.30046778549382,
+            "clip_similarity": 0.8633249998092651,
+            "structure_similarity": 0.7329427542217866,
+            "compile_error": "NULL"
+        }
+    },
+    "gemini-2.0-flash": {
+        "1": {
+            "MAE": 87.74594907407408,
+            "clip_similarity": 0.8422848582267761,
+            "structure_similarity": 0.7369297154715954,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 4.379730224609375,
+            "clip_similarity": 0.8641215562820435,
+            "structure_similarity": 0.900908628089355,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 68.28283938512146,
+            "clip_similarity": 0.7668717503547668,
+            "structure_similarity": 0.6441985628620357,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 145.97985830446498,
+            "clip_similarity": 0.793054461479187,
+            "structure_similarity": 0.19148685066553758,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 62.78445056454836,
+            "clip_similarity": 0.9006989598274231,
+            "structure_similarity": 0.5909343656538842,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 52.69988041472416,
+            "clip_similarity": 0.766844630241394,
+            "structure_similarity": 0.6815637021355474,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 23.023811933290155,
+            "clip_similarity": 0.9550487995147705,
+            "structure_similarity": 0.744116704908139,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 51.35510045902807,
+            "clip_similarity": 0.9061732292175293,
+            "structure_similarity": 0.776075834593735,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 98.21434599156119,
+            "clip_similarity": 0.8770956993103027,
+            "structure_similarity": 0.6457292369274114,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 59.037015840194954,
+            "clip_similarity": 0.9087297320365906,
+            "structure_similarity": 0.8501135984014189,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 101.92435540093317,
+            "clip_similarity": 0.8310843110084534,
+            "structure_similarity": 0.7926530535568247,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 54.79906063988095,
+            "clip_similarity": 0.8533518314361572,
+            "structure_similarity": 0.7387557635521392,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 30.98816172281901,
+            "clip_similarity": 0.9402354955673218,
+            "structure_similarity": 0.8875596576063787,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 77.7421238111413,
+            "clip_similarity": 0.8607032299041748,
+            "structure_similarity": 0.7729047127466786,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 38.68630243171683,
+            "clip_similarity": 0.8519313931465149,
+            "structure_similarity": 0.7132683011661988,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 9.227605183919271,
+            "clip_similarity": 0.8797237277030945,
+            "structure_similarity": 0.9041433494459219,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 44.30903581532922,
+            "clip_similarity": 0.7645895481109619,
+            "structure_similarity": 0.8007382588866536,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 50.4522531946937,
+            "clip_similarity": 0.7951261401176453,
+            "structure_similarity": 0.3277487991455314,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 80.70422177558783,
+            "clip_similarity": 0.7363225221633911,
+            "structure_similarity": 0.6371149523794297,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 82.27483974358974,
+            "clip_similarity": 0.7849482893943787,
+            "structure_similarity": 0.7681007317169025,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 85.72946968605991,
+            "clip_similarity": 0.745854377746582,
+            "structure_similarity": 0.7242194905992309,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 63.77384498651079,
+            "clip_similarity": 0.7847232818603516,
+            "structure_similarity": 0.7155644579942382,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 87.16643927581427,
+            "clip_similarity": 0.9037680625915527,
+            "structure_similarity": 0.6789773768382918,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 7.4510752360026045,
+            "clip_similarity": 0.9153109192848206,
+            "structure_similarity": 0.9230256675377796,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 66.95519289830294,
+            "clip_similarity": 0.8768942356109619,
+            "structure_similarity": 0.7650114679745019,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 35.05854242306362,
+            "clip_similarity": 0.8688984513282776,
+            "structure_similarity": 0.7785144103730881,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 64.65395213352228,
+            "clip_similarity": 0.9144858121871948,
+            "structure_similarity": 0.5111847444103002,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 88.44759651746425,
+            "clip_similarity": 0.8565574884414673,
+            "structure_similarity": 0.6659153420217238,
+            "compile_error": "NULL"
+        },
+        "29": {
+            "MAE": 47.03431856157565,
+            "clip_similarity": 0.8619897365570068,
+            "structure_similarity": 0.7435873346841513,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 60.82201699885171,
+            "clip_similarity": 0.8515214920043945,
+            "structure_similarity": 0.820888241755009,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 42.79472859700521,
+            "clip_similarity": 0.6446746587753296,
+            "structure_similarity": 0.7525956452105218,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 83.2465105383567,
+            "clip_similarity": 0.6897057890892029,
+            "structure_similarity": 0.7884246889025437,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 73.61609141031902,
+            "clip_similarity": 0.7203220725059509,
+            "structure_similarity": 0.6318361362139073,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 45.183679819915255,
+            "clip_similarity": 0.7355638742446899,
+            "structure_similarity": 0.7121219657104985,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 60.980975304612706,
+            "clip_similarity": 0.828790009021759,
+            "structure_similarity": 0.7692365201198648,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 12.137822469075521,
+            "clip_similarity": 0.9182823300361633,
+            "structure_similarity": 0.8551090168544648,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 24.059785065827548,
+            "clip_similarity": 0.817324161529541,
+            "structure_similarity": 0.9551514722660118,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 90.58205744133141,
+            "clip_similarity": 0.5473867058753967,
+            "structure_similarity": 0.806422923158324,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 23.047995840964592,
+            "clip_similarity": 0.9114657044410706,
+            "structure_similarity": 0.8346232088034548,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 71.23947878649635,
+            "clip_similarity": 0.9341537952423096,
+            "structure_similarity": 0.8197707683173318,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 38.79654544466188,
+            "clip_similarity": 0.8309884667396545,
+            "structure_similarity": 0.6611996528913386,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 87.18865820672191,
+            "clip_similarity": 0.8648203611373901,
+            "structure_similarity": 0.7735907733788847,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 104.91390022255193,
+            "clip_similarity": 0.6794369220733643,
+            "structure_similarity": 0.5791438819144866,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 71.91423766816143,
+            "clip_similarity": 0.8707099556922913,
+            "structure_similarity": 0.7442839603114565,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 40.7451317630597,
+            "clip_similarity": 0.8639543652534485,
+            "structure_similarity": 0.6892862633470733,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 25.56976826985677,
+            "clip_similarity": 0.80729079246521,
+            "structure_similarity": 0.8229508074074692,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 47.83042648940059,
+            "clip_similarity": 0.9148315191268921,
+            "structure_similarity": 0.7245005788007578,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 67.01646616887906,
+            "clip_similarity": 0.8898385763168335,
+            "structure_similarity": 0.828688978598095,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 94.43020833333334,
+            "clip_similarity": 0.6163859367370605,
+            "structure_similarity": 0.37501101303020984,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 24.016237461419752,
+            "clip_similarity": 0.8716104030609131,
+            "structure_similarity": 0.6763401360594729,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 42.506790918661345,
+            "clip_similarity": 0.8893536925315857,
+            "structure_similarity": 0.7893731126259311,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 25.265517654800142,
+            "clip_similarity": 0.8275136947631836,
+            "structure_similarity": 0.8212379340010459,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 56.83565211187214,
+            "clip_similarity": 0.7688477039337158,
+            "structure_similarity": 0.7860465870061699,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 45.980026187968164,
+            "clip_similarity": 0.8421598672866821,
+            "structure_similarity": 0.9030287165455282,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 60.57949399594907,
+            "clip_similarity": 0.7635233402252197,
+            "structure_similarity": 0.7860194912802407,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 11.385220845540365,
+            "clip_similarity": 0.9881365895271301,
+            "structure_similarity": 0.9287254786935993,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 78.50194610568283,
+            "clip_similarity": 0.8691619038581848,
+            "structure_similarity": 0.7341221324372732,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 37.942506360011,
+            "clip_similarity": 0.8946561813354492,
+            "structure_similarity": 0.8681798559914973,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 87.15215422843666,
+            "clip_similarity": 0.7166879773139954,
+            "structure_similarity": 0.4707008610869585,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 75.24663557086075,
+            "clip_similarity": 0.8795261383056641,
+            "structure_similarity": 0.6203712878161889,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 27.558538483886707,
+            "clip_similarity": 0.8568206429481506,
+            "structure_similarity": 0.8493556757275171,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 61.443634033203125,
+            "clip_similarity": 0.8897788524627686,
+            "structure_similarity": 0.7657065409669084,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 18.84664221747602,
+            "clip_similarity": 0.8988021612167358,
+            "structure_similarity": 0.909759139652947,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 37.13916903409091,
+            "clip_similarity": 0.9382200837135315,
+            "structure_similarity": 0.8118652443868851,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 62.590256014207256,
+            "clip_similarity": 0.8455685973167419,
+            "structure_similarity": 0.6430457320411154,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 3.1347478230794272,
+            "clip_similarity": 0.7931641340255737,
+            "structure_similarity": 0.9606316355210357,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 44.97986778846154,
+            "clip_similarity": 0.8816558718681335,
+            "structure_similarity": 0.6596600102161135,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 15.246368408203125,
+            "clip_similarity": 0.8867369294166565,
+            "structure_similarity": 0.880559953794631,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 51.7120107014974,
+            "clip_similarity": 0.9196106791496277,
+            "structure_similarity": 0.76326757037181,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 65.68346866560572,
+            "clip_similarity": 0.810695469379425,
+            "structure_similarity": 0.8190055222467144,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 117.85013060171198,
+            "clip_similarity": 0.7140873670578003,
+            "structure_similarity": 0.528084887344485,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "72": {
+            "MAE": 24.330972413003664,
+            "clip_similarity": 0.8664978742599487,
+            "structure_similarity": 0.7522869562050802,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 78.66927747661565,
+            "clip_similarity": 0.8819421529769897,
+            "structure_similarity": 0.7335084830746144,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 13.128822403724747,
+            "clip_similarity": 0.8150633573532104,
+            "structure_similarity": 0.8453099778583667,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 22.16198764662115,
+            "clip_similarity": 0.8804471492767334,
+            "structure_similarity": 0.7543538100743168,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 46.77968031058282,
+            "clip_similarity": 0.7706613540649414,
+            "structure_similarity": 0.8095608206801899,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 86.9780837144309,
+            "clip_similarity": 0.8107451796531677,
+            "structure_similarity": 0.5263694898719418,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 113.02513153698979,
+            "clip_similarity": 0.6455430388450623,
+            "structure_similarity": 0.4977068169380366,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "79": {
+            "MAE": 45.01607142857143,
+            "clip_similarity": 0.876395583152771,
+            "structure_similarity": 0.7839096641800877,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 56.94844498323755,
+            "clip_similarity": 0.7944149374961853,
+            "structure_similarity": 0.8011030283714208,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 58.506460152420345,
+            "clip_similarity": 0.8915385603904724,
+            "structure_similarity": 0.7023933022568647,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 92.68971354166666,
+            "clip_similarity": 0.7970542907714844,
+            "structure_similarity": 0.7539209767061767,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 85.12227259087791,
+            "clip_similarity": 0.6326133608818054,
+            "structure_similarity": 0.7576052778467655,
+            "compile_error": "NULL"
+        }
+    },
+    "Llama-3.2-90B-Vision-Instruct": {
+        "1": {
+            "MAE": 90.24891067538127,
+            "clip_similarity": 0.791015625,
+            "structure_similarity": 0.7847086433186293,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 5.044199625651042,
+            "clip_similarity": 0.7685546875,
+            "structure_similarity": 0.9018021431653449,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 69.77523867161301,
+            "clip_similarity": 0.65673828125,
+            "structure_similarity": 0.009190482806731409,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 111.18191089688456,
+            "clip_similarity": 0.767578125,
+            "structure_similarity": 0.06952918542181441,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 100.27389963029576,
+            "clip_similarity": 0.8359375,
+            "structure_similarity": 0.06361122987246945,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 98.13718335017322,
+            "clip_similarity": 0.7587890625,
+            "structure_similarity": 0.39585747929406934,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 95.7382644705756,
+            "clip_similarity": 0.75927734375,
+            "structure_similarity": 0.349000346129002,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 85.65542437558094,
+            "clip_similarity": 0.75146484375,
+            "structure_similarity": 0.7802802685419578,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 119.3754323960944,
+            "clip_similarity": 0.865234375,
+            "structure_similarity": 0.5547476904827185,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "10": {
+            "MAE": 94.81777621878423,
+            "clip_similarity": 0.853515625,
+            "structure_similarity": 0.8659582411854013,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 100.09450954861111,
+            "clip_similarity": 0.66455078125,
+            "structure_similarity": 0.8340944316606322,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 67.72992328265765,
+            "clip_similarity": 0.8251953125,
+            "structure_similarity": 0.7105068956620755,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 49.6065419514974,
+            "clip_similarity": 0.85693359375,
+            "structure_similarity": 0.8725591859911869,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 91.11630802266082,
+            "clip_similarity": 0.74755859375,
+            "structure_similarity": 0.7800255835559163,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 30.843501776755854,
+            "clip_similarity": 0.77099609375,
+            "structure_similarity": 0.7447892045274424,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 13.384165445963541,
+            "clip_similarity": 0.81103515625,
+            "structure_similarity": 0.8984360628780057,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 118.4697265625,
+            "clip_similarity": 0.71826171875,
+            "structure_similarity": 0.06395441542996097,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 135.38661129498198,
+            "clip_similarity": 0.80859375,
+            "structure_similarity": 0.06410885297239509,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 93.44281394378851,
+            "clip_similarity": 0.73681640625,
+            "structure_similarity": 0.05863741572503652,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 92.17438258356228,
+            "clip_similarity": 0.71728515625,
+            "structure_similarity": 0.7613368502109006,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 103.57145557315668,
+            "clip_similarity": 0.6552734375,
+            "structure_similarity": 0.4763256670846146,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "22": {
+            "MAE": 94.33265418914868,
+            "clip_similarity": 0.650390625,
+            "structure_similarity": 0.6565020082618445,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 81.86724912122772,
+            "clip_similarity": 0.66845703125,
+            "structure_similarity": 0.5859659592189086,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 93.65571848551433,
+            "clip_similarity": 0.68896484375,
+            "structure_similarity": 0.6160141573141094,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 69.66103090172238,
+            "clip_similarity": 0.80615234375,
+            "structure_similarity": 0.738881065814693,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 27.874597215466927,
+            "clip_similarity": 0.75048828125,
+            "structure_similarity": 0.8269080404578955,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 109.95998572710901,
+            "clip_similarity": 0.740234375,
+            "structure_similarity": 0.6662852405961639,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 108.06786577478213,
+            "clip_similarity": 0.76123046875,
+            "structure_similarity": 0.5690997001118648,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "29": {
+            "MAE": 83.73952738444011,
+            "clip_similarity": 0.81494140625,
+            "structure_similarity": 0.5651449194832767,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 153.77311780359508,
+            "clip_similarity": 0.80126953125,
+            "structure_similarity": 0.19334803003977377,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 35.18456776936849,
+            "clip_similarity": 0.70263671875,
+            "structure_similarity": 0.753957059175979,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 71.11299223617601,
+            "clip_similarity": 0.755859375,
+            "structure_similarity": 0.7203381119649694,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 63.683998107910156,
+            "clip_similarity": 0.8203125,
+            "structure_similarity": 0.6406796790166256,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 46.777800582627115,
+            "clip_similarity": 0.787109375,
+            "structure_similarity": 0.7342244350592704,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 51.712113794604,
+            "clip_similarity": 0.708984375,
+            "structure_similarity": 0.7058813069598372,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 31.429298400878906,
+            "clip_similarity": 0.6103515625,
+            "structure_similarity": 0.8336772261218706,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 51.035111038773145,
+            "clip_similarity": 0.6904296875,
+            "structure_similarity": 0.8856703525402166,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 95.69622358417146,
+            "clip_similarity": 0.63525390625,
+            "structure_similarity": 0.7217975236593159,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 70.92451897856715,
+            "clip_similarity": 0.5966796875,
+            "structure_similarity": 0.7682237291097925,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 106.22760511020532,
+            "clip_similarity": 0.830078125,
+            "structure_similarity": 0.8890665556131366,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 135.8634287627088,
+            "clip_similarity": 0.81884765625,
+            "structure_similarity": 0.14728085057315213,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 79.63934781989981,
+            "clip_similarity": 0.75341796875,
+            "structure_similarity": 0.7595728103240191,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 84.97357582220573,
+            "clip_similarity": 0.75390625,
+            "structure_similarity": 0.7522351264025222,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 80.49615797832585,
+            "clip_similarity": 0.59521484375,
+            "structure_similarity": 0.5191176954085667,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 98.28336970282515,
+            "clip_similarity": 0.841796875,
+            "structure_similarity": 0.5301977589014105,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 34.46176401774088,
+            "clip_similarity": 0.6142578125,
+            "structure_similarity": 0.7912323568529096,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 65.1831198723267,
+            "clip_similarity": 0.55517578125,
+            "structure_similarity": 0.0334059339694407,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 78.9868351308997,
+            "clip_similarity": 0.62744140625,
+            "structure_similarity": 0.8354631371237639,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 79.85869180812757,
+            "clip_similarity": 0.68798828125,
+            "structure_similarity": 0.5776570077367122,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 101.34183063271605,
+            "clip_similarity": 0.82568359375,
+            "structure_similarity": 0.0491806703533625,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 131.01096970206092,
+            "clip_similarity": 0.693359375,
+            "structure_similarity": 0.32353393473513803,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 118.64287506691649,
+            "clip_similarity": 0.8037109375,
+            "structure_similarity": 0.06141210540742906,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 70.19547526041667,
+            "clip_similarity": 0.77490234375,
+            "structure_similarity": 0.7779359903871149,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 43.407797138342694,
+            "clip_similarity": 0.70703125,
+            "structure_similarity": 0.8956480065640955,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 71.19030841503267,
+            "clip_similarity": 0.6103515625,
+            "structure_similarity": 0.7664871658711453,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 9.726674397786459,
+            "clip_similarity": 0.90380859375,
+            "structure_similarity": 0.9309901944810038,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 96.80396801999102,
+            "clip_similarity": 0.6513671875,
+            "structure_similarity": 0.7104993924885977,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 41.12395145764577,
+            "clip_similarity": 0.81982421875,
+            "structure_similarity": 0.8038898758702052,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 79.49552604166666,
+            "clip_similarity": 0.52001953125,
+            "structure_similarity": 0.5475795971478726,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 84.9063237508138,
+            "clip_similarity": 0.70458984375,
+            "structure_similarity": 0.5158029196563053,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "61": {
+            "MAE": 74.13556487977736,
+            "clip_similarity": 0.71923828125,
+            "structure_similarity": 0.8528464354433263,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 79.39674014136905,
+            "clip_similarity": 0.8349609375,
+            "structure_similarity": 0.776946381194326,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 21.72693485836331,
+            "clip_similarity": 0.80322265625,
+            "structure_similarity": 0.9059396519764887,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 47.34268757176837,
+            "clip_similarity": 0.92431640625,
+            "structure_similarity": 0.8255945170574348,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 105.19759302745665,
+            "clip_similarity": 0.6142578125,
+            "structure_similarity": 0.09180398322359026,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 3.405975341796875,
+            "clip_similarity": 0.80419921875,
+            "structure_similarity": 0.9565996451022627,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 75.97220982142858,
+            "clip_similarity": 0.8369140625,
+            "structure_similarity": 0.6869077032670076,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 9.855786641438803,
+            "clip_similarity": 0.642578125,
+            "structure_similarity": 0.8668926240830176,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 52.388633728027344,
+            "clip_similarity": 0.630859375,
+            "structure_similarity": 0.8210294575937509,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 84.0456109448014,
+            "clip_similarity": 0.82568359375,
+            "structure_similarity": 0.8122546534494823,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 40.345137849301395,
+            "clip_similarity": 0.82421875,
+            "structure_similarity": 0.751281823731523,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 33.815834888059705,
+            "clip_similarity": 0.72265625,
+            "structure_similarity": 0.7642319260444905,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 93.58419696003402,
+            "clip_similarity": 0.64208984375,
+            "structure_similarity": 0.4776940157569925,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 19.04333126183712,
+            "clip_similarity": 0.85107421875,
+            "structure_similarity": 0.7977366859192362,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 106.32684321942135,
+            "clip_similarity": 0.74169921875,
+            "structure_similarity": 0.599200095542112,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 113.48665364583333,
+            "clip_similarity": 0.6259765625,
+            "structure_similarity": 0.5011610671114182,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "77": {
+            "MAE": 126.22235772357723,
+            "clip_similarity": 0.7958984375,
+            "structure_similarity": 0.510778403294766,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 29.304489502792098,
+            "clip_similarity": 0.82861328125,
+            "structure_similarity": 0.7456012817311396,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 117.75375132790369,
+            "clip_similarity": 0.75146484375,
+            "structure_similarity": 0.5177246878724856,
+            "compile_error": " Unterminated string constant\n   "
+        },
+        "80": {
+            "MAE": 49.51946644724151,
+            "clip_similarity": 0.79248046875,
+            "structure_similarity": 0.7573804191562197,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 129.7410755018248,
+            "clip_similarity": 0.77001953125,
+            "structure_similarity": 0.5578082978901392,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 99.98419326045348,
+            "clip_similarity": 0.78125,
+            "structure_similarity": 0.667640451804519,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 101.53705357142857,
+            "clip_similarity": 0.7412109375,
+            "structure_similarity": 0.6080749849127879,
+            "compile_error": "NULL"
+        }
+    },
+    "Llama-3.2-11B-Vision-Instruct": {
+        "1": {
+            "MAE": 113.88815416212782,
+            "clip_similarity": 0.712890625,
+            "structure_similarity": 0.5191195261290257,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "2": {
+            "MAE": 4.953519185384114,
+            "clip_similarity": 0.7060546875,
+            "structure_similarity": 0.9054239420973177,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 119.39047697644199,
+            "clip_similarity": 0.73095703125,
+            "structure_similarity": 0.34424512994071305,
+            "compile_error": " Expected ';', '}' or &lt;eof&gt;\n   "
+        },
+        "4": {
+            "MAE": 165.67671496102773,
+            "clip_similarity": 0.63525390625,
+            "structure_similarity": 0.16769287348784237,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 83.97622991967872,
+            "clip_similarity": 0.85791015625,
+            "structure_similarity": 0.5472820984790612,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 104.23618227963819,
+            "clip_similarity": 0.65966796875,
+            "structure_similarity": 0.3725427924913249,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 90.07036619415807,
+            "clip_similarity": 0.73046875,
+            "structure_similarity": 0.4170208609044245,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "8": {
+            "MAE": 11.126917531406233,
+            "clip_similarity": 0.88134765625,
+            "structure_similarity": 0.8501311878806208,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 79.21868736814346,
+            "clip_similarity": 0.69873046875,
+            "structure_similarity": 0.8989036280635985,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 107.00245685266809,
+            "clip_similarity": 0.71337890625,
+            "structure_similarity": 0.903269740195702,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 101.15432400173611,
+            "clip_similarity": 0.576171875,
+            "structure_similarity": 0.8487009888388127,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 73.26262412981163,
+            "clip_similarity": 0.74365234375,
+            "structure_similarity": 0.8172358274976456,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 87.09189351399739,
+            "clip_similarity": 0.69189453125,
+            "structure_similarity": 0.6684896116670705,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 90.64325914884868,
+            "clip_similarity": 0.78466796875,
+            "structure_similarity": 0.7815419588960932,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 33.201870819397996,
+            "clip_similarity": 0.7607421875,
+            "structure_similarity": 0.8117212957678025,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 87.87828826904297,
+            "clip_similarity": 0.78369140625,
+            "structure_similarity": 0.7482991236213143,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 117.4875627223069,
+            "clip_similarity": 0.62109375,
+            "structure_similarity": 0.3136267560557734,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "18": {
+            "MAE": 119.8455009576233,
+            "clip_similarity": 0.71240234375,
+            "structure_similarity": 0.30714752725938066,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "19": {
+            "MAE": 130.8791388603696,
+            "clip_similarity": 0.72998046875,
+            "structure_similarity": 0.22145012478087472,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 98.16322290528232,
+            "clip_similarity": 0.60888671875,
+            "structure_similarity": 0.6192696464809483,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 87.58844266033026,
+            "clip_similarity": 0.6865234375,
+            "structure_similarity": 0.7322185130457269,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 79.49249194394484,
+            "clip_similarity": 0.76953125,
+            "structure_similarity": 0.7287650417935678,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 51.9858178490991,
+            "clip_similarity": 0.8017578125,
+            "structure_similarity": 0.6318109246201151,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 85.48437754313152,
+            "clip_similarity": 0.70263671875,
+            "structure_similarity": 0.6556765586940648,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 115.96324483915907,
+            "clip_similarity": 0.705078125,
+            "structure_similarity": 0.5085514750454921,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "26": {
+            "MAE": 22.31356976141079,
+            "clip_similarity": 0.67919921875,
+            "structure_similarity": 0.8685015090020992,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 106.62775631268782,
+            "clip_similarity": 0.72998046875,
+            "structure_similarity": 0.4404913494959485,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 96.58793317674292,
+            "clip_similarity": 0.6083984375,
+            "structure_similarity": 0.6177163856051929,
+            "compile_error": "NULL"
+        },
+        "29": {
+            "MAE": 93.74618021647136,
+            "clip_similarity": 0.49072265625,
+            "structure_similarity": 0.6023471822531394,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 78.2417914388668,
+            "clip_similarity": 0.6904296875,
+            "structure_similarity": 0.7622670636454447,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 130.0625966389974,
+            "clip_similarity": 0.7080078125,
+            "structure_similarity": 0.4327663058172528,
+            "compile_error": " Expression expected\n    "
+        },
+        "32": {
+            "MAE": 73.69746185017523,
+            "clip_similarity": 0.6259765625,
+            "structure_similarity": 0.7964412283240074,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 115.5428949991862,
+            "clip_similarity": 0.67578125,
+            "structure_similarity": 0.4569208789804504,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 51.882018008474574,
+            "clip_similarity": 0.88427734375,
+            "structure_similarity": 0.7501507976375928,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 52.46808365970409,
+            "clip_similarity": 0.73095703125,
+            "structure_similarity": 0.7318901506011989,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 18.003774007161457,
+            "clip_similarity": 0.78857421875,
+            "structure_similarity": 0.8464608850074149,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 96.6736472800926,
+            "clip_similarity": 0.64306640625,
+            "structure_similarity": 0.6598175156303204,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 79.18284542624521,
+            "clip_similarity": 0.71728515625,
+            "structure_similarity": 0.7845056837156361,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 98.04897707180197,
+            "clip_similarity": 0.6259765625,
+            "structure_similarity": 0.5834907215003143,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 119.85685103411836,
+            "clip_similarity": 0.67529296875,
+            "structure_similarity": 0.549123942602351,
+            "compile_error": " Expected ';', '}' or &lt;eof&gt;\n   "
+        },
+        "41": {
+            "MAE": 113.5390650581205,
+            "clip_similarity": 0.72314453125,
+            "structure_similarity": 0.3390888891095975,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 83.54946137864299,
+            "clip_similarity": 0.640625,
+            "structure_similarity": 0.7940716085379839,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 106.32666450296736,
+            "clip_similarity": 0.68310546875,
+            "structure_similarity": 0.5647908170691094,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 76.50176215277777,
+            "clip_similarity": 0.5185546875,
+            "structure_similarity": 0.6728970832254896,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 142.97125421997157,
+            "clip_similarity": 0.83544921875,
+            "structure_similarity": 0.3576482379377417,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 89.18759155273438,
+            "clip_similarity": 0.56689453125,
+            "structure_similarity": 0.5963801179511894,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "47": {
+            "MAE": 135.8094421206674,
+            "clip_similarity": 0.63134765625,
+            "structure_similarity": 0.2832001535335331,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 101.89299294800885,
+            "clip_similarity": 0.64794921875,
+            "structure_similarity": 0.8398208747741722,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 92.39419206532922,
+            "clip_similarity": 0.56103515625,
+            "structure_similarity": 0.5932877102960077,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 98.32689525462963,
+            "clip_similarity": 0.73388671875,
+            "structure_similarity": 0.048543175636322315,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 69.28046419970879,
+            "clip_similarity": 0.82177734375,
+            "structure_similarity": 0.03597237710405073,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 95.04502277954707,
+            "clip_similarity": 0.6513671875,
+            "structure_similarity": 0.04363636507800921,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 82.65299702126141,
+            "clip_similarity": 0.84326171875,
+            "structure_similarity": 0.8324797784732779,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 48.56719262055243,
+            "clip_similarity": 0.7900390625,
+            "structure_similarity": 0.9068805588450002,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 69.55968424479167,
+            "clip_similarity": 0.65380859375,
+            "structure_similarity": 0.77853122959959,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 9.936602274576822,
+            "clip_similarity": 0.66162109375,
+            "structure_similarity": 0.9408719091321915,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 93.13676575033422,
+            "clip_similarity": 0.60791015625,
+            "structure_similarity": 0.48276947980369156,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 43.12960885932343,
+            "clip_similarity": 0.6435546875,
+            "structure_similarity": 0.7814855992348126,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 110.1052178094115,
+            "clip_similarity": 0.69580078125,
+            "structure_similarity": 0.7151058917366921,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 102.86399586995442,
+            "clip_similarity": 0.69189453125,
+            "structure_similarity": 0.5053111213783332,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 107.17094232560524,
+            "clip_similarity": 0.697265625,
+            "structure_similarity": 0.656617265530987,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 116.29583158947173,
+            "clip_similarity": 0.705078125,
+            "structure_similarity": 0.5407206357675727,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "63": {
+            "MAE": 21.784367037619905,
+            "clip_similarity": 0.6357421875,
+            "structure_similarity": 0.9248390806932976,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 59.02662478469488,
+            "clip_similarity": 0.89208984375,
+            "structure_similarity": 0.86861118922293,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 183.6906957045251,
+            "clip_similarity": 0.67529296875,
+            "structure_similarity": 0.2524444700702947,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 3.960138956705729,
+            "clip_similarity": 0.81982421875,
+            "structure_similarity": 0.9462758405039009,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 62.48543659651361,
+            "clip_similarity": 0.65283203125,
+            "structure_similarity": 0.6147705041827507,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 95.89656321207683,
+            "clip_similarity": 0.798828125,
+            "structure_similarity": 0.6049317311449739,
+            "compile_error": " Expected ';', '}' or &lt;eof&gt;\n   "
+        },
+        "69": {
+            "MAE": 52.21120961507162,
+            "clip_similarity": 0.68505859375,
+            "structure_similarity": 0.8317220346423151,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 86.25751435942368,
+            "clip_similarity": 0.65625,
+            "structure_similarity": 0.8219976668789709,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 103.91706594599698,
+            "clip_similarity": 0.7041015625,
+            "structure_similarity": 0.5852205598832948,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 101.86400860424298,
+            "clip_similarity": 0.7509765625,
+            "structure_similarity": 0.5810570971942038,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 97.5997621704932,
+            "clip_similarity": 0.693359375,
+            "structure_similarity": 0.6113094149549121,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 13.169480449021465,
+            "clip_similarity": 0.7275390625,
+            "structure_similarity": 0.8616110764895312,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 102.5382937023562,
+            "clip_similarity": 0.73486328125,
+            "structure_similarity": 0.6371057014742498,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 72.5675006390593,
+            "clip_similarity": 0.71923828125,
+            "structure_similarity": 0.7304354010663434,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 102.1459182518116,
+            "clip_similarity": 0.65625,
+            "structure_similarity": 0.44243643121012527,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 100.72788451318027,
+            "clip_similarity": 0.67431640625,
+            "structure_similarity": 0.7865274766207805,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 108.0691266082389,
+            "clip_similarity": 0.76416015625,
+            "structure_similarity": 0.6122902285709199,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 93.31558943383487,
+            "clip_similarity": 0.65380859375,
+            "structure_similarity": 0.5432621422326147,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 123.47275438495711,
+            "clip_similarity": 0.72998046875,
+            "structure_similarity": 0.624269927394519,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 108.64590694935218,
+            "clip_similarity": 0.69091796875,
+            "structure_similarity": 0.6145880054524366,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 83.83086580504116,
+            "clip_similarity": 0.8427734375,
+            "structure_similarity": 0.7926236690099777,
+            "compile_error": "NULL"
+        }
+    },
+    "pixtral-large-latest": {
+        "1": {
+            "MAE": 115.75540407135077,
+            "clip_similarity": 0.7015140056610107,
+            "structure_similarity": 0.5718055737871381,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 35.08929697672526,
+            "clip_similarity": 0.6546251177787781,
+            "structure_similarity": 0.869124433927749,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 145.46255983257421,
+            "clip_similarity": 0.7552924156188965,
+            "structure_similarity": 0.2669354057918377,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 56.65563628870413,
+            "clip_similarity": 0.6988160610198975,
+            "structure_similarity": 0.03835604754656524,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 77.08540667466028,
+            "clip_similarity": 0.8603799343109131,
+            "structure_similarity": 0.22748766878823795,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 33.79273048999612,
+            "clip_similarity": 0.8609086871147156,
+            "structure_similarity": 0.6850731809865303,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 57.74691345531088,
+            "clip_similarity": 0.8139450550079346,
+            "structure_similarity": 0.8062605295731358,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 112.72219713315604,
+            "clip_similarity": 0.7853356003761292,
+            "structure_similarity": 0.6495066960634988,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 119.35726033834587,
+            "clip_similarity": 0.852527379989624,
+            "structure_similarity": 0.5550263542577938,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "10": {
+            "MAE": 113.8726094457755,
+            "clip_similarity": 0.7638185620307922,
+            "structure_similarity": 0.6875181506899969,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 112.04942999945746,
+            "clip_similarity": 0.7105380892753601,
+            "structure_similarity": 0.6412906580418631,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 109.07216804873055,
+            "clip_similarity": 0.7790189385414124,
+            "structure_similarity": 0.6210765722826789,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 57.72777303059896,
+            "clip_similarity": 0.9034607410430908,
+            "structure_similarity": 0.8458909120914418,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 68.82086022418478,
+            "clip_similarity": 0.7843573689460754,
+            "structure_similarity": 0.7567411909862238,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 54.24281023550725,
+            "clip_similarity": 0.687920093536377,
+            "structure_similarity": 0.804031552660992,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 9.027806599934896,
+            "clip_similarity": 0.8284772038459778,
+            "structure_similarity": 0.9058130760366003,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 65.34241174768519,
+            "clip_similarity": 0.7897993922233582,
+            "structure_similarity": 0.19622258960330652,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 67.36473466982905,
+            "clip_similarity": 0.7715702652931213,
+            "structure_similarity": 0.23281502210386604,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 79.7618505559816,
+            "clip_similarity": 0.7971916198730469,
+            "structure_similarity": 0.0653211154069673,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 74.16355812156593,
+            "clip_similarity": 0.7106271982192993,
+            "structure_similarity": 0.8174044571224922,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 87.77466757872504,
+            "clip_similarity": 0.6780720949172974,
+            "structure_similarity": 0.7365753718572173,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 86.07583932853717,
+            "clip_similarity": 0.7450264692306519,
+            "structure_similarity": 0.7156231817340947,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 57.92980660949411,
+            "clip_similarity": 0.8536087274551392,
+            "structure_similarity": 0.7248275113546121,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 112.16241709391277,
+            "clip_similarity": 0.6945101022720337,
+            "structure_similarity": 0.549153320388109,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "25": {
+            "MAE": 102.93841224987335,
+            "clip_similarity": 0.7445645332336426,
+            "structure_similarity": 0.6228816913118231,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 22.77083873616874,
+            "clip_similarity": 0.8563141226768494,
+            "structure_similarity": 0.8289345358776448,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 99.90030441400305,
+            "clip_similarity": 0.7304224967956543,
+            "structure_similarity": 0.49353147823592713,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 137.01947108773376,
+            "clip_similarity": 0.8214426636695862,
+            "structure_similarity": 0.35817384173480077,
+            "compile_error": "NULL"
+        },
+        "29": {
+            "MAE": 85.10812886555989,
+            "clip_similarity": 0.7734507918357849,
+            "structure_similarity": 0.6114021372224957,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 74.30696999056758,
+            "clip_similarity": 0.8484506011009216,
+            "structure_similarity": 0.7191433173060524,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 103.95455169677734,
+            "clip_similarity": 0.7206583619117737,
+            "structure_similarity": 0.5308717612735201,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 104.8363116968458,
+            "clip_similarity": 0.7539005279541016,
+            "structure_similarity": 0.5931617278807126,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 115.83375549316406,
+            "clip_similarity": 0.7051941752433777,
+            "structure_similarity": 0.4572788721519125,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 63.927659339689264,
+            "clip_similarity": 0.6182247996330261,
+            "structure_similarity": 0.7586000024476587,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 36.17569455776762,
+            "clip_similarity": 0.8636111617088318,
+            "structure_similarity": 0.6912842298468213,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 11.25854746500651,
+            "clip_similarity": 0.8918461799621582,
+            "structure_similarity": 0.8558041498349801,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 23.855446144386573,
+            "clip_similarity": 0.8347712159156799,
+            "structure_similarity": 0.9495326698985416,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 90.55005163433908,
+            "clip_similarity": 0.5473867058753967,
+            "structure_similarity": 0.806422923158324,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 101.4469100745695,
+            "clip_similarity": 0.6311387419700623,
+            "structure_similarity": 0.5660709949787288,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 119.88022248641305,
+            "clip_similarity": 0.6845028400421143,
+            "structure_similarity": 0.5457106478158497,
+            "compile_error": " Unexpected eof\n     "
+        },
+        "41": {
+            "MAE": 46.039957842174196,
+            "clip_similarity": 0.8327828049659729,
+            "structure_similarity": 0.5868820962335601,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 93.23841288137523,
+            "clip_similarity": 0.7144790887832642,
+            "structure_similarity": 0.6656478977269171,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 49.72749728201783,
+            "clip_similarity": 0.8687838912010193,
+            "structure_similarity": 0.5950280754040618,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 78.41833660313901,
+            "clip_similarity": 0.856110692024231,
+            "structure_similarity": 0.615041628978114,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 92.09099167547569,
+            "clip_similarity": 0.71323162317276,
+            "structure_similarity": 0.4553851421414677,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 32.123146057128906,
+            "clip_similarity": 0.8912421464920044,
+            "structure_similarity": 0.8050475619383481,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 160.85997995022123,
+            "clip_similarity": 0.5142386555671692,
+            "structure_similarity": 0.11768318061859064,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 70.7619319229351,
+            "clip_similarity": 0.8538634181022644,
+            "structure_similarity": 0.8410549610905822,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 84.02443576388889,
+            "clip_similarity": 0.6502266526222229,
+            "structure_similarity": 0.493254731364222,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 141.3739494193154,
+            "clip_similarity": 0.6940603256225586,
+            "structure_similarity": 0.12355979380767455,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 118.47645399305556,
+            "clip_similarity": 0.7209001779556274,
+            "structure_similarity": 0.37429000229007864,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "52": {
+            "MAE": 115.13756883625265,
+            "clip_similarity": 0.6775039434432983,
+            "structure_similarity": 0.36672373874568015,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "53": {
+            "MAE": 77.37885273972603,
+            "clip_similarity": 0.6851898431777954,
+            "structure_similarity": 0.7570246843251441,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 47.769695839185395,
+            "clip_similarity": 0.8685989379882812,
+            "structure_similarity": 0.8849708776703117,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 39.56679973672161,
+            "clip_similarity": 0.8046835660934448,
+            "structure_similarity": 0.7572819990260947,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 112.97899373372395,
+            "clip_similarity": 0.6063597798347473,
+            "structure_similarity": 0.5556727298933208,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "57": {
+            "MAE": 81.51617601639713,
+            "clip_similarity": 0.7543326020240784,
+            "structure_similarity": 0.6977146207776852,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 28.482213371459697,
+            "clip_similarity": 0.7442575097084045,
+            "structure_similarity": 0.8669522018307237,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 73.54491597432025,
+            "clip_similarity": 0.7796630859375,
+            "structure_similarity": 0.6870642937442475,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 92.25952351888021,
+            "clip_similarity": 0.7817275524139404,
+            "structure_similarity": 0.5544475254833923,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 107.27586688201632,
+            "clip_similarity": 0.7156859040260315,
+            "structure_similarity": 0.6575663242091677,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 41.675650214071325,
+            "clip_similarity": 0.9041146039962769,
+            "structure_similarity": 0.7880688028528382,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 20.000756426109113,
+            "clip_similarity": 0.9015274047851562,
+            "structure_similarity": 0.9041748484538747,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 26.829898704068242,
+            "clip_similarity": 0.9286240339279175,
+            "structure_similarity": 0.8405712321289046,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 152.88779692015896,
+            "clip_similarity": 0.6717645525932312,
+            "structure_similarity": 0.2755093803832779,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 86.90607452392578,
+            "clip_similarity": 0.7350793480873108,
+            "structure_similarity": 0.6874318229250936,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 100.72884911777211,
+            "clip_similarity": 0.7249928712844849,
+            "structure_similarity": 0.422497666888427,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 9.848070780436197,
+            "clip_similarity": 0.7859851121902466,
+            "structure_similarity": 0.8586285074616234,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 40.441505046206224,
+            "clip_similarity": 0.8808245658874512,
+            "structure_similarity": 0.8229980921405695,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 46.18004770747951,
+            "clip_similarity": 0.9131357669830322,
+            "structure_similarity": 0.8120274161600599,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 60.23760070493454,
+            "clip_similarity": 0.714859127998352,
+            "structure_similarity": 0.813741566549997,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 23.665481436965813,
+            "clip_similarity": 0.8994731903076172,
+            "structure_similarity": 0.7730910255608145,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 100.85092461069024,
+            "clip_similarity": 0.725927472114563,
+            "structure_similarity": 0.5164539346349301,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 15.739452631786616,
+            "clip_similarity": 0.8759027123451233,
+            "structure_similarity": 0.8161556732825798,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 81.120841995842,
+            "clip_similarity": 0.6977219581604004,
+            "structure_similarity": 0.8197967623266784,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 100.74318788109755,
+            "clip_similarity": 0.6130825281143188,
+            "structure_similarity": 0.7852109808440925,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 110.3397273802335,
+            "clip_similarity": 0.5918267369270325,
+            "structure_similarity": 0.544918101476336,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 36.22326030927835,
+            "clip_similarity": 0.9197580218315125,
+            "structure_similarity": 0.7290518136720251,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 73.05417038690476,
+            "clip_similarity": 0.8241032958030701,
+            "structure_similarity": 0.7280789422772496,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 64.3043815706983,
+            "clip_similarity": 0.7144663333892822,
+            "structure_similarity": 0.7556255324006295,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 108.66532419023723,
+            "clip_similarity": 0.7557823657989502,
+            "structure_similarity": 0.4694189529040202,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 108.79658053592462,
+            "clip_similarity": 0.727664053440094,
+            "structure_similarity": 0.6161573545218711,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 108.47366337159863,
+            "clip_similarity": 0.8097792267799377,
+            "structure_similarity": 0.6134696635533665,
+            "compile_error": "NULL"
+        }
+    },
+    "pixtral-12b-2409": {
+        "1": {
+            "MAE": 115.93629720406682,
+            "clip_similarity": 0.7278245687484741,
+            "structure_similarity": 0.5875583493240626,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 113.19615173339844,
+            "clip_similarity": 0.6507735252380371,
+            "structure_similarity": 0.5447788484261075,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "3": {
+            "MAE": 111.26231870389,
+            "clip_similarity": 0.7287670373916626,
+            "structure_similarity": 0.317479968476875,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "4": {
+            "MAE": 41.95538423404052,
+            "clip_similarity": 0.901975154876709,
+            "structure_similarity": 0.5177754281660814,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 33.9167600896861,
+            "clip_similarity": 0.8997794389724731,
+            "structure_similarity": 0.6991272934625368,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 97.44762196882218,
+            "clip_similarity": 0.7220685482025146,
+            "structure_similarity": 0.423390244200304,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 101.49436211340206,
+            "clip_similarity": 0.7127369046211243,
+            "structure_similarity": 0.28068326929975695,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 84.00719232241246,
+            "clip_similarity": 0.7787287831306458,
+            "structure_similarity": 0.7868312846761415,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 119.24923474049707,
+            "clip_similarity": 0.8460230827331543,
+            "structure_similarity": 0.5542463324629475,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "10": {
+            "MAE": 80.6700451697867,
+            "clip_similarity": 0.891643762588501,
+            "structure_similarity": 0.8739299303828457,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 115.66408793131511,
+            "clip_similarity": 0.6857399940490723,
+            "structure_similarity": 0.52924733474519,
+            "compile_error": " the name `AspectRatio` is defined multiple times\n    "
+        },
+        "12": {
+            "MAE": 92.73004805231368,
+            "clip_similarity": 0.6421847343444824,
+            "structure_similarity": 0.8026977270568407,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 49.10945383707682,
+            "clip_similarity": 0.883644163608551,
+            "structure_similarity": 0.8732767132593925,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 98.56949298702486,
+            "clip_similarity": 0.6987446546554565,
+            "structure_similarity": 0.6281935430966167,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 96.95622125836121,
+            "clip_similarity": 0.7098563313484192,
+            "structure_similarity": 0.6133421446838846,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 25.427594502766926,
+            "clip_similarity": 0.7513087391853333,
+            "structure_similarity": 0.8673709388500924,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 33.35274703414352,
+            "clip_similarity": 0.8371792435646057,
+            "structure_similarity": 0.06574125343155457,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 119.81543486225415,
+            "clip_similarity": 0.691271960735321,
+            "structure_similarity": 0.305623911919782,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "19": {
+            "MAE": 132.8824983423169,
+            "clip_similarity": 0.7211679816246033,
+            "structure_similarity": 0.21390650044586704,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 98.74647797131148,
+            "clip_similarity": 0.6068172454833984,
+            "structure_similarity": 0.5981922143427234,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 98.84778825844855,
+            "clip_similarity": 0.6578152775764465,
+            "structure_similarity": 0.5417922781898014,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 108.58636532738095,
+            "clip_similarity": 0.601586639881134,
+            "structure_similarity": 0.4805191602810404,
+            "compile_error": " the name `Slider` is defined multiple times\n   "
+        },
+        "23": {
+            "MAE": 53.31039122054747,
+            "clip_similarity": 0.863200843334198,
+            "structure_similarity": 0.6996789433628621,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 93.93471781412761,
+            "clip_similarity": 0.6752236485481262,
+            "structure_similarity": 0.6173714199785296,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 104.8776912360689,
+            "clip_similarity": 0.7349714636802673,
+            "structure_similarity": 0.601446826379383,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 32.931251620850624,
+            "clip_similarity": 0.8334609866142273,
+            "structure_similarity": 0.7887426834079118,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 107.62921891232394,
+            "clip_similarity": 0.7010529637336731,
+            "structure_similarity": 0.48052779649816096,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 107.98528560729848,
+            "clip_similarity": 0.747847318649292,
+            "structure_similarity": 0.5656020072219807,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "29": {
+            "MAE": 127.3966293334961,
+            "clip_similarity": 0.7315059304237366,
+            "structure_similarity": 0.4468450943917172,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 75.06365598343176,
+            "clip_similarity": 0.7960256338119507,
+            "structure_similarity": 0.04050047907857376,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 112.73603057861328,
+            "clip_similarity": 0.6869634389877319,
+            "structure_similarity": 0.4927596729133029,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 104.77822296047508,
+            "clip_similarity": 0.7402596473693848,
+            "structure_similarity": 0.5925127010568852,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 67.79227193196614,
+            "clip_similarity": 0.7550881505012512,
+            "structure_similarity": 0.6493151988921175,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 64.91142302259887,
+            "clip_similarity": 0.5600770711898804,
+            "structure_similarity": 0.7452622933757174,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 102.62014013544386,
+            "clip_similarity": 0.6711418628692627,
+            "structure_similarity": 0.4880958259641003,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 12.374791463216146,
+            "clip_similarity": 0.8942591547966003,
+            "structure_similarity": 0.8491773703767389,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 40.778469509548614,
+            "clip_similarity": 0.7622944712638855,
+            "structure_similarity": 0.8965274673691307,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 90.54167040828544,
+            "clip_similarity": 0.5473867058753967,
+            "structure_similarity": 0.806422923158324,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 34.146922786896745,
+            "clip_similarity": 0.8691236972808838,
+            "structure_similarity": 0.8012373941030465,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 120.09010794082126,
+            "clip_similarity": 0.661422610282898,
+            "structure_similarity": 0.5496084572306743,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "41": {
+            "MAE": 96.65690871602816,
+            "clip_similarity": 0.6799746751785278,
+            "structure_similarity": 0.41067179111544133,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 97.7353568989071,
+            "clip_similarity": 0.71076500415802,
+            "structure_similarity": 0.5705983131967117,
+            "compile_error": " the name `Textarea` is defined multiple times\n    "
+        },
+        "43": {
+            "MAE": 104.91582436943621,
+            "clip_similarity": 0.663318395614624,
+            "structure_similarity": 0.5794117078398715,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 82.83100983796297,
+            "clip_similarity": 0.7563558220863342,
+            "structure_similarity": 0.584453955113269,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 37.7772340862651,
+            "clip_similarity": 0.823295533657074,
+            "structure_similarity": 0.6046570637808893,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 81.42580668131511,
+            "clip_similarity": 0.576837420463562,
+            "structure_similarity": 0.6343412208372606,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 160.83387346745943,
+            "clip_similarity": 0.5142386555671692,
+            "structure_similarity": 0.11768318061859064,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 111.89154445358187,
+            "clip_similarity": 0.7274629473686218,
+            "structure_similarity": 0.6448279235940384,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 82.30163966049383,
+            "clip_similarity": 0.6820005774497986,
+            "structure_similarity": 0.48763826260116144,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 103.85623874742798,
+            "clip_similarity": 0.6932896375656128,
+            "structure_similarity": 0.05906369752281093,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 131.00191637264786,
+            "clip_similarity": 0.693785548210144,
+            "structure_similarity": 0.32353393473513803,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 49.8954025584404,
+            "clip_similarity": 0.8029441833496094,
+            "structure_similarity": 0.10437082787694979,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 119.77845539257369,
+            "clip_similarity": 0.6722267866134644,
+            "structure_similarity": 0.5503431066146763,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "54": {
+            "MAE": 47.295198019077716,
+            "clip_similarity": 0.8368537425994873,
+            "structure_similarity": 0.8851091670884972,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 99.5264992042824,
+            "clip_similarity": 0.5499331951141357,
+            "structure_similarity": 0.5513988893965622,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "56": {
+            "MAE": 14.11956532796224,
+            "clip_similarity": 0.6051183342933655,
+            "structure_similarity": 0.9303124318211436,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 97.21172892800989,
+            "clip_similarity": 0.6724331378936768,
+            "structure_similarity": 0.6302035912064843,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 47.09333400974026,
+            "clip_similarity": 0.8241398334503174,
+            "structure_similarity": 0.7835680570814417,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 69.60353190104166,
+            "clip_similarity": 0.71012282371521,
+            "structure_similarity": 0.7119547893502738,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 85.26797231038411,
+            "clip_similarity": 0.677607536315918,
+            "structure_similarity": 0.50685554806382,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n   "
+        },
+        "61": {
+            "MAE": 118.27576291029662,
+            "clip_similarity": 0.6841644644737244,
+            "structure_similarity": 0.5488773221626768,
+            "compile_error": " You're importing a component that needs useState. It only works in a Client Component but none of its parents are marked with \"use client\", so they're Server Components by default.\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> Learn more: <a href=https://nextjs.org/docs/getting-started/react-essentials target=_blank rel=\"noreferrer noopener\">https://nextjs.org/docs/getting-started/react-essentials</a>\n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n  </span><span style=color:var(--color-ansi-truecolor)>│</span><span> \n    "
+        },
+        "62": {
+            "MAE": 113.67604428245907,
+            "clip_similarity": 0.7339925765991211,
+            "structure_similarity": 0.552826691346469,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 41.06380442520983,
+            "clip_similarity": 0.6271940469741821,
+            "structure_similarity": 0.8857938018382434,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 10.768202253526903,
+            "clip_similarity": 0.8417442440986633,
+            "structure_similarity": 0.8396853661952899,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 142.6275947585501,
+            "clip_similarity": 0.6376444101333618,
+            "structure_similarity": 0.3221453163075693,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 37.29353586832682,
+            "clip_similarity": 0.8281258940696716,
+            "structure_similarity": 0.9151779249665739,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 26.466167880561088,
+            "clip_similarity": 0.8429975509643555,
+            "structure_similarity": 0.728755489459162,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 95.15126037597656,
+            "clip_similarity": 0.7363603115081787,
+            "structure_similarity": 0.6011890542055802,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 69.0350570678711,
+            "clip_similarity": 0.7388505339622498,
+            "structure_similarity": 0.8196297413012648,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 70.32171214003567,
+            "clip_similarity": 0.8022848963737488,
+            "structure_similarity": 0.787728100360149,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 42.73887830284553,
+            "clip_similarity": 0.9094468951225281,
+            "structure_similarity": 0.7270704131409604,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 93.66102907509158,
+            "clip_similarity": 0.7660214304924011,
+            "structure_similarity": 0.6262646590974963,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 103.19375394570707,
+            "clip_similarity": 0.6976767182350159,
+            "structure_similarity": 0.6888034955647868,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 97.39403557054925,
+            "clip_similarity": 0.7952641248703003,
+            "structure_similarity": 0.5759780684554672,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 34.48111432072829,
+            "clip_similarity": 0.8633496761322021,
+            "structure_similarity": 0.7617929437350043,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 75.7613512908998,
+            "clip_similarity": 0.8191354870796204,
+            "structure_similarity": 0.8139091744991698,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 109.13075774898374,
+            "clip_similarity": 0.8372079133987427,
+            "structure_similarity": 0.5374284057143174,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 100.7237092102466,
+            "clip_similarity": 0.7608518004417419,
+            "structure_similarity": 0.7998260784608306,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 55.271988467261906,
+            "clip_similarity": 0.8204910755157471,
+            "structure_similarity": 0.812333786611042,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 42.588110632183906,
+            "clip_similarity": 0.7628300786018372,
+            "structure_similarity": 0.7663913692363816,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 111.742341944191,
+            "clip_similarity": 0.7366342544555664,
+            "structure_similarity": 0.38870085725818854,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 108.63775167476443,
+            "clip_similarity": 0.7152069807052612,
+            "structure_similarity": 0.6147026823303703,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 83.22259730795611,
+            "clip_similarity": 0.761610209941864,
+            "structure_similarity": 0.699754538108268,
+            "compile_error": "NULL"
+        }
+    },
+    "qwen2.5-vl-72b-instruct": {
+        "1": {
+            "MAE": 99.4879805510167,
+            "clip_similarity": 0.8732033967971802,
+            "structure_similarity": 0.6973381363219227,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 15.13000742594401,
+            "clip_similarity": 0.912903904914856,
+            "structure_similarity": 0.9069068802587507,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 86.90681142459515,
+            "clip_similarity": 0.7932202219963074,
+            "structure_similarity": 0.4755775517967399,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 95.49340596330275,
+            "clip_similarity": 0.8572062253952026,
+            "structure_similarity": 0.08815218424318588,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 57.08647911125887,
+            "clip_similarity": 0.8179035782814026,
+            "structure_similarity": 0.33872881295362084,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 37.10530788655789,
+            "clip_similarity": 0.8415935039520264,
+            "structure_similarity": 0.6739923478898155,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 73.92154612328179,
+            "clip_similarity": 0.745540201663971,
+            "structure_similarity": 0.7264347812323345,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 72.44948163767351,
+            "clip_similarity": 0.8427335619926453,
+            "structure_similarity": 0.779516676655883,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 119.39925334168755,
+            "clip_similarity": 0.8612964153289795,
+            "structure_similarity": 0.5545997847955987,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "10": {
+            "MAE": 53.57931789929722,
+            "clip_similarity": 0.8872204422950745,
+            "structure_similarity": 0.8550480973021094,
+            "compile_error": "NULL"
+        },
+        "11": {
+            "MAE": 53.679329766167534,
+            "clip_similarity": 0.7994025349617004,
+            "structure_similarity": 0.823571991668854,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 92.48458774825963,
+            "clip_similarity": 0.666494607925415,
+            "structure_similarity": 0.7966541070081147,
+            "compile_error": "NULL"
+        },
+        "13": {
+            "MAE": 40.43760426839193,
+            "clip_similarity": 0.8791438341140747,
+            "structure_similarity": 0.8506970336592053,
+            "compile_error": "NULL"
+        },
+        "14": {
+            "MAE": 88.77871008086623,
+            "clip_similarity": 0.8387576937675476,
+            "structure_similarity": 0.7375357829729761,
+            "compile_error": "NULL"
+        },
+        "15": {
+            "MAE": 32.63865445582497,
+            "clip_similarity": 0.7800230979919434,
+            "structure_similarity": 0.7425376770464969,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 9.903526306152344,
+            "clip_similarity": 0.878006100654602,
+            "structure_similarity": 0.8995887854572133,
+            "compile_error": "NULL"
+        },
+        "17": {
+            "MAE": 88.83597768775721,
+            "clip_similarity": 0.41287142038345337,
+            "structure_similarity": 0.08770181119301823,
+            "compile_error": "NULL"
+        },
+        "18": {
+            "MAE": 47.12839346962824,
+            "clip_similarity": 0.8003418445587158,
+            "structure_similarity": 0.2374355969358163,
+            "compile_error": "NULL"
+        },
+        "19": {
+            "MAE": 65.653959197787,
+            "clip_similarity": 0.809207558631897,
+            "structure_similarity": 0.07011811723867746,
+            "compile_error": "NULL"
+        },
+        "20": {
+            "MAE": 43.54672118246337,
+            "clip_similarity": 0.7969032526016235,
+            "structure_similarity": 0.8236613890773296,
+            "compile_error": "NULL"
+        },
+        "21": {
+            "MAE": 56.26185804263566,
+            "clip_similarity": 0.8819600343704224,
+            "structure_similarity": 0.7103371847458195,
+            "compile_error": "NULL"
+        },
+        "22": {
+            "MAE": 31.220515774880095,
+            "clip_similarity": 0.8401483297348022,
+            "structure_similarity": 0.7106147944451761,
+            "compile_error": "NULL"
+        },
+        "23": {
+            "MAE": 76.98501115297991,
+            "clip_similarity": 0.8295767903327942,
+            "structure_similarity": 0.6873167390381764,
+            "compile_error": "NULL"
+        },
+        "24": {
+            "MAE": 3.3665542602539062,
+            "clip_similarity": 0.8939915299415588,
+            "structure_similarity": 0.9303748042148865,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 67.15327974607396,
+            "clip_similarity": 0.7903587818145752,
+            "structure_similarity": 0.7145202833441257,
+            "compile_error": "NULL"
+        },
+        "26": {
+            "MAE": 32.648151149723375,
+            "clip_similarity": 0.8304543495178223,
+            "structure_similarity": 0.7882203895392917,
+            "compile_error": "NULL"
+        },
+        "27": {
+            "MAE": 105.49012903854661,
+            "clip_similarity": 0.8065792918205261,
+            "structure_similarity": 0.4896888189048412,
+            "compile_error": "NULL"
+        },
+        "28": {
+            "MAE": 108.09342447916667,
+            "clip_similarity": 0.7588620185852051,
+            "structure_similarity": 0.5705441114075386,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "29": {
+            "MAE": 42.988390604654946,
+            "clip_similarity": 0.8991355299949646,
+            "structure_similarity": 0.7423820891628636,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 64.2270750497018,
+            "clip_similarity": 0.8153219819068909,
+            "structure_similarity": 0.2106562998836239,
+            "compile_error": "NULL"
+        },
+        "31": {
+            "MAE": 45.75264231363932,
+            "clip_similarity": 0.8394256234169006,
+            "structure_similarity": 0.7194061567692278,
+            "compile_error": "NULL"
+        },
+        "32": {
+            "MAE": 49.38321711935358,
+            "clip_similarity": 0.8814414739608765,
+            "structure_similarity": 0.7801386991836808,
+            "compile_error": "NULL"
+        },
+        "33": {
+            "MAE": 81.42049153645833,
+            "clip_similarity": 0.8350681662559509,
+            "structure_similarity": 0.5585807523037114,
+            "compile_error": "NULL"
+        },
+        "34": {
+            "MAE": 57.825212165077204,
+            "clip_similarity": 0.7795901894569397,
+            "structure_similarity": 0.7953775467471194,
+            "compile_error": "NULL"
+        },
+        "35": {
+            "MAE": 35.68294761568258,
+            "clip_similarity": 0.8975540995597839,
+            "structure_similarity": 0.7214372821669811,
+            "compile_error": "NULL"
+        },
+        "36": {
+            "MAE": 11.013132731119791,
+            "clip_similarity": 0.8242228627204895,
+            "structure_similarity": 0.846348088426298,
+            "compile_error": "NULL"
+        },
+        "37": {
+            "MAE": 22.451280381944443,
+            "clip_similarity": 0.8961382508277893,
+            "structure_similarity": 0.9536725966176314,
+            "compile_error": "NULL"
+        },
+        "38": {
+            "MAE": 91.22852117365056,
+            "clip_similarity": 0.9121063351631165,
+            "structure_similarity": 0.763396750178199,
+            "compile_error": "NULL"
+        },
+        "39": {
+            "MAE": 21.264838026556777,
+            "clip_similarity": 0.920547366142273,
+            "structure_similarity": 0.8291474748214654,
+            "compile_error": "NULL"
+        },
+        "40": {
+            "MAE": 107.00382133152173,
+            "clip_similarity": 0.7511633038520813,
+            "structure_similarity": 0.8260799637615881,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 56.321356213163064,
+            "clip_similarity": 0.8689479827880859,
+            "structure_similarity": 0.5708619523887549,
+            "compile_error": "NULL"
+        },
+        "42": {
+            "MAE": 92.21495525437385,
+            "clip_similarity": 0.8570965528488159,
+            "structure_similarity": 0.7793834814006022,
+            "compile_error": "NULL"
+        },
+        "43": {
+            "MAE": 80.79690397811572,
+            "clip_similarity": 0.7469110488891602,
+            "structure_similarity": 0.7256142606917807,
+            "compile_error": "NULL"
+        },
+        "44": {
+            "MAE": 86.00009034863946,
+            "clip_similarity": 0.777270495891571,
+            "structure_similarity": 0.728795096625772,
+            "compile_error": "NULL"
+        },
+        "45": {
+            "MAE": 34.18148792866027,
+            "clip_similarity": 0.8916556239128113,
+            "structure_similarity": 0.757510625917667,
+            "compile_error": "NULL"
+        },
+        "46": {
+            "MAE": 20.13227081298828,
+            "clip_similarity": 0.8499311208724976,
+            "structure_similarity": 0.8196734001085979,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 30.027165284630847,
+            "clip_similarity": 0.8546589016914368,
+            "structure_similarity": 0.1515451016697854,
+            "compile_error": "NULL"
+        },
+        "48": {
+            "MAE": 85.78728221792035,
+            "clip_similarity": 0.8227683901786804,
+            "structure_similarity": 0.854179299902522,
+            "compile_error": "NULL"
+        },
+        "49": {
+            "MAE": 59.92473636831276,
+            "clip_similarity": 0.8368374109268188,
+            "structure_similarity": 0.6717632530472241,
+            "compile_error": "NULL"
+        },
+        "50": {
+            "MAE": 53.17076260288066,
+            "clip_similarity": 0.8111106157302856,
+            "structure_similarity": 0.16048278272474173,
+            "compile_error": "NULL"
+        },
+        "51": {
+            "MAE": 21.021841843501328,
+            "clip_similarity": 0.894729733467102,
+            "structure_similarity": 0.06191819671995246,
+            "compile_error": "NULL"
+        },
+        "52": {
+            "MAE": 52.78172120360457,
+            "clip_similarity": 0.8017778396606445,
+            "structure_similarity": 0.11968895962948066,
+            "compile_error": "NULL"
+        },
+        "53": {
+            "MAE": 55.10743971175799,
+            "clip_similarity": 0.8799404501914978,
+            "structure_similarity": 0.7965772194735583,
+            "compile_error": "NULL"
+        },
+        "54": {
+            "MAE": 45.15836954295412,
+            "clip_similarity": 0.8184261322021484,
+            "structure_similarity": 0.8568791641480025,
+            "compile_error": "NULL"
+        },
+        "55": {
+            "MAE": 88.143994140625,
+            "clip_similarity": 0.56047123670578,
+            "structure_similarity": 0.6239928056432835,
+            "compile_error": "NULL"
+        },
+        "56": {
+            "MAE": 8.475395202636719,
+            "clip_similarity": 0.9881365895271301,
+            "structure_similarity": 0.9471561409910494,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 57.813777515723274,
+            "clip_similarity": 0.8258764743804932,
+            "structure_similarity": 0.7845432732013892,
+            "compile_error": "NULL"
+        },
+        "58": {
+            "MAE": 41.45489436323925,
+            "clip_similarity": 0.7941284775733948,
+            "structure_similarity": 0.8525738426646591,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 49.9050672450584,
+            "clip_similarity": 0.8466237187385559,
+            "structure_similarity": 0.7391800037062063,
+            "compile_error": "NULL"
+        },
+        "60": {
+            "MAE": 40.96189743004866,
+            "clip_similarity": 0.9038602709770203,
+            "structure_similarity": 0.664556352324927,
+            "compile_error": "NULL"
+        },
+        "61": {
+            "MAE": 74.68612931803098,
+            "clip_similarity": 0.7954928278923035,
+            "structure_similarity": 0.8713037081137391,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 51.43217814469538,
+            "clip_similarity": 0.8973194360733032,
+            "structure_similarity": 0.7397426229002956,
+            "compile_error": "NULL"
+        },
+        "63": {
+            "MAE": 18.929989602068346,
+            "clip_similarity": 0.9007461667060852,
+            "structure_similarity": 0.902331372139275,
+            "compile_error": "NULL"
+        },
+        "64": {
+            "MAE": 12.477594170357612,
+            "clip_similarity": 0.910576581954956,
+            "structure_similarity": 0.8356079265361644,
+            "compile_error": "NULL"
+        },
+        "65": {
+            "MAE": 78.8366277160936,
+            "clip_similarity": 0.7060545682907104,
+            "structure_similarity": 0.09026229506176037,
+            "compile_error": "NULL"
+        },
+        "66": {
+            "MAE": 3.674896240234375,
+            "clip_similarity": 0.8666077852249146,
+            "structure_similarity": 0.9505691165011847,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 90.27861552167678,
+            "clip_similarity": 0.8800762295722961,
+            "structure_similarity": 0.7048974150849496,
+            "compile_error": "NULL"
+        },
+        "68": {
+            "MAE": 22.160972595214844,
+            "clip_similarity": 0.888788640499115,
+            "structure_similarity": 0.828691833146131,
+            "compile_error": "NULL"
+        },
+        "69": {
+            "MAE": 54.36674245198568,
+            "clip_similarity": 0.9151744246482849,
+            "structure_similarity": 0.766727067936215,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 78.49411324474299,
+            "clip_similarity": 0.741974413394928,
+            "structure_similarity": 0.7868448517029628,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 37.27810394835329,
+            "clip_similarity": 0.8704495429992676,
+            "structure_similarity": 0.7430251868587563,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 24.041583199786324,
+            "clip_similarity": 0.8724417090415955,
+            "structure_similarity": 0.7619097832376954,
+            "compile_error": "NULL"
+        },
+        "73": {
+            "MAE": 63.25526067839196,
+            "clip_similarity": 0.8067896366119385,
+            "structure_similarity": 0.6012105486218378,
+            "compile_error": "NULL"
+        },
+        "74": {
+            "MAE": 13.48281891177399,
+            "clip_similarity": 0.8725091814994812,
+            "structure_similarity": 0.817660743034712,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 36.18612542673319,
+            "clip_similarity": 0.8707035183906555,
+            "structure_similarity": 0.7406324194265492,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 60.86965187244376,
+            "clip_similarity": 0.7693893313407898,
+            "structure_similarity": 0.8120630894235621,
+            "compile_error": "NULL"
+        },
+        "77": {
+            "MAE": 99.50762830284553,
+            "clip_similarity": 0.8380100131034851,
+            "structure_similarity": 0.5820849814733899,
+            "compile_error": "NULL"
+        },
+        "78": {
+            "MAE": 87.76710830111683,
+            "clip_similarity": 0.7647789716720581,
+            "structure_similarity": 0.7410491979502972,
+            "compile_error": "NULL"
+        },
+        "79": {
+            "MAE": 61.394990699404765,
+            "clip_similarity": 0.8640690445899963,
+            "structure_similarity": 0.7715722276231611,
+            "compile_error": "NULL"
+        },
+        "80": {
+            "MAE": 43.26482429358238,
+            "clip_similarity": 0.8435739278793335,
+            "structure_similarity": 0.8172170991276578,
+            "compile_error": "NULL"
+        },
+        "81": {
+            "MAE": 121.16906498927696,
+            "clip_similarity": 0.8702294230461121,
+            "structure_similarity": 0.4437394177811789,
+            "compile_error": "NULL"
+        },
+        "82": {
+            "MAE": 122.63946242559524,
+            "clip_similarity": 0.8815906047821045,
+            "structure_similarity": 0.37153035917292565,
+            "compile_error": "NULL"
+        },
+        "83": {
+            "MAE": 114.95284863945578,
+            "clip_similarity": 0.7887998223304749,
+            "structure_similarity": 0.5236588538949501,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        }
+    },
+    "qwen2.5-vl-7b-instruct": {
+        "1": {
+            "MAE": 112.5948052832244,
+            "clip_similarity": 0.7101671099662781,
+            "structure_similarity": 0.6150511170225276,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 112.76148223876953,
+            "clip_similarity": 0.7118099927902222,
+            "structure_similarity": 0.5436799596377642,
+            "compile_error": " Expression expected\n    "
+        },
+        "3": {
+            "MAE": 111.14880035420859,
+            "clip_similarity": 0.7263500690460205,
+            "structure_similarity": 0.31926195178856803,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "4": {
+            "MAE": 111.47565134237875,
+            "clip_similarity": 0.7839553356170654,
+            "structure_similarity": 0.32083843695400893,
+            "compile_error": " Expression expected\n    "
+        },
+        "5": {
+            "MAE": 114.28993944528112,
+            "clip_similarity": 0.7621539235115051,
+            "structure_similarity": 0.3359144729893231,
+            "compile_error": " Expression expected\n    "
+        },
+        "6": {
+            "MAE": 96.09958080735181,
+            "clip_similarity": 0.7395315766334534,
+            "structure_similarity": 0.4469897036072605,
+            "compile_error": " Expression expected\n    "
+        },
+        "7": {
+            "MAE": 90.05791250536942,
+            "clip_similarity": 0.7679780721664429,
+            "structure_similarity": 0.42106455499903817,
+            "compile_error": " Unexpected token `main`. Expected jsx identifier\n    "
+        },
+        "8": {
+            "MAE": 119.54675526691182,
+            "clip_similarity": 0.7424573302268982,
+            "structure_similarity": 0.5414448589112627,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "9": {
+            "MAE": 119.52571696167502,
+            "clip_similarity": 0.8674278855323792,
+            "structure_similarity": 0.556249144877514,
+            "compile_error": " Expression expected\n    "
+        },
+        "10": {
+            "MAE": 116.69291780212276,
+            "clip_similarity": 0.7277212142944336,
+            "structure_similarity": 0.576838762482468,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "11": {
+            "MAE": 110.87354193793402,
+            "clip_similarity": 0.6601689457893372,
+            "structure_similarity": 0.6567882465004287,
+            "compile_error": "NULL"
+        },
+        "12": {
+            "MAE": 117.49894265714578,
+            "clip_similarity": 0.7449781894683838,
+            "structure_similarity": 0.5126211986319918,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "13": {
+            "MAE": 112.40694936116536,
+            "clip_similarity": 0.7014234066009521,
+            "structure_similarity": 0.5644722593594759,
+            "compile_error": " Expression expected\n    "
+        },
+        "14": {
+            "MAE": 105.07786229897661,
+            "clip_similarity": 0.7289201021194458,
+            "structure_similarity": 0.5401605677720006,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "15": {
+            "MAE": 96.76113956243033,
+            "clip_similarity": 0.7067624926567078,
+            "structure_similarity": 0.6125116414700197,
+            "compile_error": "NULL"
+        },
+        "16": {
+            "MAE": 119.76624806722005,
+            "clip_similarity": 0.7863882184028625,
+            "structure_similarity": 0.5394459829551416,
+            "compile_error": " Expression expected\n    "
+        },
+        "17": {
+            "MAE": 117.5124452172256,
+            "clip_similarity": 0.6323909163475037,
+            "structure_similarity": 0.3090657554632251,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "18": {
+            "MAE": 119.60261313507701,
+            "clip_similarity": 0.7158538103103638,
+            "structure_similarity": 0.3181309465937585,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "19": {
+            "MAE": 119.80361000598904,
+            "clip_similarity": 0.7312705516815186,
+            "structure_similarity": 0.27545832031180584,
+            "compile_error": " Expected ',', got '&gt; (jsx tag end)'\n    "
+        },
+        "20": {
+            "MAE": 102.65120887408925,
+            "clip_similarity": 0.5861040949821472,
+            "structure_similarity": 0.5201115268010926,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "21": {
+            "MAE": 103.61356026785714,
+            "clip_similarity": 0.6363426446914673,
+            "structure_similarity": 0.47618411331177823,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "22": {
+            "MAE": 108.74614490327382,
+            "clip_similarity": 0.5821026563644409,
+            "structure_similarity": 0.48330910243730923,
+            "compile_error": " Expression expected\n    "
+        },
+        "23": {
+            "MAE": 103.2684555576989,
+            "clip_similarity": 0.6506869196891785,
+            "structure_similarity": 0.4863745211729438,
+            "compile_error": " Expected ',', got '}'\n     "
+        },
+        "24": {
+            "MAE": 85.596435546875,
+            "clip_similarity": 0.6931960582733154,
+            "structure_similarity": 0.656140956275562,
+            "compile_error": "NULL"
+        },
+        "25": {
+            "MAE": 116.16598792109929,
+            "clip_similarity": 0.6978777050971985,
+            "structure_similarity": 0.5098806060679599,
+            "compile_error": " Expression expected\n    "
+        },
+        "26": {
+            "MAE": 117.02755986341631,
+            "clip_similarity": 0.7480283975601196,
+            "structure_similarity": 0.5252592715458788,
+            "compile_error": " Expression expected\n    "
+        },
+        "27": {
+            "MAE": 109.40268322916725,
+            "clip_similarity": 0.711318850517273,
+            "structure_similarity": 0.3795703626515701,
+            "compile_error": " Expression expected\n    "
+        },
+        "28": {
+            "MAE": 84.52535871119281,
+            "clip_similarity": 0.65204918384552,
+            "structure_similarity": 0.6411175155342883,
+            "compile_error": "NULL"
+        },
+        "29": {
+            "MAE": 129.88648223876953,
+            "clip_similarity": 0.7302943468093872,
+            "structure_similarity": 0.44893067783634866,
+            "compile_error": "NULL"
+        },
+        "30": {
+            "MAE": 109.54200189488071,
+            "clip_similarity": 0.7165250778198242,
+            "structure_similarity": 0.4314545266843449,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "31": {
+            "MAE": 129.65251668294272,
+            "clip_similarity": 0.6897252202033997,
+            "structure_similarity": 0.43180145463041686,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "32": {
+            "MAE": 116.53006808557242,
+            "clip_similarity": 0.7307153344154358,
+            "structure_similarity": 0.48880303135907316,
+            "compile_error": " Expression expected\n    "
+        },
+        "33": {
+            "MAE": 119.89347585042317,
+            "clip_similarity": 0.7022440433502197,
+            "structure_similarity": 0.43757161315081505,
+            "compile_error": " Expected ',', got '}'\n    "
+        },
+        "34": {
+            "MAE": 114.67088409251413,
+            "clip_similarity": 0.6353805065155029,
+            "structure_similarity": 0.48219436590990655,
+            "compile_error": " Expression expected\n    "
+        },
+        "35": {
+            "MAE": 113.7419478214752,
+            "clip_similarity": 0.6715323328971863,
+            "structure_similarity": 0.4415439800280659,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "36": {
+            "MAE": 105.28828430175781,
+            "clip_similarity": 0.6878332495689392,
+            "structure_similarity": 0.5575587405802568,
+            "compile_error": " Expected ',', got '}'\n     "
+        },
+        "37": {
+            "MAE": 121.00925021701389,
+            "clip_similarity": 0.6766361594200134,
+            "structure_similarity": 0.5452328538474381,
+            "compile_error": " Expression expected\n   "
+        },
+        "38": {
+            "MAE": 121.21075416068008,
+            "clip_similarity": 0.6255709528923035,
+            "structure_similarity": 0.5222351539841327,
+            "compile_error": " Expression expected\n    "
+        },
+        "39": {
+            "MAE": 119.65122184424969,
+            "clip_similarity": 0.6071075797080994,
+            "structure_similarity": 0.5103779803156308,
+            "compile_error": " Expression expected\n    "
+        },
+        "40": {
+            "MAE": 116.73162930253623,
+            "clip_similarity": 0.6884069442749023,
+            "structure_similarity": 0.6340568595574659,
+            "compile_error": "NULL"
+        },
+        "41": {
+            "MAE": 91.6835489828913,
+            "clip_similarity": 0.7384528517723083,
+            "structure_similarity": 0.445585310077104,
+            "compile_error": " Expected ',', got '}'\n     "
+        },
+        "42": {
+            "MAE": 97.98200207764117,
+            "clip_similarity": 0.7074874043464661,
+            "structure_similarity": 0.5746168344791168,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "43": {
+            "MAE": 113.38970542779427,
+            "clip_similarity": 0.6860232353210449,
+            "structure_similarity": 0.4930215227029986,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "44": {
+            "MAE": 82.12636574074074,
+            "clip_similarity": 0.7244706153869629,
+            "structure_similarity": 0.5134271107732863,
+            "compile_error": " Expression expected\n    "
+        },
+        "45": {
+            "MAE": 84.21192713838971,
+            "clip_similarity": 0.7363038063049316,
+            "structure_similarity": 0.40771589516533646,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "46": {
+            "MAE": 79.66002655029297,
+            "clip_similarity": 0.5759782195091248,
+            "structure_similarity": 0.646967517540186,
+            "compile_error": "NULL"
+        },
+        "47": {
+            "MAE": 120.15530800608407,
+            "clip_similarity": 0.6385782957077026,
+            "structure_similarity": 0.3770299795687361,
+            "compile_error": " Expression expected\n    "
+        },
+        "48": {
+            "MAE": 114.30327119883042,
+            "clip_similarity": 0.6781321167945862,
+            "structure_similarity": 0.5594676224420764,
+            "compile_error": " 'import', and 'export' cannot be used outside of module code\n     "
+        },
+        "49": {
+            "MAE": 87.88694380144032,
+            "clip_similarity": 0.7148825526237488,
+            "structure_similarity": 0.41700120582749683,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "50": {
+            "MAE": 114.69272902658925,
+            "clip_similarity": 0.7201617360115051,
+            "structure_similarity": 0.368022957229126,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "51": {
+            "MAE": 117.94011991767474,
+            "clip_similarity": 0.7659432291984558,
+            "structure_similarity": 0.41331233823993613,
+            "compile_error": " Expected ',', got '}'\n     "
+        },
+        "52": {
+            "MAE": 115.2878170890835,
+            "clip_similarity": 0.675743043422699,
+            "structure_similarity": 0.3615937578807093,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "53": {
+            "MAE": 120.05965003188776,
+            "clip_similarity": 0.6748753786087036,
+            "structure_similarity": 0.5506691162607753,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "54": {
+            "MAE": 120.09879008661049,
+            "clip_similarity": 0.80100417137146,
+            "structure_similarity": 0.532217068182495,
+            "compile_error": " Expected ',', got '}'\n    "
+        },
+        "55": {
+            "MAE": 99.64848090277778,
+            "clip_similarity": 0.5697301626205444,
+            "structure_similarity": 0.5542305179672071,
+            "compile_error": " Expression expected\n    "
+        },
+        "56": {
+            "MAE": 91.26327514648438,
+            "clip_similarity": 0.6261507272720337,
+            "structure_similarity": 0.6432611333346314,
+            "compile_error": "NULL"
+        },
+        "57": {
+            "MAE": 94.42086362243761,
+            "clip_similarity": 0.5889118909835815,
+            "structure_similarity": 0.4089013894665434,
+            "compile_error": " Expression expected\n    "
+        },
+        "58": {
+            "MAE": 92.21527562912541,
+            "clip_similarity": 0.7514981627464294,
+            "structure_similarity": 0.5813053504725103,
+            "compile_error": "NULL"
+        },
+        "59": {
+            "MAE": 97.31794965277778,
+            "clip_similarity": 0.5489986538887024,
+            "structure_similarity": 0.4090110178544501,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "60": {
+            "MAE": 84.87225596110027,
+            "clip_similarity": 0.6932241916656494,
+            "structure_similarity": 0.5205423766979195,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "61": {
+            "MAE": 107.14298247862882,
+            "clip_similarity": 0.6909809112548828,
+            "structure_similarity": 0.6566215258288708,
+            "compile_error": "NULL"
+        },
+        "62": {
+            "MAE": 116.63649640764508,
+            "clip_similarity": 0.7192772626876831,
+            "structure_similarity": 0.5433282706070499,
+            "compile_error": " Expression expected\n    "
+        },
+        "63": {
+            "MAE": 109.72119491906474,
+            "clip_similarity": 0.6115760803222656,
+            "structure_similarity": 0.568763178890545,
+            "compile_error": " Unexpected token `Card`. Expected jsx identifier\n    "
+        },
+        "64": {
+            "MAE": 116.77786147697151,
+            "clip_similarity": 0.7210829257965088,
+            "structure_similarity": 0.5421051569126547,
+            "compile_error": " Expression expected\n    "
+        },
+        "65": {
+            "MAE": 124.57290161368016,
+            "clip_similarity": 0.6694641709327698,
+            "structure_similarity": 0.2767642408902179,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "66": {
+            "MAE": 90.61215209960938,
+            "clip_similarity": 0.7661949396133423,
+            "structure_similarity": 0.6632439052148518,
+            "compile_error": "NULL"
+        },
+        "67": {
+            "MAE": 114.21214790603742,
+            "clip_similarity": 0.7159342169761658,
+            "structure_similarity": 0.46396856468426156,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "68": {
+            "MAE": 113.11040496826172,
+            "clip_similarity": 0.7989456057548523,
+            "structure_similarity": 0.5348360250715347,
+            "compile_error": " Expression expected\n    "
+        },
+        "69": {
+            "MAE": 115.83534240722656,
+            "clip_similarity": 0.7382189035415649,
+            "structure_similarity": 0.5715526735155684,
+            "compile_error": "NULL"
+        },
+        "70": {
+            "MAE": 98.32387801791278,
+            "clip_similarity": 0.7150071263313293,
+            "structure_similarity": 0.6162593196197987,
+            "compile_error": "NULL"
+        },
+        "71": {
+            "MAE": 97.59696390357503,
+            "clip_similarity": 0.7039528489112854,
+            "structure_similarity": 0.6191081242859203,
+            "compile_error": "NULL"
+        },
+        "72": {
+            "MAE": 119.26056690705128,
+            "clip_similarity": 0.7405721545219421,
+            "structure_similarity": 0.5118582174886593,
+            "compile_error": " Expression expected\n    "
+        },
+        "73": {
+            "MAE": 99.37626920244108,
+            "clip_similarity": 0.692823588848114,
+            "structure_similarity": 0.46155105579798544,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "74": {
+            "MAE": 89.20766996133207,
+            "clip_similarity": 0.7906816005706787,
+            "structure_similarity": 0.6227739884772161,
+            "compile_error": "NULL"
+        },
+        "75": {
+            "MAE": 102.59302722193347,
+            "clip_similarity": 0.7551791071891785,
+            "structure_similarity": 0.6371874297752953,
+            "compile_error": "NULL"
+        },
+        "76": {
+            "MAE": 113.49299733231707,
+            "clip_similarity": 0.6147220134735107,
+            "structure_similarity": 0.49986446807470913,
+            "compile_error": " Expression expected\n    "
+        },
+        "77": {
+            "MAE": 105.92627818035427,
+            "clip_similarity": 0.65159010887146,
+            "structure_similarity": 0.37315121203376694,
+            "compile_error": " Expression expected\n    "
+        },
+        "78": {
+            "MAE": 112.80648118622449,
+            "clip_similarity": 0.6572250723838806,
+            "structure_similarity": 0.49507767972929817,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        },
+        "79": {
+            "MAE": 117.83536391938149,
+            "clip_similarity": 0.770688533782959,
+            "structure_similarity": 0.5175638165963989,
+            "compile_error": " Expression expected\n    "
+        },
+        "80": {
+            "MAE": 109.07147593557099,
+            "clip_similarity": 0.6933273077011108,
+            "structure_similarity": 0.49484094114246363,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n   "
+        },
+        "81": {
+            "MAE": 112.23620219358273,
+            "clip_similarity": 0.7272721529006958,
+            "structure_similarity": 0.3739830808429025,
+            "compile_error": " Expression expected\n    "
+        },
+        "82": {
+            "MAE": 116.20616396127798,
+            "clip_similarity": 0.7083764672279358,
+            "structure_similarity": 0.5131233244908646,
+            "compile_error": " Expression expected\n    "
+        },
+        "83": {
+            "MAE": 114.89001913265307,
+            "clip_similarity": 0.8026167750358582,
+            "structure_similarity": 0.5223221619973268,
+            "compile_error": " Unexpected token `div`. Expected jsx identifier\n    "
+        }
+    }
+}

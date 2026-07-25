@@ -1,0 +1,752 @@
+{
+  "gemini-2.0-flash": {
+    "angular": {
+      "3": "good edit",
+      "4": "no edit",
+      "5": "good edit",
+      "6": "no edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "wrong edit",
+      "11": "unnecessary modification",
+      "12": "good edit"
+    },
+    "vue": {
+      "6": "good edit",
+      "7": "partial edit",
+      "8": "unnecessary modification",
+      "9": "unnecessary modification",
+      "10": "unnecessary modification",
+      "11": "unnecessary modification",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "partial edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "good edit",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "unnecessary modification",
+      "29": "good edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "good edit"
+    },
+    "react": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "wrong edit"
+    }
+  },
+  "claude-3-7-sonnet-20250219": {
+    "angular": {
+      "5": "good edit",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "no edit",
+      "10": "good edit",
+      "11": "unnecessary modification",
+      "12": "good edit",
+      "3": "good edit",
+      "4": "good edit"
+    },
+    "vue": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "wrong edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "good edit",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "unnecessary modification",
+      "29": "partial edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "good edit"
+    },
+    "react": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "partial edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    }
+  },
+  "gpt-4o-2024-11-20": {
+    "angular": {
+      "3": "good edit",
+      "4": "no edit",
+      "5": "good edit",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "no edit",
+      "10": "good edit",
+      "11": "unnecessary modification",
+      "12": "good edit"
+    },
+    "vue": {
+      "6": "wrong edit",
+      "7": "compile error",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "unnecessary modification",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "unnecessary modification",
+      "29": "good edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "partial edit"
+    },
+    "react": {
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "compile error",
+      "6": "good edit"
+    }
+  },
+  "Llama-3.2-11B-Vision-Instruct": {
+    "angular": {
+      "3": "compile error",
+      "4": "compile error",
+      "5": "compile error",
+      "6": "compile error",
+      "7": "compile error",
+      "8": "good edit",
+      "9": "unnecessary modification",
+      "10": "unnecessary modification",
+      "11": "wrong edit",
+      "12": "wrong edit"
+    },
+    "vue": {
+      "6": "compile error",
+      "7": "compile error",
+      "8": "wrong edit",
+      "9": "compile error",
+      "10": "good edit",
+      "11": "compile error",
+      "12": "compile error",
+      "13": "wrong edit",
+      "14": "good edit",
+      "15": "partial edit"
+    },
+    "vanilla": {
+      "31": "unnecessary modification",
+      "32": "unnecessary modification",
+      "23": "wrong edit",
+      "24": "wrong object",
+      "25": "no edit",
+      "26": "unnecessary modification",
+      "27": "compile error",
+      "28": "good edit",
+      "29": "compile error",
+      "30": "good edit"
+    },
+    "react": {
+      "9": "unnecessary modification",
+      "10": "compile error",
+      "11": "compile error",
+      "12": "partial edit",
+      "13": "good edit",
+      "14": "compile error",
+      "15": "compile error",
+      "6": "compile error",
+      "7": "partial edit",
+      "8": "compile error"
+    }
+  },
+  "Llama-3.2-90B-Vision-Instruct": {
+    "angular": {
+      "3": "compile error",
+      "4": "no edit",
+      "5": "unnecessary modification",
+      "6": "compile error",
+      "7": "wrong edit",
+      "8": "unnecessary modification",
+      "9": "unnecessary modification",
+      "10": "unnecessary modification",
+      "11": "unnecessary modification",
+      "12": "unnecessary modification"
+    },
+    "vue": {
+      "6": "compile error",
+      "7": "good edit",
+      "8": "unnecessary modification",
+      "9": "compile error",
+      "10": "good edit",
+      "11": "wrong edit",
+      "12": "good edit",
+      "13": "wrong edit",
+      "14": "unnecessary modification",
+      "15": "partial edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "wrong object",
+      "25": "compile error",
+      "26": "compile error",
+      "27": "good edit",
+      "28": "good edit",
+      "29": "wrong edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "partial edit"
+    },
+    "react": {
+      "6": "unnecessary modification",
+      "7": "compile error",
+      "8": "wrong edit",
+      "9": "good edit",
+      "10": "compile error",
+      "11": "good edit",
+      "12": "unnecessary modification",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "compile error"
+    }
+  },
+  "pixtral-12b-2409": {
+    "angular": {
+      "3": "good edit",
+      "4": "partial edit",
+      "5": "no edit",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "no edit",
+      "10": "partial edit",
+      "11": "no edit",
+      "12": "wrong edit"
+    },
+    "vue": {
+      "6": "wrong edit",
+      "7": "partial edit",
+      "8": "unnecessary modification",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "no edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "partial edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "wrong object",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "no edit",
+      "29": "good edit",
+      "30": "partial edit",
+      "31": "partial edit",
+      "32": "partial edit"
+    },
+    "react": {
+      "6": "good edit",
+      "7": "unnecessary modification",
+      "8": "wrong object",
+      "9": "good edit",
+      "10": "unnecessary modification",
+      "11": "good edit",
+      "12": "partial edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "wrong edit"
+    }
+  },
+  "pixtral-large-latest": {
+    "angular": {
+      "3": "good edit",
+      "4": "wrong edit",
+      "5": "good edit",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "wrong edit",
+      "11": "unnecessary modification",
+      "12": "wrong edit"
+    },
+    "vue": {
+      "6": "wrong edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "wrong edit",
+      "14": "good edit",
+      "15": "partial edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "unnecessary modification",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "unnecessary modification",
+      "29": "good edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "good edit"
+    },
+    "react": {
+      "6": "good edit",
+      "7": "unnecessary modification",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "partial edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    }
+  },
+  "qwen2.5-vl-7b-instruct": {
+    "angular": {
+      "5": "unnecessary modification",
+      "6": "no edit",
+      "7": "compile error",
+      "8": "compile error",
+      "9": "compile error",
+      "10": "compile error",
+      "11": "compile error",
+      "12": "compile error",
+      "3": "compile error",
+      "4": "compile error"
+    },
+    "vue": {
+      "6": "unnecessary modification",
+      "7": "good edit",
+      "8": "compile error",
+      "9": "unnecessary modification",
+      "10": "good edit",
+      "11": "compile error",
+      "12": "unnecessary modification",
+      "13": "compile error",
+      "14": "unnecessary modification",
+      "15": "unnecessary modification"
+    },
+    "vanilla": {
+      "23": "wrong edit",
+      "24": "unnecessary modification",
+      "25": "unnecessary modification",
+      "26": "wrong edit",
+      "27": "unnecessary modification",
+      "28": "unnecessary modification",
+      "29": "unnecessary modification",
+      "30": "unnecessary modification",
+      "31": "wrong edit",
+      "32": "no edit"
+    },
+    "react": {
+      "6": "compile error",
+      "7": "compile error",
+      "8": "no edit",
+      "9": "compile error",
+      "10": "compile error",
+      "11": "compile error",
+      "12": "wrong edit",
+      "13": "compile error",
+      "14": "compile error",
+      "15": "compile error"
+    }
+  },
+  "qwen2.5-vl-72b-instruct": {
+    "angular": {
+      "3": "good edit",
+      "4": "no edit",
+      "5": "good edit",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "no edit",
+      "10": "good edit",
+      "11": "unnecessary modification",
+      "12": "wrong edit"
+    },
+    "vue": {
+      "6": "wrong edit",
+      "7": "partial edit",
+      "8": "unnecessary modification",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    },
+    "vanilla": {
+      "29": "good edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "good edit",
+      "23": "good edit",
+      "24": "unnecessary modification",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "unnecessary modification"
+    },
+    "react": {
+      "6": "wrong edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    }
+  },
+  "gemini-2.5-pro": {
+    "angular": {
+      "3": "good edit",
+      "4": "good edit",
+      "5": "compile error",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "unnecessary modification",
+      "10": "good edit",
+      "11": "unnecessary modification",
+      "12": "unnecessary modification"
+    },
+    "vue": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "wrong edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "unnecessary modification",
+      "14": "unnecessary modification",
+      "15": "good edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "good edit",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "good edit",
+      "29": "good edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "good edit"
+    },
+    "react": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "unnecessary modification",
+      "9": "wrong edit",
+      "10": "good edit",
+      "11": "partial edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    }
+  },
+  "gpt-5": {
+    "angular": {
+      "3": "good edit",
+      "4": "good edit",
+      "5": "wrong edit",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "unnecessary modification",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit"
+    },
+    "vue": {
+      "6": "good edit",
+      "7": "partial edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "unnecessary modification",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "unnecessary modification",
+      "15": "good edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "good edit",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "good edit",
+      "29": "good edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "good edit"
+    },
+    "react": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "unnecessary modification",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "compile error",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    }
+  },
+  "claude-sonnet-4-6": {
+    "angular": {
+      "3": "good edit",
+      "4": "good edit",
+      "5": "good edit",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit"
+    },
+    "vue": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "wrong edit",
+      "15": "good edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "good edit",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "good edit",
+      "29": "good edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "good edit"
+    },
+    "react": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "partial edit",
+      "12": "good edit",
+      "13": "wrong edit",
+      "14": "good edit",
+      "15": "good edit"
+    }
+  },
+  "claude-sonnet-4-20250514": {
+    "angular": {
+      "3": "good edit",
+      "4": "compile error",
+      "5": "good edit",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "unnecessary modification",
+      "9": "unnecessary modification",
+      "10": "good edit",
+      "11": "wrong edit",
+      "12": "compile error"
+    },
+    "vue": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "wrong edit",
+      "9": "good edit",
+      "10": "unnecessary modification",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "unnecessary modification",
+      "15": "good edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "unnecessary modification",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "good edit",
+      "29": "good edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "good edit"
+    },
+    "react": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "compile error",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    }
+  },
+  "gemini-3.1-pro-preview": {
+    "angular": {
+      "3": "good edit",
+      "4": "good edit",
+      "5": "good edit",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit"
+    },
+    "vue": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "unnecessary modification",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "wrong edit",
+      "15": "good edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "good edit",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "good edit",
+      "29": "good edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "good edit"
+    },
+    "react": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "compile error",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    }
+  },
+  "gpt-5.4-2026-03-05": {
+    "angular": {
+      "3": "good edit",
+      "4": "good edit",
+      "5": "unnecessary modification",
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "wrong edit",
+      "12": "good edit"
+    },
+    "vue": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "good edit",
+      "9": "unnecessary modification",
+      "10": "good edit",
+      "11": "good edit",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    },
+    "vanilla": {
+      "23": "good edit",
+      "24": "good edit",
+      "25": "good edit",
+      "26": "good edit",
+      "27": "good edit",
+      "28": "good edit",
+      "29": "good edit",
+      "30": "good edit",
+      "31": "good edit",
+      "32": "good edit"
+    },
+    "react": {
+      "6": "good edit",
+      "7": "good edit",
+      "8": "unnecessary modification",
+      "9": "good edit",
+      "10": "good edit",
+      "11": "compile error",
+      "12": "good edit",
+      "13": "good edit",
+      "14": "good edit",
+      "15": "good edit"
+    }
+  }
+}

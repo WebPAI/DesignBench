@@ -1,0 +1,2344 @@
+{
+  "qwen2.5-vl-72b-instruct": {
+    "angular": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "element missing",
+        "element size",
+        "element color",
+        "element text"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "layout disorder",
+        "element size",
+        "element color",
+        "element text",
+        "element position"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "element size",
+        "element position",
+        "element missing"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "element missing",
+        "element position"
+      ],
+      "5": [
+        "element position",
+        "layout disorder",
+        "element size"
+      ],
+      "6": [
+        "layout disorder"
+      ],
+      "7": [
+        "layout disorder",
+        "element missing",
+        "element size"
+      ],
+      "8": [
+        "element text",
+        "element missing"
+      ],
+      "9": [
+        "good generation",
+        "element color",
+        "element position"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "element position",
+        "element size"
+      ],
+      "2": [
+        "element color",
+        "element position"
+      ],
+      "3": [
+        "element size",
+        "element color"
+      ],
+      "4": [
+        "element size",
+        "good generation"
+      ],
+      "5": [
+        "element position",
+        "element size"
+      ],
+      "6": [
+        "layout disorder"
+      ],
+      "7": [
+        "element missing",
+        "element text",
+        "element color"
+      ],
+      "8": [
+        "element size",
+        "element position"
+      ],
+      "9": [
+        "element size",
+        "good generation"
+      ],
+      "10": [
+        "element position"
+      ]
+    },
+    "react": {
+      "1": [
+        "element size",
+        "element missing",
+        "element position",
+        "element color",
+        "element text"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "element position",
+        "element color",
+        "good generation"
+      ],
+      "4": [
+        "element position",
+        "element missing"
+      ],
+      "5": [
+        "element size",
+        "element position"
+      ],
+      "6": [
+        "element missing",
+        "element size"
+      ],
+      "7": [
+        "element position",
+        "element missing"
+      ],
+      "8": [
+        "element color",
+        "element position",
+        "element missing"
+      ],
+      "9": [
+        "element size",
+        "element missing"
+      ],
+      "10": [
+        "element size",
+        "element color",
+        "element missing"
+      ]
+    }
+  },
+  "qwen2.5-vl-7b-instruct": {
+    "angular": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "element size",
+        "element color",
+        "element position"
+      ],
+      "2": [
+        "element size",
+        "element color",
+        "element missing"
+      ],
+      "3": [
+        "element color",
+        "good generation"
+      ],
+      "4": [
+        "element size",
+        "element position"
+      ],
+      "5": [
+        "element position",
+        "element size"
+      ],
+      "6": [
+        "element size",
+        "element missing",
+        "element position"
+      ],
+      "7": [
+        "element missing",
+        "element color",
+        "element size"
+      ],
+      "8": [
+        "element size",
+        "element position",
+        "element color"
+      ],
+      "9": [
+        "element position",
+        "element size"
+      ],
+      "10": [
+        "element missing",
+        "element size"
+      ]
+    },
+    "react": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    }
+  },
+  "pixtral-large-latest": {
+    "angular": {
+      "1": [
+        "layout disorder",
+        "element position",
+        "element color",
+        "element size"
+      ],
+      "2": [
+        "element size",
+        "element missing",
+        "element position"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "layout disorder"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "element size",
+        "element missing",
+        "element position",
+        "layout disorder"
+      ]
+    },
+    "vue": {
+      "1": [
+        "element size",
+        "element missing",
+        "element color"
+      ],
+      "2": [
+        "element missing",
+        "element size",
+        "element text",
+        "element position"
+      ],
+      "3": [
+        "element missing",
+        "element size",
+        "element position"
+      ],
+      "4": [
+        "element missing",
+        "element color"
+      ],
+      "5": [
+        "layout disorder",
+        "element missing",
+        "element size"
+      ],
+      "6": [
+        "element missing",
+        "element size",
+        "element position"
+      ],
+      "7": [
+        "layout disorder",
+        "element missing",
+        "element size"
+      ],
+      "8": [
+        "element missing",
+        "element size"
+      ],
+      "9": [
+        "element size",
+        "element color",
+        "element missing"
+      ],
+      "10": [
+        "element size",
+        "element missing"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "element missing",
+        "element color"
+      ],
+      "2": [
+        "element color",
+        "element missing"
+      ],
+      "3": [
+        "element color",
+        "element missing",
+        "element position"
+      ],
+      "4": [
+        "element position",
+        "element size"
+      ],
+      "5": [
+        "element position",
+        "element color",
+        "good generation"
+      ],
+      "6": [
+        "layout disorder",
+        "element position",
+        "element size",
+        "element missing"
+      ],
+      "7": [
+        "element missing",
+        "element size",
+        "element color",
+        "element position"
+      ],
+      "8": [
+        "element size",
+        "element position"
+      ],
+      "9": [
+        "element position",
+        "element color",
+        "element missing"
+      ],
+      "10": [
+        "element position"
+      ]
+    },
+    "react": {
+      "1": [
+        "element position",
+        "element missing"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "element missing"
+      ],
+      "4": [
+        "layout disorder",
+        "element missing",
+        "element position"
+      ],
+      "5": [
+        "element missing"
+      ],
+      "6": [
+        "element missing",
+        "element position"
+      ],
+      "7": [
+        "element position",
+        "element size",
+        "element missing"
+      ],
+      "8": [
+        "element missing",
+        "element color",
+        "element size",
+        "element position"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    }
+  },
+  "pixtral-12b-2409": {
+    "angular": {
+      "1": [
+        "layout disorder",
+        "element missing",
+        "element size"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "element size",
+        "element missing",
+        "element position",
+        "element text"
+      ]
+    },
+    "vue": {
+      "1": [
+        "layout disorder",
+        "element position",
+        "element size",
+        "element missing",
+        "element color"
+      ],
+      "2": [
+        "element missing",
+        "element size",
+        "element text",
+        "layout disorder"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "element missing",
+        "element size",
+        "element position"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "element missing",
+        "element size"
+      ],
+      "7": [
+        "element missing"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "element size",
+        "element position",
+        "element color",
+        "element missing",
+        "layout disorder"
+      ],
+      "10": [
+        "element missing",
+        "element size",
+        "element position",
+        "layout disorder"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "element position",
+        "element color"
+      ],
+      "2": [
+        "element color",
+        "element missing",
+        "element text"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "element position",
+        "element size"
+      ],
+      "5": [
+        "element missing",
+        "element size"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "element missing",
+        "layout disorder",
+        "element position",
+        "element size"
+      ],
+      "8": [
+        "element position"
+      ],
+      "9": [
+        "layout disorder",
+        "element position",
+        "element missing"
+      ],
+      "10": [
+        "element size",
+        "element position"
+      ]
+    },
+    "react": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "element missing"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "layout disorder",
+        "element position",
+        "element missing"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "element missing",
+        "element position",
+        "layout disorder",
+        "element color"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    }
+  },
+  "Llama-3.2-90B-Vision-Instruct": {
+    "angular": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "element missing",
+        "element size",
+        "element text",
+        "element color",
+        "layout disorder"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "element color",
+        "element missing",
+        "layout disorder",
+        "element size",
+        "element position",
+        "element text"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "element missing",
+        "element size"
+      ],
+      "9": [
+        "element color",
+        "element size",
+        "element missing",
+        "layout disorder"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "element missing",
+        "element size",
+        "element color",
+        "element position"
+      ],
+      "3": [
+        "element text",
+        "element missing",
+        "element color",
+        "element position",
+        "layout disorder"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "element missing",
+        "element text",
+        "layout disorder"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "element missing",
+        "element size",
+        "element position",
+        "layout disorder"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "react": {
+      "1": [
+        "layout disorder",
+        "element position",
+        "element color",
+        "element missing"
+      ],
+      "2": [
+        "element missing",
+        "layout disorder",
+        "element text",
+        "element position",
+        "element color"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "element missing",
+        "element size",
+        "element position"
+      ],
+      "5": [
+        "element missing",
+        "element position",
+        "element size",
+        "element color"
+      ],
+      "6": [
+        "element position",
+        "element missing"
+      ],
+      "7": [
+        "element missing",
+        "element size"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "layout disorder",
+        "element position",
+        "element missing",
+        "element size",
+        "element color"
+      ]
+    }
+  },
+  "Llama-3.2-11B-Vision-Instruct": {
+    "angular": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "element position",
+        "layout disorder",
+        "element color",
+        "element missing"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "element missing",
+        "element size"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "react": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "element missing",
+        "element size",
+        "layout disorder"
+      ],
+      "8": [
+        "element missing",
+        "element size",
+        "layout disorder",
+        "element color",
+        "element text",
+        "element position"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    }
+  },
+  "gpt-4o-2024-11-20": {
+    "angular": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "element size",
+        "element missing",
+        "element color"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "layout disorder"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "element size",
+        "element color",
+        "element missing"
+      ],
+      "2": [
+        "element size",
+        "element missing",
+        "element color"
+      ],
+      "3": [
+        "element missing",
+        "element size",
+        "element color"
+      ],
+      "4": [
+        "element position",
+        "element size",
+        "good generation",
+        "element missing"
+      ],
+      "5": [
+        "element size",
+        "element missing"
+      ],
+      "6": [
+        "element missing",
+        "element size"
+      ],
+      "7": [
+        "element size",
+        "good generation"
+      ],
+      "8": [
+        "element missing",
+        "element size",
+        "element color"
+      ],
+      "9": [
+        "element color",
+        "layout disorder",
+        "element position"
+      ],
+      "10": [
+        "element color",
+        "element missing"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "element color",
+        "element missing",
+        "element position"
+      ],
+      "3": [
+        "layout disorder",
+        "element position",
+        "element color",
+        "element size",
+        "element missing"
+      ],
+      "4": [
+        "element position",
+        "element size",
+        "good generation"
+      ],
+      "5": [
+        "element size",
+        "element missing"
+      ],
+      "6": [
+        "element missing",
+        "element size"
+      ],
+      "7": [
+        "element size",
+        "element missing"
+      ],
+      "8": [
+        "element position",
+        "element size"
+      ],
+      "9": [
+        "good generation",
+        "element missing",
+        "element position"
+      ],
+      "10": [
+        "element position",
+        "element size",
+        "good generation"
+      ]
+    },
+    "react": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "element missing"
+      ],
+      "3": [
+        "element color",
+        "good generation",
+        "element position"
+      ],
+      "4": [
+        "element position",
+        "element size",
+        "good generation"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "element position",
+        "layout disorder"
+      ],
+      "7": [
+        "element position",
+        "element size",
+        "element missing"
+      ],
+      "8": [
+        "element position",
+        "element color"
+      ],
+      "9": [
+        "element missing",
+        "element size",
+        "element color"
+      ],
+      "10": [
+        "element size",
+        "element color",
+        "element missing"
+      ]
+    }
+  },
+  "claude-3-7-sonnet-20250219": {
+    "angular": {
+      "1": [
+        "element position",
+        "good generation",
+        "element color"
+      ],
+      "2": [
+        "element position",
+        "element color",
+        "element missing"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "element color",
+        "layout disorder"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "element missing",
+        "element size"
+      ],
+      "2": [
+        "element position",
+        "element size",
+        "element missing"
+      ],
+      "3": [
+        "element size",
+        "element color"
+      ],
+      "4": [
+        "good generation",
+        "element missing",
+        "element size"
+      ],
+      "5": [
+        "element size",
+        "good generation",
+        "element missing"
+      ],
+      "6": [
+        "element missing",
+        "layout disorder"
+      ],
+      "7": [
+        "good generation",
+        "element size"
+      ],
+      "8": [
+        "element color",
+        "element size"
+      ],
+      "9": [
+        "element size",
+        "good generation"
+      ],
+      "10": [
+        "element size",
+        "good generation"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "element position"
+      ],
+      "2": [
+        "element color",
+        "element position"
+      ],
+      "3": [
+        "element size",
+        "layout disorder",
+        "element color"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "element size",
+        "good generation",
+        "element color"
+      ],
+      "6": [
+        "layout disorder",
+        "element size"
+      ],
+      "7": [
+        "element text",
+        "element size",
+        "element missing"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation",
+        "element size"
+      ],
+      "10": [
+        "good generation"
+      ]
+    },
+    "react": {
+      "1": [
+        "good generation",
+        "element size",
+        "element missing"
+      ],
+      "2": [
+        "element size",
+        "good generation"
+      ],
+      "3": [
+        "element size",
+        "good generation",
+        "element color"
+      ],
+      "4": [
+        "good generation",
+        "element size",
+        "element position"
+      ],
+      "5": [
+        "element color",
+        "good generation",
+        "element size"
+      ],
+      "6": [
+        "element size",
+        "good generation",
+        "element missing"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "good generation",
+        "element color"
+      ],
+      "9": [
+        "element position",
+        "good generation",
+        "element size"
+      ],
+      "10": [
+        "element position",
+        "element size"
+      ]
+    }
+  },
+  "gemini-2.0-flash": {
+    "angular": {
+      "1": [
+        "element missing",
+        "layout disorder",
+        "element position",
+        "element color"
+      ],
+      "2": [
+        "good generation",
+        "element size",
+        "element position"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "good generation",
+        "element color",
+        "element position"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "element position",
+        "element color",
+        "element missing"
+      ],
+      "2": [
+        "element position",
+        "element missing",
+        "element size",
+        "layout disorder"
+      ],
+      "3": [
+        "element size",
+        "element missing",
+        "element position",
+        "element color"
+      ],
+      "4": [
+        "layout disorder",
+        "good generation",
+        "element position"
+      ],
+      "5": [
+        "element position",
+        "element missing"
+      ],
+      "6": [
+        "element size",
+        "layout disorder",
+        "element position"
+      ],
+      "7": [
+        "layout disorder",
+        "element position",
+        "element missing",
+        "element color",
+        "element size"
+      ],
+      "8": [
+        "element missing",
+        "good generation",
+        "element size"
+      ],
+      "9": [
+        "good generation",
+        "element size"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "element missing",
+        "element color",
+        "element size"
+      ],
+      "2": [
+        "element color",
+        "element position"
+      ],
+      "3": [
+        "element color",
+        "element size",
+        "good generation"
+      ],
+      "4": [
+        "element size",
+        "good generation"
+      ],
+      "5": [
+        "element size",
+        "good generation"
+      ],
+      "6": [
+        "layout disorder"
+      ],
+      "7": [
+        "element position",
+        "element size"
+      ],
+      "8": [
+        "element position",
+        "element size"
+      ],
+      "9": [
+        "element missing",
+        "good generation",
+        "element size"
+      ],
+      "10": [
+        "element size",
+        "element position"
+      ]
+    },
+    "react": {
+      "1": [
+        "element missing",
+        "element position",
+        "good generation"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "element missing",
+        "good generation"
+      ],
+      "4": [
+        "good generation",
+        "element position"
+      ],
+      "5": [
+        "good generation",
+        "element position"
+      ],
+      "6": [
+        "good generation",
+        "element missing",
+        "element size"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "element size",
+        "good generation"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "element size",
+        "good generation"
+      ]
+    }
+  },
+  "gemini-2.5-pro": {
+    "angular": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "element missing",
+        "element position"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "element size"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "layout disorder",
+        "element missing",
+        "element size"
+      ],
+      "2": [
+        "layout disorder"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "element position",
+        "element size"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "layout disorder"
+      ],
+      "8": [
+        "element missing",
+        "element position"
+      ],
+      "9": [
+        "layout disorder"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "element color"
+      ],
+      "2": [
+        "element position"
+      ],
+      "3": [
+        "element color"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    },
+    "react": {
+      "1": [
+        "good generation"
+      ],
+      "2": [
+        "good generation"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "element color"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    }
+  },
+  "gpt-5": {
+    "angular": {
+      "1": [
+        "element color",
+        "element size"
+      ],
+      "2": [
+        "element missing",
+        "element position"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "element missing",
+        "element size",
+        "layout disorder"
+      ],
+      "2": [
+        "layout disorder",
+        "element missing"
+      ],
+      "3": [
+        "layout disorder",
+        "element size",
+        "element missing"
+      ],
+      "4": [
+        "layout disorder",
+        "element size",
+        "element position"
+      ],
+      "5": [
+        "layout disorder",
+        "element size"
+      ],
+      "6": [
+        "element position",
+        "element size"
+      ],
+      "7": [
+        "layout disorder",
+        "element size"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "layout disorder",
+        "element size",
+        "element position"
+      ],
+      "10": [
+        "layout disorder",
+        "element size",
+        "element position"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "element color",
+        "element missing"
+      ],
+      "2": [
+        "good generation"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "layout disorder",
+        "element size",
+        "element position"
+      ],
+      "10": [
+        "good generation"
+      ]
+    },
+    "react": {
+      "1": [
+        "element size",
+        "element position"
+      ],
+      "2": [
+        "good generation"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    }
+  },
+  "claude-sonnet-4-20250514": {
+    "angular": {
+      "1": [
+        "element position",
+        "element color"
+      ],
+      "2": [
+        "element position"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "compile error"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "element missing",
+        "layout disorder",
+        "element position",
+        "element size"
+      ],
+      "2": [
+        "element color",
+        "element position",
+        "element size"
+      ],
+      "3": [
+        "layout disorder",
+        "element missing",
+        "element size",
+        "element position"
+      ],
+      "4": [
+        "element position",
+        "element size",
+        "layout disorder"
+      ],
+      "5": [
+        "layout disorder",
+        "element size",
+        "element position"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "layout disorder",
+        "element size",
+        "element position"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "layout disorder",
+        "element size",
+        "element color"
+      ],
+      "10": [
+        "element color",
+        "element missing"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "good generation"
+      ],
+      "2": [
+        "good generation"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "element position"
+      ],
+      "10": [
+        "good generation"
+      ]
+    },
+    "react": {
+      "1": [
+        "good generation"
+      ],
+      "2": [
+        "good generation"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "element size"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    }
+  },
+  "gemini-3.1-pro-preview": {
+    "angular": {
+      "1": [
+        "good generation"
+      ],
+      "2": [
+        "good generation"
+      ],
+      "3": [
+        "element missing",
+        "layout disorder"
+      ],
+      "4": [
+        "element text",
+        "element missing"
+      ],
+      "5": [
+        "element missing"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "compile error"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "element missing",
+        "element size"
+      ],
+      "2": [
+        "good generation"
+      ],
+      "3": [
+        "element color",
+        "element position"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "compile error"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "good generation"
+      ],
+      "2": [
+        "good generation"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    },
+    "react": {
+      "1": [
+        "good generation"
+      ],
+      "2": [
+        "good generation"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "element size"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    }
+  },
+  "gpt-5.4-2026-03-05": {
+    "angular": {
+      "1": [
+        "compile error"
+      ],
+      "2": [
+        "element missing"
+      ],
+      "3": [
+        "compile error"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "element missing"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "element missing"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "element size",
+        "element position"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "element position"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "good generation"
+      ],
+      "2": [
+        "element size",
+        "element position"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    },
+    "react": {
+      "1": [
+        "element position"
+      ],
+      "2": [
+        "layout disorder",
+        "element position"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    }
+  },
+  "claude-sonnet-4-6": {
+    "angular": {
+      "1": [
+        "element color"
+      ],
+      "2": [
+        "compile error"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "compile error"
+      ],
+      "7": [
+        "compile error"
+      ],
+      "8": [
+        "compile error"
+      ],
+      "9": [
+        "element missing"
+      ],
+      "10": [
+        "compile error"
+      ]
+    },
+    "vue": {
+      "1": [
+        "element color",
+        "element missing"
+      ],
+      "2": [
+        "element color",
+        "element missing"
+      ],
+      "3": [
+        "element color",
+        "layout disorder"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "element missing",
+        "element size"
+      ],
+      "6": [
+        "element size"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "element size"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "element color",
+        "element size"
+      ]
+    },
+    "vanilla": {
+      "1": [
+        "element color"
+      ],
+      "2": [
+        "element color"
+      ],
+      "3": [
+        "element text",
+        "element color"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    },
+    "react": {
+      "1": [
+        "good generation"
+      ],
+      "2": [
+        "good generation"
+      ],
+      "3": [
+        "good generation"
+      ],
+      "4": [
+        "good generation"
+      ],
+      "5": [
+        "good generation"
+      ],
+      "6": [
+        "good generation"
+      ],
+      "7": [
+        "good generation"
+      ],
+      "8": [
+        "good generation"
+      ],
+      "9": [
+        "good generation"
+      ],
+      "10": [
+        "good generation"
+      ]
+    }
+  }
+}

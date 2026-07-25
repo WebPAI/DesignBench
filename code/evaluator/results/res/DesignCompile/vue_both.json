@@ -1,0 +1,1082 @@
+{
+    "claude-sonnet-4-6": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "gpt-5.4-2026-03-05": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "gemini-3.1-pro-preview": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "claude-sonnet-4-20250514": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "gpt-5": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "gemini-2.5-pro": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "claude-3-7-sonnet-20250219": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: rounded-lg"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "[vue/compiler-sfc] Unexpected token, expected \",\" (6:60)\n\n/Users/whalexiao/Downloads/pythonProject/UIEdit/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n115|  const accordionItems = ref([\n116|    {\n117|      title: 'How can I sell in other countries using Hotmart's payment system?',\n118|      content: 'Content for question 1',\n119|      open: false,"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "[vue/compiler-sfc] Unexpected token, expected \",\" (3:20)\n\n/Users/whalexiao/Downloads/pythonProject/UIEdit/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n118|  &lt;script setup lang=\"ts\"&gt;\n119|  const restaurants = [\n120|    { name: 'McDonald's', image: 'https://placehold.co/100x100' },\n121|    { name: 'KFC', image: 'https://placehold.co/100x100' },\n122|    { name: 'BurgerKing', image: 'https://placehold.co/100x100' },"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "[vue/compiler-sfc] Unexpected token, expected \",\" (25:65)\n\n/Users/whalexiao/Downloads/pythonProject/UIEdit/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n95 |      altText: 'Mail Old Game Icon'"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "[vue/compiler-sfc] Unexpected token, expected \",\" (18:11)\n\n/Users/whalexiao/Downloads/pythonProject/UIEdit/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n125|    setup(props) {\n126|      return () =&gt; (\n127|        &lt;div class=\"bg-white shadow rounded-lg p-6 flex flex-col items-center space-y-4\"&gt;\n128|          &lt;i class={`fas fa-${props.icon} text-blue-500 text-2xl`}&gt;&lt;/i&gt;\n129|          &lt;h2 class=\"text-lg font-medium\"&gt;{props.title}&lt;/h2&gt;"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "gpt-4o-2024-11-20": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: rounded-lg"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: p-4"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "[vue/compiler-sfc] Unexpected token, expected \",\" (21:11)\n\n/Users/whalexiao/Downloads/pythonProject/UIEdit/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n128|    setup(props) {\n129|      return () =&gt; (\n130|        &lt;div class=\"bg-white shadow rounded-lg p-6 flex flex-col items-center space-y-4\"&gt;\n131|          &lt;i class={`fas fa-${props.icon} text-blue-500 text-2xl`}&gt;&lt;/i&gt;\n132|          &lt;h2 class=\"text-lg font-medium\"&gt;{props.title}&lt;/h2&gt;"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Element is missing end tag."
+        }
+    },
+    "gemini-2.0-flash": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Element is missing end tag."
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: p-4"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "Llama-3.2-90B-Vision-Instruct": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: rounded-lg"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: px-4"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "blank"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Failed to resolve import \"@/components/ui/input.vue\" from \"src/components/HelloWorld.vue\". Does the file exist?"
+        }
+    },
+    "Llama-3.2-11B-Vision-Instruct": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: px-4"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "blank"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "[vue/compiler-sfc] Unexpected token, expected \",\" (5:7)\n\n/Users/whalexiao/Downloads/pythonProject/UIEdit/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n112|  \n113|  const ResourceCard = (props: { icon: string; title: string; description: string }) =&gt; (\n114|    &lt;div class=\"bg-white shadow rounded-lg p-6 flex flex-col items-center space-y-4\"&gt;\n115|      &lt;i class={`fas fa-${props.icon} text-blue-500 text-2xl`}&gt;&lt;/i&gt;\n116|      &lt;h2 class=\"text-lg font-medium\"&gt;{props.title}&lt;/h2&gt;"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "pixtral-large-latest": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Invalid end tag."
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "[vue/compiler-sfc] Unexpected token, expected \",\" (9:7)\n\n/Users/whalexiao/Downloads/pythonProject/UIEdit/DesignBench/web/my-vue-app/src/components/HelloWorld.vue\n116|  \n117|  const ResourceCard = (props: ResourceCardProps) =&gt; (\n118|    &lt;div class=\"bg-white shadow rounded-lg p-6 flex flex-col items-center space-y-4\"&gt;\n119|      &lt;i class={`fas fa-${props.icon} text-blue-500 text-2xl`}&gt;&lt;/i&gt;\n120|      &lt;h2 class=\"text-lg font-medium\"&gt;{props.title}&lt;/h2&gt;"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "pixtral-12b-2409": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: px-4"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Failed to resolve import \"@components/ui/input\" from \"src/components/HelloWorld.vue\". Does the file exist?"
+        }
+    },
+    "qwen2.5-vl-72b-instruct": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: bg-gray-50"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: bg-white"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Unexpected EOF in tag."
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Cannot apply unknown utility class: px-4"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "blank"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    },
+    "qwen2.5-vl-7b-instruct": {
+        "1": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Unexpected '/'. Escaping special characters with \\ may help."
+        },
+        "2": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Error parsing JavaScript expression: Unexpected token, expected \",\" (1:28)"
+        },
+        "3": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Invalid declaration: `.5rem`"
+        },
+        "4": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Error parsing JavaScript expression: Unexpected character '‘'. (1:3)"
+        },
+        "5": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Element is missing end tag."
+        },
+        "6": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "Invalid declaration: `-moz-transform`"
+        },
+        "7": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "blank"
+        },
+        "8": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "blank"
+        },
+        "9": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "blank"
+        },
+        "10": {
+            "MAE": 0,
+            "clip_similarity": 0,
+            "structure_similarity": 0,
+            "code_score": 0,
+            "compile_error": "NULL"
+        }
+    }
+}
