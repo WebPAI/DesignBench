@@ -158,6 +158,12 @@ mkdir tmp # creat the tmp file to store the temporary files
 from evaluator.main import *
 from evaluator.compile import *
 models = [
+    "claude-sonnet-4-6",
+    "gpt-5.4-2026-03-05",
+    "gemini-3.1-pro-preview",
+    "claude-sonnet-4-20250514",
+    "gpt-5",
+    "gemini-2.5-pro",
     "claude-3-7-sonnet-20250219",
     "gpt-4o-2024-11-20",
     "gemini-2.0-flash",
@@ -191,6 +197,12 @@ for frame_work in frame_works:
 from evaluator.main import *
 from evaluator.compile import *
 models = [
+    "claude-sonnet-4-6",
+    "gpt-5.4-2026-03-05",
+    "gemini-3.1-pro-preview",
+    "claude-sonnet-4-20250514",
+    "gpt-5",
+    "gemini-2.5-pro",
     "claude-3-7-sonnet-20250219",
     "gpt-4o-2024-11-20",
     "gemini-2.0-flash",
@@ -224,6 +236,12 @@ for frame_work in frame_works:
 from evaluator.main import *
 from evaluator.compile import *
 models = [
+    "claude-sonnet-4-6",
+    "gpt-5.4-2026-03-05",
+    "gemini-3.1-pro-preview",
+    "claude-sonnet-4-20250514",
+    "gpt-5",
+    "gemini-2.5-pro",
     "claude-3-7-sonnet-20250219",
     "gpt-4o-2024-11-20",
     "gemini-2.0-flash",
